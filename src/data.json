@@ -4,7 +4,7 @@
     "ProductName": "Perfume Feminino",
     "PriceSale": "80",
     "Promotion": false,
-    "ImagePath": "1737419019090-989818305-a0d6e266-ed18-4de5-91a1-510d3eae75a8.jfif",
+    "ImagePath": null,
     "IdCategory": 1,
     "Category": {
       "CategoryName": "Perfumes femininos"
@@ -15,7 +15,7 @@
     "ProductName": "Shampoo Revitalizante",
     "PriceSale": "35",
     "Promotion": false,
-    "ImagePath": "1737419052914-446863239-a0d6e266-ed18-4de5-91a1-510d3eae75a8.jfif",
+    "ImagePath": null,
     "IdCategory": 2,
     "Category": {
       "CategoryName": "Perfumes masculinos"
@@ -52,17 +52,6 @@
     "IdCategory": 5,
     "Category": {
       "CategoryName": "Desodorantes femininos"
-    }
-  },
-  {
-    "IdProduct": 6,
-    "ProductName": "Desodorante Aerosol Boticario",
-    "PriceSale": "35",
-    "Promotion": true,
-    "ImagePath": null,
-    "IdCategory": 2,
-    "Category": {
-      "CategoryName": "Perfumes masculinos"
     }
   }
 ]
