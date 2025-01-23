@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, CardContent, Typography } from "@mui/material";
-
+//sobe kraii
 const ProductCard = ({ product }) => (
     <Card style={{ margin: "10px" }}>
         <CardContent>
