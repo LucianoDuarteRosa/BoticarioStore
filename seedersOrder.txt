@@ -1,8 +1,0 @@
-  npx sequelize-cli db:seed --seed add-admin-profile.js
-   npx sequelize-cli db:seed --seed add-admin-user.js
-    npx sequelize-cli db:seed --seed add-admin-category.js
-      npx sequelize-cli db:seed --seed add-admin-product.js
-
-
-        
-node run-seeders.js
