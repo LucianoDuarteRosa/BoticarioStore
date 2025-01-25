@@ -1,0 +1,79 @@
+[
+  {
+    "IdProduct": 1,
+    "ProductName": "Perfume Feminino",
+    "PriceSale": "80",
+    "Promotion": false,
+    "ImagePath": null,
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 2,
+    "ProductName": "Shampoo Revitalizante",
+    "PriceSale": "35",
+    "Promotion": false,
+    "ImagePath": null,
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 3,
+    "ProductName": "Sabonete Hidratante",
+    "PriceSale": "10",
+    "Promotion": false,
+    "ImagePath": null,
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Perfumes infantis"
+    }
+  },
+  {
+    "IdProduct": 4,
+    "ProductName": "Desodorante Masculino",
+    "PriceSale": "25",
+    "Promotion": true,
+    "ImagePath": null,
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 5,
+    "ProductName": "Kit de Cuidados Pessoais",
+    "PriceSale": "75",
+    "Promotion": true,
+    "ImagePath": null,
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  },
+  {
+    "IdProduct": 6,
+    "ProductName": "Kit de Cuidados",
+    "PriceSale": "75",
+    "Promotion": true,
+    "ImagePath": null,
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  },
+  {
+    "IdProduct": 7,
+    "ProductName": "Kit de Cuidados",
+    "PriceSale": "75",
+    "Promotion": true,
+    "ImagePath": null,
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  }
+]
