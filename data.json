@@ -53,5 +53,16 @@
     "Category": {
       "CategoryName": "Desodorantes femininos"
     }
+  },
+  {
+    "IdProduct": 6,
+    "ProductName": "Kit de Cuidados",
+    "PriceSale": "75",
+    "Promotion": true,
+    "ImagePath": null,
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
   }
 ]
