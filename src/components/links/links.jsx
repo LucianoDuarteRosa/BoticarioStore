@@ -4,6 +4,10 @@ import { faFacebook, faInstagram, faWhatsapp } from "@fortawesome/free-brands-sv
 import './links.css';
 
 const Links = () => {
+
+    const whatsappMessage = `Olá! Gostaria de saber mais sobre os produtos. Poderia me ajudar?`;
+    const whatsappUrl = `https://wa.me/553284644115?text=${encodeURIComponent(whatsappMessage)}`;
+
     return (
         <div className="social-links">
             <div>
@@ -15,7 +19,7 @@ const Links = () => {
                 <a href="https://www.instagram.com/marisa.revenda/?igsh=MTJkejNkdTF6dG9pOA%3D%3D#" target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faInstagram} className="social-icon" />
                 </a>
-                <a href="https://wa.me/553284644115" target="_blank" rel="noopener noreferrer">
+                <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faWhatsapp} className="social-icon" />
                 </a>
             </div>

@@ -20,6 +20,7 @@
 }
 
 body {
+    padding: 1rem;
     font-family: var(--font-dm-sans) !important;
     color: var(--text-base-light);
     background-color: var(--bg-icon);
