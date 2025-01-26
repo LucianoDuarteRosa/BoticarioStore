@@ -3,6 +3,7 @@ import SearchBar from "./components/search/searchbar";
 import ProductCard from "./components/product/productCard";
 import Sidebar from "./components/sidebar/sidebar";
 import Links from "./components/links/links";
+import Logo from "./components/logo/logo";
 import productsData from "./data.json";
 import { Grid, Container, Box } from "@mui/material";
 
@@ -43,11 +44,10 @@ const App = () => {
   return (
     <Container>
       <Box marginTop={4}>
-        {/* Barra de pesquisa */}
-        <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
         <Grid container spacing={2}>
-          {/* Barra lateral com categorias */}
+          {/* Barra lateral */}
           <Grid item xs={3}>
+            <Logo />
             <Sidebar
               categories={categories}
               selectedCategories={selectedCategories}
@@ -55,9 +55,9 @@ const App = () => {
             />
             <Links />
           </Grid>
-          {/* Cards de produtos */}
+          {/* Pesquisa e cards de produtos */}
           <Grid item xs={8}>
-
+            <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
             <Grid container spacing={2}>
               {filteredProducts.map((product) => (
                 <Grid item xs={12} sm={6} md={4} key={product.IdProduct}>
