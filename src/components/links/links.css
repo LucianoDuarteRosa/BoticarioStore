@@ -1,0 +1,35 @@
+.social-links {
+    padding: 20px;
+    padding: .6rem;
+    margin-top: 2rem;
+    border-radius: 12px;
+    background-color: var(--bg-top-bar);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.title-links {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin: 1rem 0 1rem 1rem;
+    color: var(--text-base-light);
+}
+
+.information{
+    padding: .5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-icons{
+    margin: .8rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.social-icon{
+    color: var(--text-sub);
+    cursor: pointer;
+    transition: color .3s;
+}

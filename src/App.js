@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
-import SearchBar from "./components/searchbar";
-import ProductCard from "./components/productCard";
-import Sidebar from "./components/sidebar";
+import SearchBar from "./components/search/searchbar";
+import ProductCard from "./components/product/productCard";
+import Sidebar from "./components/sidebar/sidebar";
+import Links from "./components/links/links";
 import productsData from "./data.json";
 import { Grid, Container, Box } from "@mui/material";
 
@@ -14,7 +15,7 @@ const App = () => {
   useEffect(() => {
     // Configurar os produtos
     setProducts(productsData);
-    
+
     // Obter categorias únicas a partir do campo Category.CategoryName
     const uniqueCategories = [
       ...new Set(productsData.map((product) => product.Category.CategoryName)),
@@ -52,9 +53,11 @@ const App = () => {
               selectedCategories={selectedCategories}
               onCategoryChange={handleCategoryChange}
             />
+            <Links />
           </Grid>
           {/* Cards de produtos */}
-          <Grid item xs={9}>
+          <Grid item xs={8}>
+
             <Grid container spacing={2}>
               {filteredProducts.map((product) => (
                 <Grid item xs={12} sm={6} md={4} key={product.IdProduct}>
