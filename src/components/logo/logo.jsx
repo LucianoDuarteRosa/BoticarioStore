@@ -9,7 +9,7 @@ const Logo= () => {
         alt="Logo" 
         className="logo-image" 
       />
-      <h1 className="nome-mark">MARISA STORE</h1>
+      <h1 className="nome-mark">Marisa Store</h1>
     </div>
   );
 };

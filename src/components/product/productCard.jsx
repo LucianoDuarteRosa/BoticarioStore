@@ -11,7 +11,7 @@ const ProductCard = ({ product }) => {
     return (
         <div className="product-card">
             <div className="product-card-content">
-                <img className="img-product" src={`/image/${product.ImagePath}`} alt="imagem do produto" />
+                <img className="img-product" src={`/${product.ImagePath}`} alt="imagem do produto" />
                 <div className="product-info">
                     <h3 className="product-name">{product.ProductName}</h3>
                     <p className="product-price">R$ {Number.parseFloat(product.PriceSale).toFixed(2).replace('.', ',')}</p>

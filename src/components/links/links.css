@@ -33,3 +33,7 @@
     cursor: pointer;
     transition: color .3s;
 }
+
+.social-icon :hover{
+    color: var(--text-destac);
+}

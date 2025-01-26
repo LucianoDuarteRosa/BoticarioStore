@@ -63,3 +63,7 @@
     height: 1.3rem;
     color: var(--bg-icon-whatsapp)
 }
+
+.whatsapp-icon:hover{
+    color: var(--text-base-light)
+}
