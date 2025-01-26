@@ -12,13 +12,10 @@ const Links = () => {
             </div>
 
             <div className="social-icons">
-                <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
-                    <FontAwesomeIcon icon={faFacebook}  className="social-icon" />
-                </a>
-                <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/marisa.revenda/?igsh=MTJkejNkdTF6dG9pOA%3D%3D#" target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faInstagram} className="social-icon" />
                 </a>
-                <a href="https://wa.me/5532988996771" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/553284644115" target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faWhatsapp} className="social-icon" />
                 </a>
             </div>
