@@ -31,8 +31,12 @@ body {
     color: var(--text-sub);
 }
 
+.drawer .MuiDrawer-paper {
+    width: 200px;
+    height: auto;
+  }
 
-.drawer{
+.drawer-box {
     background-color: var(--bg-icon);
     display: flex;
     flex-direction: column;

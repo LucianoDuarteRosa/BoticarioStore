@@ -73,18 +73,18 @@
 
 @media (max-width: 630px) {
     .sidebar {
-        margin-top: .7rem;
-        padding: .2rem;
+        margin-top: .6rem;
+        padding: .3rem;
     }
 
     .title-category {
-        font-size: .6rem;
-        gap: .1rem;
+        font-size: .9rem;
+        gap: .3rem;
     }
 
     .category-item {
-        padding: .1rem .2rem;
-        font-size: .4rem;
+        padding: .3rem .5rem;
+        font-size: .7rem;
     }
 
 }

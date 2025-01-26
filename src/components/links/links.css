@@ -88,23 +88,24 @@
 
 @media (max-width: 630px) {
     .social-links {
-        padding: .3rem;
-        margin-top: .7rem;
+        padding: .5rem;
+        margin-top: .9rem;
     }
 
     .title-links {
-        font-size: .7rem;
+        font-size: .9rem;
         margin: .3rem 0 .5rem .3rem;
     }
 
     .information {
-        font-size: .4rem;
-        padding: .2rem;
+        color: var(--text-sub);
+        font-size: .6rem;
+        padding: .3rem;
     }
 
     .social-icons {
-        margin: .2rem;
-        gap: .3rem;
-        font-size: .6rem;
+        margin: .7rem;
+        gap: .7rem;
+        font-size: .8rem;
     }
 }

@@ -54,7 +54,7 @@ const App = () => {
   );
 
   return (
-    <Container>
+    <Container style={{ marginTop: "1.5rem" }}>
       {/* Topo com barra de pesquisa, logo e menu hambúrguer */}
       <Box
         display="flex"
@@ -77,18 +77,25 @@ const App = () => {
         </Box>
 
         {/* Barra de pesquisa */}
-        <Box flexGrow={1} marginLeft={{ xs: 0, sm: 2 }}>
+        <Box flexGrow={1}>
           <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
         </Box>
       </Box>
 
       {/* Menu hambúrguer lateral */}
       <Drawer
+        className="drawer"
         anchor="left"
         open={drawerOpen}
         onClose={toggleDrawer(false)}
+        sx={{
+          "& .MuiDrawer-paper": {
+            height: "auto",
+            width: "300px" // Garante que preenche toda a altura
+          },
+        }}
       >
-        <Box className="drawer">
+        <Box className="drawer-box">
           {/* Logo dentro do Drawer */}
           <Box>
             <Logo />
@@ -103,7 +110,7 @@ const App = () => {
       </Drawer>
 
       {/* Conteúdo principal */}
-      <Box marginTop={4}>
+      <Box>
         <Grid container spacing={2}>
           {/* Sidebar em telas grandes */}
           <Grid
@@ -120,7 +127,7 @@ const App = () => {
           </Grid>
 
           {/* Cards de produtos */}
-          <Grid item xs={12} sm={8}>
+          <Grid item xs={11} sm={8}>
             <Grid container spacing={2}>
               {filteredProducts.map((product) => (
                 <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
