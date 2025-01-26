@@ -28,5 +28,15 @@ body {
 .icon-standart {
     width: 1rem;
     height: 1rem;
-    color: var(--text-sub)
+    color: var(--text-sub);
+}
+
+
+.drawer{
+    background-color: var(--bg-icon);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1rem;
+    transition: transform 0.3s ease-in-out;
 }
