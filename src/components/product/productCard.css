@@ -67,3 +67,72 @@
 .whatsapp-icon:hover{
     color: var(--text-base-light)
 }
+
+@media (max-width: 1200px) {
+    .product-card {
+        margin: 2rem 0 0 2rem;
+    }
+    
+    .product-info {
+        font-size: 1rem;
+    }
+    
+    .img-product {
+        width: 100%;
+        max-height: 250px;
+    }
+    
+    .product-name {
+        font-size: 1.3rem;
+        margin-bottom: .5rem;
+    }
+    
+    .product-price {
+        font-size: 1.3rem;
+    }
+    
+    .product-sale {
+        font-size: .6rem;
+    }
+    
+    .whatsapp-icon{
+        margin-left: 0.5rem;
+        width: 1rem;
+        height: 1rem;
+    }
+}
+
+
+@media (max-width: 970px) {
+    .product-card {
+        margin: 2rem 0 0 2rem;
+    }
+    
+    .product-info {
+        font-size: 1rem;
+    }
+    
+    .img-product {
+        width: 100%;
+        max-height: 250px;
+    }
+    
+    .product-name {
+        font-size: 1rem;
+        margin-bottom: .5rem;
+    }
+    
+    .product-price {
+        font-size: 1rem;
+    }
+    
+    .product-sale {
+        font-size: .5rem;
+    }
+    
+    .whatsapp-icon{
+        margin-left: 0.5rem;
+        width: 1rem;
+        height: 1rem;
+    }
+}

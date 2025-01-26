@@ -60,7 +60,7 @@ const App = () => {
             <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
             <Grid container spacing={2}>
               {filteredProducts.map((product) => (
-                <Grid item xs={12} sm={6} md={4} key={product.IdProduct}>
+                <Grid item xs={6} sm={4} md={3} key={product.IdProduct}>
                   <ProductCard product={product} />
                 </Grid>
               ))}

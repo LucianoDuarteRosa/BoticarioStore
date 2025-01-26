@@ -18,3 +18,47 @@
     color: var(--text-base-light);
 }
 
+@media (max-width: 970px) {
+    .logo-image{
+        width: 70px;
+        height: 70px;
+    }
+    
+    .nome-mark{
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 820px) {
+    .logo-image{
+        width: 50px;
+        height: 50px;
+    }
+    
+    .nome-mark{
+        font-size: .9rem;
+    }
+}
+
+@media (max-width: 630px) {
+    .logo-image{
+        width: 40px;
+        height: 40px;
+    }
+    
+    .nome-mark{
+        font-size: .7rem;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .logo-image{
+        width: 30px;
+        height: 30px;
+    }
+    
+    .nome-mark{
+        font-size: .5rem;
+    }
+}
