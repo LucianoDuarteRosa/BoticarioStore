@@ -88,12 +88,6 @@ const App = () => {
         anchor="left"
         open={drawerOpen}
         onClose={toggleDrawer(false)}
-        sx={{
-          "& .MuiDrawer-paper": {
-            height: "auto",
-            width: "300px" // Garante que preenche toda a altura
-          },
-        }}
       >
         <Box className="drawer-box">
           {/* Logo dentro do Drawer */}
