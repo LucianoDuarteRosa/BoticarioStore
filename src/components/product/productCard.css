@@ -65,7 +65,7 @@
 }
 
 .whatsapp-icon:hover{
-    color: var(--text-base-light)
+    color: var(--text-destac)
 }
 
 @media (max-width: 1200px) {

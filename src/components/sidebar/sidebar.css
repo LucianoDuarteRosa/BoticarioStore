@@ -35,6 +35,36 @@
     text-overflow: ellipsis;
 }
 
+.category-item input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: var(--text-sub);
+    border: none;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    border-radius: 4px;
+}
+
+.category-item input[type="checkbox"]:checked {
+    background-color: var(--text-destac);
+    border-color: var(--text-destac);
+}
+
+.category-item input[type="checkbox"]:checked::after {
+    content: "✔";
+    color: var(--text-base-light);
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 @media (max-width: 970px) {
     .sidebar {
         padding: .4rem;
