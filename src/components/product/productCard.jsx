@@ -1,12 +1,13 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
+import paramsData from "../../params.json";
 import './productCard.css';
 
 const ProductCard = ({ product }) => {
     // Ajuste: Definir a URL do WhatsApp
     const whatsappMessage = `Olá! Gostaria de saber mais sobre o produto: ${product.ProductName} - Valor: R$${Number.parseFloat(product.PriceSale).toFixed(2).replace('.', ',')}.`;
-    const whatsappUrl = `https://wa.me/553284644115?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/${paramsData[0].WhatsApp}?text=${encodeURIComponent(whatsappMessage)}`;
 
     return (
         <div className="product-card">
