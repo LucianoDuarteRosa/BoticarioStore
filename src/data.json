@@ -108,16 +108,5 @@
     "Category": {
       "CategoryName": "Perfumes infantis"
     }
-  },
-  {
-    "IdProduct": 12,
-    "ProductName": "Produto 11",
-    "PriceSale": "250",
-    "Promotion": true,
-    "ImagePath": "1738353023991-783174562-IMG-20240119-WA0020.jpg",
-    "IdCategory": 2,
-    "Category": {
-      "CategoryName": "Perfumes masculinos"
-    }
   }
 ]
