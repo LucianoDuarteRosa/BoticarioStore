@@ -1,21 +1,10 @@
 [
   {
-    "IdProduct": 1,
-    "ProductName": "Produto 1",
-    "PriceSale": "200",
-    "Promotion": false,
-    "ImagePath": "1737836708730-909164203-01.png",
-    "IdCategory": 1,
-    "Category": {
-      "CategoryName": "Perfumes femininos"
-    }
-  },
-  {
     "IdProduct": 2,
-    "ProductName": "Produto 2",
-    "PriceSale": "126",
+    "ProductName": "FLORATTA BLUE",
+    "PriceSale": "150",
     "Promotion": false,
-    "ImagePath": "1737836734640-934768656-02.png",
+    "ImagePath": "1738423820426-459040920-WhatsApp_Image_2025-02-01_at_08.57.16_(3).jpeg",
     "IdCategory": 1,
     "Category": {
       "CategoryName": "Perfumes femininos"
@@ -23,90 +12,332 @@
   },
   {
     "IdProduct": 3,
-    "ProductName": "Produto 3",
-    "PriceSale": "350",
-    "Promotion": true,
-    "ImagePath": "1737836750830-203061009-03.png",
-    "IdCategory": 2,
+    "ProductName": "FLORATTA MY BLUE",
+    "PriceSale": "150",
+    "Promotion": false,
+    "ImagePath": "1738427762019-584321852-WhatsApp_Image_2025-02-01_at_08.57.17.jpeg",
+    "IdCategory": 1,
     "Category": {
-      "CategoryName": "Perfumes masculinos"
+      "CategoryName": "Perfumes femininos"
     }
   },
   {
     "IdProduct": 4,
-    "ProductName": "Produto 4",
-    "PriceSale": "50",
+    "ProductName": "FLORATTA RED",
+    "PriceSale": "150",
     "Promotion": false,
-    "ImagePath": "1737836763135-873857857-04.png",
-    "IdCategory": 2,
+    "ImagePath": "1738427879081-742982386-WhatsApp_Image_2025-02-01_at_08.57.17_(1).jpeg",
+    "IdCategory": 1,
     "Category": {
-      "CategoryName": "Perfumes masculinos"
+      "CategoryName": "Perfumes femininos"
     }
   },
   {
     "IdProduct": 5,
-    "ProductName": "Produto 5",
-    "PriceSale": "250",
-    "Promotion": true,
-    "ImagePath": "1737836775203-716656847-05.png",
-    "IdCategory": 3,
+    "ProductName": "FLORATTA ROSE",
+    "PriceSale": "150",
+    "Promotion": false,
+    "ImagePath": "1738428090887-379314696-757cd203400ff66dab0a02b1a6ef66fd.jpg",
+    "IdCategory": 1,
     "Category": {
-      "CategoryName": "Perfumes infantis"
+      "CategoryName": "Perfumes femininos"
     }
   },
   {
     "IdProduct": 6,
-    "ProductName": "Produto 6",
-    "PriceSale": "30",
-    "Promotion": true,
-    "ImagePath": "1737836794090-123921450-06.png",
-    "IdCategory": 6,
+    "ProductName": "FLORATTA ROMANCE DE VERÃO",
+    "PriceSale": "150",
+    "Promotion": false,
+    "ImagePath": "1738428177838-207972040-WhatsApp_Image_2025-02-01_at_08.57.17_(3).jpeg",
+    "IdCategory": 1,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Perfumes femininos"
     }
   },
   {
     "IdProduct": 7,
-    "ProductName": "Produto 7",
+    "ProductName": "FLORATTA GOLD",
     "PriceSale": "150",
     "Promotion": false,
-    "ImagePath": "1737836808868-778357439-07.png",
-    "IdCategory": 5,
+    "ImagePath": "1738428388759-337500216-8a99ed4f-fd41-47de-b682-271f23e4f8a0-bot-51448-floratta-gold-ambientada-4.jpg",
+    "IdCategory": 1,
     "Category": {
-      "CategoryName": "Desodorantes femininos"
+      "CategoryName": "Perfumes femininos"
     }
   },
   {
     "IdProduct": 8,
-    "ProductName": "Produto 8",
-    "PriceSale": "150",
+    "ProductName": "GLAMOUR",
+    "PriceSale": "175",
     "Promotion": false,
-    "ImagePath": "1737836823545-764345659-08.png",
-    "IdCategory": 2,
+    "ImagePath": "1738428617384-869027345-WhatsApp_Image_2025-02-01_at_08.57.16_(2).jpeg",
+    "IdCategory": 1,
     "Category": {
-      "CategoryName": "Perfumes masculinos"
+      "CategoryName": "Perfumes femininos"
     }
   },
   {
     "IdProduct": 9,
-    "ProductName": "Produto 9",
+    "ProductName": "ELYSÉE NUIT",
+    "PriceSale": "295",
+    "Promotion": false,
+    "ImagePath": "1738428791741-459743419-WhatsApp_Image_2025-02-01_at_08.57.15.jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 10,
+    "ProductName": "BOTICA 214",
+    "PriceSale": "225",
+    "Promotion": false,
+    "ImagePath": "1738429433622-776809847-WhatsApp_Image_2025-02-01_at_13.55.47.jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 11,
+    "ProductName": "BOTICA 214",
+    "PriceSale": "225",
+    "Promotion": false,
+    "ImagePath": "1738429459686-522539880-WhatsApp_Image_2025-02-01_at_13.55.46.jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 12,
+    "ProductName": "BODY SPLASH LILAC",
+    "PriceSale": "95",
+    "Promotion": false,
+    "ImagePath": "1738429597874-88840405-WhatsApp_Image_2025-02-01_at_13.56.10_(5).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 13,
+    "ProductName": "BODY SPLASH AMEIXA NEGRA",
+    "PriceSale": "95",
+    "Promotion": false,
+    "ImagePath": "1738429651692-88523569-WhatsApp_Image_2025-02-01_at_13.56.10.jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 14,
+    "ProductName": "BODY SPLASH AMEIXA",
+    "PriceSale": "95",
+    "Promotion": false,
+    "ImagePath": "1738429695374-496735632-WhatsApp_Image_2025-02-01_at_13.56.10_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 15,
+    "ProductName": "BODY SPLASH JASMIM",
+    "PriceSale": "95",
+    "Promotion": false,
+    "ImagePath": "1738430079237-87274730-85091cac709ec440d9ad025199c50e9f.webp",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 16,
+    "ProductName": "BODY SPLASH NUVEM",
+    "PriceSale": "85",
+    "Promotion": false,
+    "ImagePath": "1738430170722-36093995-61sfF9DLMdL._AC_UF1000,1000_QL80_.jpg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 17,
+    "ProductName": "COFFEE ADDICTIVE",
     "PriceSale": "200",
+    "Promotion": false,
+    "ImagePath": "1738430517299-254346534-WhatsApp_Image_2025-02-01_at_08.57.15_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 18,
+    "ProductName": "EGEO DOLCE",
+    "PriceSale": "155",
+    "Promotion": false,
+    "ImagePath": "1738430696137-902652703-whatsapp-image-2024-01-23-at-18-15-29-31e7a56db9e1bf355417060445665877-480-0.jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 19,
+    "ProductName": "KIT DELEITE",
+    "PriceSale": "90",
+    "Promotion": false,
+    "ImagePath": "1738430997563-829875046-whatsapp-image-2024-05-19-at-17-18-55--1--ob5r9nmk5x.webp",
+    "IdCategory": 9,
+    "Category": {
+      "CategoryName": "Kits de perfumes"
+    }
+  },
+  {
+    "IdProduct": 20,
+    "ProductName": "MALBEC",
+    "PriceSale": "170",
     "Promotion": true,
-    "ImagePath": "1737836837686-286875284-09.png",
+    "ImagePath": "1738431291170-214416268-D_Q_NP_687834-MLU72751500008_112023-O.webp",
     "IdCategory": 2,
     "Category": {
       "CategoryName": "Perfumes masculinos"
     }
   },
   {
-    "IdProduct": 10,
-    "ProductName": "Produto 10",
-    "PriceSale": "200",
+    "IdProduct": 21,
+    "ProductName": "MALBEC FLAME",
+    "PriceSale": "240",
     "Promotion": false,
-    "ImagePath": "1737836850691-879763773-10.png",
-    "IdCategory": 3,
+    "ImagePath": "1738431375805-665100370-WhatsApp_Image_2025-02-01_at_08.57.14.jpeg",
+    "IdCategory": 2,
     "Category": {
-      "CategoryName": "Perfumes infantis"
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 22,
+    "ProductName": "MALBEC NOIR",
+    "PriceSale": "250",
+    "Promotion": false,
+    "ImagePath": "1738431429788-372236105-WhatsApp_Image_2025-02-01_at_08.57.12.jpeg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 23,
+    "ProductName": "MALBEC ICON",
+    "PriceSale": "180",
+    "Promotion": true,
+    "ImagePath": "1738431588045-124291172-61uaZrhR4KL.jpg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 24,
+    "ProductName": "ARBO",
+    "PriceSale": "170",
+    "Promotion": false,
+    "ImagePath": "1738432125858-433937214-br-11134207-23030-s2vrq72bmnov36.jpg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 25,
+    "ProductName": "ARBO PURO",
+    "PriceSale": "170",
+    "Promotion": false,
+    "ImagePath": "1738432160490-974243228-147413711299969.jpg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 26,
+    "ProductName": "PORTINARI",
+    "PriceSale": "180",
+    "Promotion": false,
+    "ImagePath": "1738432218645-366338706-2---PORTINARI_1000x.webp",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 27,
+    "ProductName": "INSENSATEZ",
+    "PriceSale": "155",
+    "Promotion": false,
+    "ImagePath": "1738432338531-786290220-16ee8784142aace32dce554d49e50e08.jpg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 28,
+    "ProductName": "EGEO BLUE",
+    "PriceSale": "130",
+    "Promotion": true,
+    "ImagePath": "1738432734811-119793599-a2e789643a252a2c9eb54be1307d2e79.jpg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 29,
+    "ProductName": "COFFEE ADDICTIVE",
+    "PriceSale": "140",
+    "Promotion": true,
+    "ImagePath": "1738432778877-413737624-Coffee-Man-Addictive-100ml-2.webp",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 30,
+    "ProductName": "QUASAR CLASSIC",
+    "PriceSale": "165",
+    "Promotion": false,
+    "ImagePath": "1738432842861-241579806-63753c22-cf73-4f09-9add-f416d25e408f-bot-51243-quasar-classic-colonia-segredinho-02.webp",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 31,
+    "ProductName": "QUASAR DEEP BLUE",
+    "PriceSale": "165",
+    "Promotion": false,
+    "ImagePath": "1738432882947-508402209-6baec038-4f1c-4d57-9dfe-d90e83688d0c-bot-58526-quasar-deep-blue-ambientada-05.webp",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 32,
+    "ProductName": "KIT AMEIXA DOURADA",
+    "PriceSale": "116",
+    "Promotion": false,
+    "ImagePath": "1738433324874-761757194-681400335794210.jpg",
+    "IdCategory": 9,
+    "Category": {
+      "CategoryName": "Kits de perfumes"
     }
   }
 ]
