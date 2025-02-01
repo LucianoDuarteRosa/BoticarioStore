@@ -1,7 +1,7 @@
 [
   {
     "IdProduct": 2,
-    "ProductName": "FLORATTA BLUE",
+    "ProductName": "Floratta Blue",
     "PriceSale": "150",
     "Promotion": false,
     "ImagePath": "1738423820426-459040920-WhatsApp_Image_2025-02-01_at_08.57.16_(3).jpeg",
@@ -12,7 +12,7 @@
   },
   {
     "IdProduct": 3,
-    "ProductName": "FLORATTA MY BLUE",
+    "ProductName": "Floratta My Blue",
     "PriceSale": "150",
     "Promotion": false,
     "ImagePath": "1738427762019-584321852-WhatsApp_Image_2025-02-01_at_08.57.17.jpeg",
@@ -23,7 +23,7 @@
   },
   {
     "IdProduct": 4,
-    "ProductName": "FLORATTA RED",
+    "ProductName": "Floratta Red",
     "PriceSale": "150",
     "Promotion": false,
     "ImagePath": "1738427879081-742982386-WhatsApp_Image_2025-02-01_at_08.57.17_(1).jpeg",
@@ -34,7 +34,7 @@
   },
   {
     "IdProduct": 5,
-    "ProductName": "FLORATTA ROSE",
+    "ProductName": "Floratta Rose",
     "PriceSale": "150",
     "Promotion": false,
     "ImagePath": "1738428090887-379314696-757cd203400ff66dab0a02b1a6ef66fd.jpg",
@@ -45,7 +45,7 @@
   },
   {
     "IdProduct": 6,
-    "ProductName": "FLORATTA ROMANCE DE VERÃO",
+    "ProductName": "Floratta Romance de Verão",
     "PriceSale": "150",
     "Promotion": false,
     "ImagePath": "1738428177838-207972040-WhatsApp_Image_2025-02-01_at_08.57.17_(3).jpeg",
@@ -56,7 +56,7 @@
   },
   {
     "IdProduct": 7,
-    "ProductName": "FLORATTA GOLD",
+    "ProductName": "Floratta Gold",
     "PriceSale": "150",
     "Promotion": false,
     "ImagePath": "1738428388759-337500216-8a99ed4f-fd41-47de-b682-271f23e4f8a0-bot-51448-floratta-gold-ambientada-4.jpg",
@@ -67,7 +67,7 @@
   },
   {
     "IdProduct": 8,
-    "ProductName": "GLAMOUR",
+    "ProductName": "Glamour",
     "PriceSale": "175",
     "Promotion": false,
     "ImagePath": "1738428617384-869027345-WhatsApp_Image_2025-02-01_at_08.57.16_(2).jpeg",
@@ -78,7 +78,7 @@
   },
   {
     "IdProduct": 9,
-    "ProductName": "ELYSÉE NUIT",
+    "ProductName": "Elysée Nuit",
     "PriceSale": "295",
     "Promotion": false,
     "ImagePath": "1738428791741-459743419-WhatsApp_Image_2025-02-01_at_08.57.15.jpeg",
@@ -89,7 +89,7 @@
   },
   {
     "IdProduct": 10,
-    "ProductName": "BOTICA 214",
+    "ProductName": "Botica 214",
     "PriceSale": "225",
     "Promotion": false,
     "ImagePath": "1738429433622-776809847-WhatsApp_Image_2025-02-01_at_13.55.47.jpeg",
@@ -100,7 +100,7 @@
   },
   {
     "IdProduct": 11,
-    "ProductName": "BOTICA 214",
+    "ProductName": "Botica 214",
     "PriceSale": "225",
     "Promotion": false,
     "ImagePath": "1738429459686-522539880-WhatsApp_Image_2025-02-01_at_13.55.46.jpeg",
@@ -111,7 +111,7 @@
   },
   {
     "IdProduct": 12,
-    "ProductName": "BODY SPLASH LILAC",
+    "ProductName": "Body Splash Lilac",
     "PriceSale": "95",
     "Promotion": false,
     "ImagePath": "1738429597874-88840405-WhatsApp_Image_2025-02-01_at_13.56.10_(5).jpeg",
@@ -122,7 +122,7 @@
   },
   {
     "IdProduct": 13,
-    "ProductName": "BODY SPLASH AMEIXA NEGRA",
+    "ProductName": "Body Splash Ameixa Negra",
     "PriceSale": "95",
     "Promotion": false,
     "ImagePath": "1738429651692-88523569-WhatsApp_Image_2025-02-01_at_13.56.10.jpeg",
@@ -133,7 +133,7 @@
   },
   {
     "IdProduct": 14,
-    "ProductName": "BODY SPLASH AMEIXA",
+    "ProductName": "Body Splash Ameixa",
     "PriceSale": "95",
     "Promotion": false,
     "ImagePath": "1738429695374-496735632-WhatsApp_Image_2025-02-01_at_13.56.10_(1).jpeg",
@@ -144,7 +144,7 @@
   },
   {
     "IdProduct": 15,
-    "ProductName": "BODY SPLASH JASMIM",
+    "ProductName": "Body Splash Jasmim",
     "PriceSale": "95",
     "Promotion": false,
     "ImagePath": "1738430079237-87274730-85091cac709ec440d9ad025199c50e9f.webp",
@@ -155,7 +155,7 @@
   },
   {
     "IdProduct": 16,
-    "ProductName": "BODY SPLASH NUVEM",
+    "ProductName": "Body Splash Nuvem",
     "PriceSale": "85",
     "Promotion": false,
     "ImagePath": "1738430170722-36093995-61sfF9DLMdL._AC_UF1000,1000_QL80_.jpg",
@@ -166,7 +166,7 @@
   },
   {
     "IdProduct": 17,
-    "ProductName": "COFFEE ADDICTIVE",
+    "ProductName": "Coffee Addictive",
     "PriceSale": "200",
     "Promotion": false,
     "ImagePath": "1738430517299-254346534-WhatsApp_Image_2025-02-01_at_08.57.15_(1).jpeg",
@@ -177,7 +177,7 @@
   },
   {
     "IdProduct": 18,
-    "ProductName": "EGEO DOLCE",
+    "ProductName": "Egeo Dolce",
     "PriceSale": "155",
     "Promotion": false,
     "ImagePath": "1738430696137-902652703-whatsapp-image-2024-01-23-at-18-15-29-31e7a56db9e1bf355417060445665877-480-0.jpeg",
@@ -188,7 +188,7 @@
   },
   {
     "IdProduct": 19,
-    "ProductName": "KIT DELEITE",
+    "ProductName": "Kit Deleite",
     "PriceSale": "90",
     "Promotion": false,
     "ImagePath": "1738430997563-829875046-whatsapp-image-2024-05-19-at-17-18-55--1--ob5r9nmk5x.webp",
@@ -199,7 +199,7 @@
   },
   {
     "IdProduct": 20,
-    "ProductName": "MALBEC",
+    "ProductName": "Malbec",
     "PriceSale": "170",
     "Promotion": true,
     "ImagePath": "1738431291170-214416268-D_Q_NP_687834-MLU72751500008_112023-O.webp",
@@ -210,7 +210,7 @@
   },
   {
     "IdProduct": 21,
-    "ProductName": "MALBEC FLAME",
+    "ProductName": "Malbec Flame",
     "PriceSale": "240",
     "Promotion": false,
     "ImagePath": "1738431375805-665100370-WhatsApp_Image_2025-02-01_at_08.57.14.jpeg",
@@ -221,7 +221,7 @@
   },
   {
     "IdProduct": 22,
-    "ProductName": "MALBEC NOIR",
+    "ProductName": "Malbec noir",
     "PriceSale": "250",
     "Promotion": false,
     "ImagePath": "1738431429788-372236105-WhatsApp_Image_2025-02-01_at_08.57.12.jpeg",
@@ -232,7 +232,7 @@
   },
   {
     "IdProduct": 23,
-    "ProductName": "MALBEC ICON",
+    "ProductName": "Malbec Icon",
     "PriceSale": "180",
     "Promotion": true,
     "ImagePath": "1738431588045-124291172-61uaZrhR4KL.jpg",
@@ -243,7 +243,7 @@
   },
   {
     "IdProduct": 24,
-    "ProductName": "ARBO",
+    "ProductName": "Arbo",
     "PriceSale": "170",
     "Promotion": false,
     "ImagePath": "1738432125858-433937214-br-11134207-23030-s2vrq72bmnov36.jpg",
@@ -254,7 +254,7 @@
   },
   {
     "IdProduct": 25,
-    "ProductName": "ARBO PURO",
+    "ProductName": "Arbo Puro",
     "PriceSale": "170",
     "Promotion": false,
     "ImagePath": "1738432160490-974243228-147413711299969.jpg",
@@ -265,7 +265,7 @@
   },
   {
     "IdProduct": 26,
-    "ProductName": "PORTINARI",
+    "ProductName": "Portinari",
     "PriceSale": "180",
     "Promotion": false,
     "ImagePath": "1738432218645-366338706-2---PORTINARI_1000x.webp",
@@ -276,7 +276,7 @@
   },
   {
     "IdProduct": 27,
-    "ProductName": "INSENSATEZ",
+    "ProductName": "Insensatez",
     "PriceSale": "155",
     "Promotion": false,
     "ImagePath": "1738432338531-786290220-16ee8784142aace32dce554d49e50e08.jpg",
@@ -287,7 +287,7 @@
   },
   {
     "IdProduct": 28,
-    "ProductName": "EGEO BLUE",
+    "ProductName": "Egeo Blue",
     "PriceSale": "130",
     "Promotion": true,
     "ImagePath": "1738432734811-119793599-a2e789643a252a2c9eb54be1307d2e79.jpg",
@@ -298,7 +298,7 @@
   },
   {
     "IdProduct": 29,
-    "ProductName": "COFFEE ADDICTIVE",
+    "ProductName": "Coffee Addictive",
     "PriceSale": "140",
     "Promotion": true,
     "ImagePath": "1738432778877-413737624-Coffee-Man-Addictive-100ml-2.webp",
@@ -309,7 +309,7 @@
   },
   {
     "IdProduct": 30,
-    "ProductName": "QUASAR CLASSIC",
+    "ProductName": "Quasar Classic",
     "PriceSale": "165",
     "Promotion": false,
     "ImagePath": "1738432842861-241579806-63753c22-cf73-4f09-9add-f416d25e408f-bot-51243-quasar-classic-colonia-segredinho-02.webp",
@@ -320,7 +320,7 @@
   },
   {
     "IdProduct": 31,
-    "ProductName": "QUASAR DEEP BLUE",
+    "ProductName": "Quasar Deep Blue",
     "PriceSale": "165",
     "Promotion": false,
     "ImagePath": "1738432882947-508402209-6baec038-4f1c-4d57-9dfe-d90e83688d0c-bot-58526-quasar-deep-blue-ambientada-05.webp",
@@ -331,7 +331,7 @@
   },
   {
     "IdProduct": 32,
-    "ProductName": "KIT AMEIXA DOURADA",
+    "ProductName": "Kit Ameixa Dourada",
     "PriceSale": "116",
     "Promotion": false,
     "ImagePath": "1738433324874-761757194-681400335794210.jpg",
@@ -342,7 +342,7 @@
   },
   {
     "IdProduct": 33,
-    "ProductName": "KIT LILY",
+    "ProductName": "Kit Lily",
     "PriceSale": "200",
     "Promotion": false,
     "ImagePath": "1738433746063-192278437-5041113_58445_1.png",
@@ -353,7 +353,7 @@
   },
   {
     "IdProduct": 34,
-    "ProductName": "KIT QUASAR",
+    "ProductName": "Kit Quasar",
     "PriceSale": "160",
     "Promotion": false,
     "ImagePath": "1738433810271-440800251-br-11134207-7r98o-m26mrjzlzrldb2.jpg",
@@ -364,7 +364,7 @@
   },
   {
     "IdProduct": 35,
-    "ProductName": "HIDRATANTE EGEO",
+    "ProductName": "Hidratante Egeo",
     "PriceSale": "75",
     "Promotion": false,
     "ImagePath": "1738433903489-957805599-964433319471522.jpg",
@@ -375,7 +375,7 @@
   },
   {
     "IdProduct": 36,
-    "ProductName": "HIDRATANTE LILAC",
+    "ProductName": "Lilac 400ml",
     "PriceSale": "87",
     "Promotion": false,
     "ImagePath": "1738433968625-598547472-WhatsApp_Image_2025-02-01_at_13.59.11.jpeg",
@@ -386,7 +386,7 @@
   },
   {
     "IdProduct": 37,
-    "ProductName": "HIDRATANTE AMEIXA",
+    "ProductName": "Ameixa 400ml",
     "PriceSale": "69",
     "Promotion": true,
     "ImagePath": "1738434073846-433835150-WhatsApp_Image_2025-02-01_at_13.56.10_(8).jpeg",
@@ -397,7 +397,7 @@
   },
   {
     "IdProduct": 38,
-    "ProductName": "HIDRATANTE AMEIXA NEGRA",
+    "ProductName": "Ameixa Negra 400ml",
     "PriceSale": "87",
     "Promotion": false,
     "ImagePath": "1738437167713-472928924-61WygkAD13L.jpg",
@@ -408,7 +408,7 @@
   },
   {
     "IdProduct": 39,
-    "ProductName": "OLÉO AMEIXA",
+    "ProductName": "Oléo Ameixa",
     "PriceSale": "72",
     "Promotion": true,
     "ImagePath": "1738434173046-423661900-WhatsApp_Image_2025-02-01_at_13.56.10_(6).jpeg",
@@ -419,7 +419,7 @@
   },
   {
     "IdProduct": 40,
-    "ProductName": "HIDRATANTE QUINOA",
+    "ProductName": "Quinoa 400ml",
     "PriceSale": "87",
     "Promotion": false,
     "ImagePath": "1738434219380-857664567-WhatsApp_Image_2025-02-01_at_13.56.10_(4).jpeg",
@@ -430,7 +430,7 @@
   },
   {
     "IdProduct": 41,
-    "ProductName": "AMEIXA NEGRA 200ML",
+    "ProductName": "Ameixa Negra 200ml",
     "PriceSale": "65",
     "Promotion": false,
     "ImagePath": "1738434275099-154170819-WhatsApp_Image_2025-02-01_at_13.56.10_(3).jpeg",
@@ -441,7 +441,7 @@
   },
   {
     "IdProduct": 42,
-    "ProductName": "MORANGO RUBY 200ML",
+    "ProductName": "Morango Ruby 200ml",
     "PriceSale": "42",
     "Promotion": true,
     "ImagePath": "1738434336451-370698885-WhatsApp_Image_2025-02-01_at_13.56.10_(2).jpeg",
@@ -452,7 +452,7 @@
   },
   {
     "IdProduct": 43,
-    "ProductName": "BEIJINHO 400ML",
+    "ProductName": "Beijinho 400ml",
     "PriceSale": "70",
     "Promotion": false,
     "ImagePath": "1738434537756-490357520-WhatsApp_Image_2025-02-01_at_13.56.09_(1).jpeg",
@@ -463,7 +463,7 @@
   },
   {
     "IdProduct": 44,
-    "ProductName": "DELEITE 400ML",
+    "ProductName": "Deleite 400ml",
     "PriceSale": "56",
     "Promotion": true,
     "ImagePath": "1738434576689-453362506-WhatsApp_Image_2025-02-01_at_13.56.09.jpeg",
@@ -474,7 +474,7 @@
   },
   {
     "IdProduct": 45,
-    "ProductName": "DELEITE CHOCOLATUDO 400ML",
+    "ProductName": "Deleite Chocolatudo 400ml",
     "PriceSale": "70",
     "Promotion": false,
     "ImagePath": "1738434628047-269671118-WhatsApp_Image_2025-02-01_at_08.55.48.jpeg",
@@ -485,7 +485,7 @@
   },
   {
     "IdProduct": 46,
-    "ProductName": "BODY SPLASH DELEITE",
+    "ProductName": "Body Splash Deleite",
     "PriceSale": "85",
     "Promotion": false,
     "ImagePath": "1738435402762-148865591-br-11134207-7r98o-lw5pizxu4oeqef.jpg",
@@ -496,7 +496,7 @@
   },
   {
     "IdProduct": 47,
-    "ProductName": "LILY",
+    "ProductName": "Lily",
     "PriceSale": "300",
     "Promotion": false,
     "ImagePath": "1738435510516-664998625-LILY-EDP-75ml_B77524_conceito_.webp",
@@ -507,7 +507,7 @@
   },
   {
     "IdProduct": 48,
-    "ProductName": "LILY ACETINADO",
+    "ProductName": "Lily Acetinado",
     "PriceSale": "140",
     "Promotion": false,
     "ImagePath": "1738435743938-49701393-LILY-CR-ACET-CPO_V8_B48060_Conceito.webp",
@@ -518,7 +518,7 @@
   },
   {
     "IdProduct": 49,
-    "ProductName": "LILY VELUDO",
+    "ProductName": "Lily Veludo",
     "PriceSale": "170",
     "Promotion": false,
     "ImagePath": "1738435821740-647991420-96006d9d-c288-44a9-a7dc-b3df2c592c70-bot-59145-lily-veludo-acetinado-sensorial-ambientado-04.webp",
@@ -529,7 +529,7 @@
   },
   {
     "IdProduct": 50,
-    "ProductName": "LILY GARDÉNIA",
+    "ProductName": "Lily Gardénia",
     "PriceSale": "140",
     "Promotion": false,
     "ImagePath": "1738435877890-919464857-6f0a1351-f2ee-4579-9a6c-d0fda05ef994-bot-57890-lily-gardenia-creme-acetinado-ambientada-04.webp",
@@ -540,7 +540,7 @@
   },
   {
     "IdProduct": 51,
-    "ProductName": "LILY ABSOLU",
+    "ProductName": "Lily Absolu",
     "PriceSale": "140",
     "Promotion": false,
     "ImagePath": "1738435979177-67020580-61Bz4K8RsnL._AC_UF1000,1000_QL80_.jpg",
@@ -551,10 +551,65 @@
   },
   {
     "IdProduct": 52,
-    "ProductName": "LILY GELEIA ILUMINADORA",
+    "ProductName": "Lily Geleia Iluminadora",
     "PriceSale": "170",
     "Promotion": false,
     "ImagePath": "1738436045613-197379563-61wLpxmizrL.jpg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 53,
+    "ProductName": "Bubbaloo Morango 200ml",
+    "PriceSale": "58",
+    "Promotion": false,
+    "ImagePath": "1738437504537-504561757-WhatsApp_Image_2025-02-01_at_13.56.09_(2).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 54,
+    "ProductName": "Bubbaloo Uva 200ml",
+    "PriceSale": "58",
+    "Promotion": false,
+    "ImagePath": "1738437561571-4216072-WhatsApp_Image_2025-02-01_at_11.03.18.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 55,
+    "ProductName": "Bubbaloo Tutti Frutti 200ml",
+    "PriceSale": "58",
+    "Promotion": false,
+    "ImagePath": "1738437615531-646393555-WhatsApp_Image_2025-02-01_at_11.03.18_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 56,
+    "ProductName": "Show de Banho 400ml",
+    "PriceSale": "70",
+    "Promotion": false,
+    "ImagePath": "1738437678313-50801594-WhatsApp_Image_2025-02-01_at_11.03.18_(2).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 57,
+    "ProductName": "Deleite 200ml",
+    "PriceSale": "40",
+    "Promotion": true,
+    "ImagePath": "1738437732170-872289475-5c9802e2-638d-42ff-8808-3eacca2e67c1-49882.webp",
     "IdCategory": 6,
     "Category": {
       "CategoryName": "Cremes hidratantes"
