@@ -114,8 +114,7 @@ const App = () => {
       >
         <Box className="drawer-box"
           sx={{
-            marginBottom: '1rem',
-            height: '100vh',
+            height: '90vh',
             overflowY: 'auto', // Habilita a rolagem vertical
           }}
         >
