@@ -1527,5 +1527,38 @@
     "Category": {
       "CategoryName": "Linha Capilar"
     }
+  },
+  {
+    "IdProduct": 141,
+    "ProductName": "Kit OUI 020",
+    "PriceSale": "379.90",
+    "Promotion": false,
+    "ImagePath": "1738530248255-249919983-capa-43-.avif",
+    "IdCategory": 9,
+    "Category": {
+      "CategoryName": "Kits de perfumes"
+    }
+  },
+  {
+    "IdProduct": 142,
+    "ProductName": "Sabonete OUI ",
+    "PriceSale": "39.90",
+    "Promotion": false,
+    "ImagePath": "1738530312500-244609842-D_NQ_NP_830682-MLB69496525590_052023-O.webp",
+    "IdCategory": 8,
+    "Category": {
+      "CategoryName": "Sabonetes"
+    }
+  },
+  {
+    "IdProduct": 143,
+    "ProductName": "Desodorate Aerosol OUI 001",
+    "PriceSale": "49.90",
+    "Promotion": false,
+    "ImagePath": "1738530362003-632585243-1000160489-rbzc8zjkq8.webp",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
   }
 ]
