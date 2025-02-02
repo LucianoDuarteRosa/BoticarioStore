@@ -200,8 +200,8 @@
   {
     "IdProduct": 20,
     "ProductName": "Malbec",
-    "PriceSale": "169.90",
-    "Promotion": true,
+    "PriceSale": "199.90",
+    "Promotion": false,
     "ImagePath": "1738431291170-214416268-D_Q_NP_687834-MLU72751500008_112023-O.webp",
     "IdCategory": 2,
     "Category": {
@@ -233,8 +233,8 @@
   {
     "IdProduct": 23,
     "ProductName": "Malbec Icon",
-    "PriceSale": "179.90",
-    "Promotion": true,
+    "PriceSale": "199.90",
+    "Promotion": false,
     "ImagePath": "1738431588045-124291172-61uaZrhR4KL.jpg",
     "IdCategory": 2,
     "Category": {
@@ -613,6 +613,270 @@
     "IdCategory": 6,
     "Category": {
       "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 58,
+    "ProductName": "Gloss Deleite",
+    "PriceSale": "39.90",
+    "Promotion": false,
+    "ImagePath": "1738504000616-65405430-WhatsApp_Image_2025-02-02_at_10.30.01.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 59,
+    "ProductName": "Hidratante Labial",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1738504056160-117483166-WhatsApp_Image_2025-02-02_at_10.35.37.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 60,
+    "ProductName": "Batom Mate Marronterra",
+    "PriceSale": "36.90",
+    "Promotion": true,
+    "ImagePath": "1738504137525-610941717-WhatsApp_Image_2025-02-02_at_10.30.01_(3).jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 61,
+    "ProductName": "Base em Pó Mineral cor 40",
+    "PriceSale": "79.90",
+    "Promotion": true,
+    "ImagePath": "1738504244613-860495134-WhatsApp_Image_2025-02-02_at_10.34.40.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 62,
+    "ProductName": "Gloss Guaraná ",
+    "PriceSale": "39.90",
+    "Promotion": true,
+    "ImagePath": "1738504371544-801939076-WhatsApp_Image_2025-02-02_at_10.30.01_(1).jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 63,
+    "ProductName": "Blush Guaraná",
+    "PriceSale": "39.90",
+    "Promotion": true,
+    "ImagePath": "1738504455878-209245222-WhatsApp_Image_2025-02-02_at_10.30.01_(2).jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 64,
+    "ProductName": "Batom Shophie",
+    "PriceSale": "19.90",
+    "Promotion": true,
+    "ImagePath": "1738504579057-389434291-WhatsApp_Image_2025-02-02_at_10.30.01_(4).jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 65,
+    "ProductName": "Shampoo Banana",
+    "PriceSale": "24.90",
+    "Promotion": false,
+    "ImagePath": "1738504740841-364464527-WhatsApp_Image_2025-02-02_at_10.30.01_(5).jpeg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Shampoo e Condicionador"
+    }
+  },
+  {
+    "IdProduct": 66,
+    "ProductName": "Condicionador Banana",
+    "PriceSale": "27.90",
+    "Promotion": false,
+    "ImagePath": "1738504789525-768985626-WhatsApp_Image_2025-02-02_at_10.30.01_(6).jpeg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Shampoo e Condicionador"
+    }
+  },
+  {
+    "IdProduct": 67,
+    "ProductName": "Shampoo Framboesa",
+    "PriceSale": "24.90",
+    "Promotion": false,
+    "ImagePath": "1738504826848-309759955-WhatsApp_Image_2025-02-02_at_10.30.01_(7).jpeg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Shampoo e Condicionador"
+    }
+  },
+  {
+    "IdProduct": 68,
+    "ProductName": "Condicionador Manga",
+    "PriceSale": "27.90",
+    "Promotion": false,
+    "ImagePath": "1738504866790-320086581-WhatsApp_Image_2025-02-02_at_10.30.01_(8).jpeg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Shampoo e Condicionador"
+    }
+  },
+  {
+    "IdProduct": 69,
+    "ProductName": "Kit Pré e Pós Química",
+    "PriceSale": "97.80",
+    "Promotion": false,
+    "ImagePath": "1738505013830-600385014-WhatsApp_Image_2025-02-02_at_10.34.38.jpeg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Shampoo e Condicionador"
+    }
+  },
+  {
+    "IdProduct": 70,
+    "ProductName": "Shampoo Infantil",
+    "PriceSale": "59.90",
+    "Promotion": false,
+    "ImagePath": "1738505158506-365334938-WhatsApp_Image_2025-02-02_at_10.35.37_(1).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 71,
+    "ProductName": "Creme de Pentear",
+    "PriceSale": "42.90",
+    "Promotion": false,
+    "ImagePath": "1738505204891-358530596-WhatsApp_Image_2025-02-02_at_10.34.39.jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 72,
+    "ProductName": "Refil Sabonete Líquido",
+    "PriceSale": "48.90",
+    "Promotion": false,
+    "ImagePath": "1738505322538-955047601-WhatsApp_Image_2025-02-02_at_10.30.03_(1).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 73,
+    "ProductName": "Sabonete Líquido",
+    "PriceSale": "59.90",
+    "Promotion": false,
+    "ImagePath": "1738505351457-643310194-WhatsApp_Image_2025-02-02_at_10.30.03.jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 74,
+    "ProductName": "Hidratante",
+    "PriceSale": "54.90",
+    "Promotion": false,
+    "ImagePath": "1738505407844-564606160-WhatsApp_Image_2025-02-02_at_10.30.02_(4).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 75,
+    "ProductName": "Espuma de Banho",
+    "PriceSale": "59.90",
+    "Promotion": false,
+    "ImagePath": "1738505467806-105211161-WhatsApp_Image_2025-02-02_at_10.30.02_(3).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 76,
+    "ProductName": "Colônia Amizade",
+    "PriceSale": "92.90",
+    "Promotion": false,
+    "ImagePath": "1738505607191-854150214-WhatsApp_Image_2025-02-02_at_10.30.02_(2).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 77,
+    "ProductName": "Colônia Criatividade",
+    "PriceSale": "92.90",
+    "Promotion": false,
+    "ImagePath": "1738505742175-243359803-WhatsApp_Image_2025-02-02_at_10.30.02_(1).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 78,
+    "ProductName": "Colônia da Força",
+    "PriceSale": "92.90",
+    "Promotion": false,
+    "ImagePath": "1738505807465-958890208-WhatsApp_Image_2025-02-02_at_10.30.02.jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 79,
+    "ProductName": "Colônia Divertidamente",
+    "PriceSale": "129.90",
+    "Promotion": false,
+    "ImagePath": "1738505870357-648527077-WhatsApp_Image_2025-02-02_at_10.30.03_(2).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 80,
+    "ProductName": "Roll on Divertidamente",
+    "PriceSale": "23.90",
+    "Promotion": false,
+    "ImagePath": "1738505970773-951567-WhatsApp_Image_2025-02-02_at_10.30.04.jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 81,
+    "ProductName": "Roll on Bob Esponja",
+    "PriceSale": "28.90",
+    "Promotion": false,
+    "ImagePath": "1738506021946-288837545-WhatsApp_Image_2025-02-02_at_10.30.04_(1).jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
     }
   }
 ]
