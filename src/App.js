@@ -56,7 +56,7 @@ const App = () => {
     ];
 
     setCategories(uniqueCategories);
-  }, [productsData]);
+  }, []);
 
 
   const handleCategoryChange = (category) => {
@@ -112,7 +112,13 @@ const App = () => {
         open={drawerOpen}
         onClose={toggleDrawer(false)}
       >
-        <Box className="drawer-box">
+        <Box className="drawer-box"
+          sx={{
+            marginBottom: '1rem',
+            height: '95vh',
+            overflowY: 'auto', // Habilita a rolagem vertical
+          }}
+        >
           {/* Logo dentro do Drawer */}
           <Box>
             <Logo />
