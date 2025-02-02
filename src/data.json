@@ -878,5 +878,192 @@
     "Category": {
       "CategoryName": "Linha Kids"
     }
+  },
+  {
+    "IdProduct": 82,
+    "ProductName": "Shampoo Pet",
+    "PriceSale": "34.90",
+    "Promotion": true,
+    "ImagePath": "1738506436777-715001940-WhatsApp_Image_2025-02-02_at_10.30.03_(3).jpeg",
+    "IdCategory": 13,
+    "Category": {
+      "CategoryName": "Linha Pet"
+    }
+  },
+  {
+    "IdProduct": 83,
+    "ProductName": "Colônia Pet",
+    "PriceSale": "39.90",
+    "Promotion": true,
+    "ImagePath": "1738506482257-697193181-WhatsApp_Image_2025-02-02_at_10.30.04_(2).jpeg",
+    "IdCategory": 13,
+    "Category": {
+      "CategoryName": "Linha Pet"
+    }
+  },
+  {
+    "IdProduct": 84,
+    "ProductName": "Creme para os Pés",
+    "PriceSale": "24.90",
+    "Promotion": true,
+    "ImagePath": "1738506642579-167290471-WhatsApp_Image_2025-02-02_at_10.30.04_(3).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 85,
+    "ProductName": "Aromatizador",
+    "PriceSale": "29.90",
+    "Promotion": true,
+    "ImagePath": "1738506729830-146070926-WhatsApp_Image_2025-02-02_at_10.30.04_(4).jpeg",
+    "IdCategory": 14,
+    "Category": {
+      "CategoryName": "Linha Casa"
+    }
+  },
+  {
+    "IdProduct": 86,
+    "ProductName": "Refil Lily",
+    "PriceSale": "99.90",
+    "Promotion": false,
+    "ImagePath": "1738506937356-887591949-WhatsApp_Image_2025-02-02_at_10.30.04_(5).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 87,
+    "ProductName": "Hidratante Hidra",
+    "PriceSale": "62.90",
+    "Promotion": false,
+    "ImagePath": "1738507028173-457451189-WhatsApp_Image_2025-02-02_at_10.34.38_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 88,
+    "ProductName": "Floratta Gold",
+    "PriceSale": "62.90",
+    "Promotion": false,
+    "ImagePath": "1738507109674-573177697-WhatsApp_Image_2025-02-02_at_10.34.39_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 89,
+    "ProductName": "Lilac para mãos",
+    "PriceSale": "34.90",
+    "Promotion": true,
+    "ImagePath": "1738507324792-124529358-WhatsApp_Image_2025-02-02_at_10.34.42.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 90,
+    "ProductName": "Refil Lilac",
+    "PriceSale": "67.90",
+    "Promotion": false,
+    "ImagePath": "1738507378023-312995060-WhatsApp_Image_2025-02-02_at_10.34.43.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 91,
+    "ProductName": "Refil Nuvem",
+    "PriceSale": "54.90",
+    "Promotion": false,
+    "ImagePath": "1738507462944-573605640-WhatsApp_Image_2025-02-02_at_10.34.44.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 92,
+    "ProductName": "Refil Deleite",
+    "PriceSale": "54.90",
+    "Promotion": false,
+    "ImagePath": "1738507501691-943956041-WhatsApp_Image_2025-02-02_at_10.34.44_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 93,
+    "ProductName": "Refil Rosa e Algodão",
+    "PriceSale": "54.90",
+    "Promotion": false,
+    "ImagePath": "1738507552693-393409017-WhatsApp_Image_2025-02-02_at_10.35.37_(5).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 94,
+    "ProductName": "Refil Ameixa",
+    "PriceSale": "67.90",
+    "Promotion": false,
+    "ImagePath": "1738507597769-50132823-WhatsApp_Image_2025-02-02_at_10.35.36.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 95,
+    "ProductName": "7 Belo para mãos",
+    "PriceSale": "25.90",
+    "Promotion": false,
+    "ImagePath": "1738507680663-906282008-WhatsApp_Image_2025-02-02_at_10.34.40_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 96,
+    "ProductName": "Oléo Malbec",
+    "PriceSale": "49.90",
+    "Promotion": true,
+    "ImagePath": "1738507883688-941067467-WhatsApp_Image_2025-02-02_at_10.35.37_(3).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 97,
+    "ProductName": "Refil Elysée Blanc",
+    "PriceSale": "74.90",
+    "Promotion": true,
+    "ImagePath": "1738507975976-396847187-WhatsApp_Image_2025-02-02_at_10.35.37_(4).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 98,
+    "ProductName": "Refil Elysée",
+    "PriceSale": "74.90",
+    "Promotion": true,
+    "ImagePath": "1738508055297-688218849-WhatsApp_Image_2025-02-02_at_10.35.37_(6).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
   }
 ]
