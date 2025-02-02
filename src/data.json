@@ -1307,5 +1307,225 @@
     "Category": {
       "CategoryName": "Perfumes femininos"
     }
+  },
+  {
+    "IdProduct": 121,
+    "ProductName": "Malbec Vert Spray",
+    "PriceSale": "47.90",
+    "Promotion": false,
+    "ImagePath": "1738523676441-620636185-WhatsApp_Image_2025-02-02_at_10.35.37_(8).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 122,
+    "ProductName": "Scapin 245 Intense",
+    "PriceSale": "349.90",
+    "Promotion": false,
+    "ImagePath": "1738523819045-396631145-WhatsApp_Image_2025-02-02_at_10.35.37_(9).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 123,
+    "ProductName": "Scapin 245",
+    "PriceSale": "349.90",
+    "Promotion": false,
+    "ImagePath": "1738523903731-319395949-WhatsApp_Image_2025-02-02_at_10.35.37_(10).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 124,
+    "ProductName": "Madeleyne 862",
+    "PriceSale": "349.90",
+    "Promotion": false,
+    "ImagePath": "1738523973785-554396597-WhatsApp_Image_2025-02-02_at_10.35.37_(11).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 125,
+    "ProductName": "Scapin 245 Hidrtante",
+    "PriceSale": "119.90",
+    "Promotion": false,
+    "ImagePath": "1738524249257-782083163-WhatsApp_Image_2025-02-02_at_10.35.37_(12).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 126,
+    "ProductName": "La Villette 470 Hidra",
+    "PriceSale": "119.90",
+    "Promotion": false,
+    "ImagePath": "1738525626309-540879585-WhatsApp_Image_2025-02-02_at_10.35.37_(13).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 127,
+    "ProductName": "Elegance 115 Hidra",
+    "PriceSale": "119.90",
+    "Promotion": false,
+    "ImagePath": "1738525790633-214814598-WhatsApp_Image_2025-02-02_at_16.48.39.jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 128,
+    "ProductName": "L AMOUR 142 Hidra",
+    "PriceSale": "159.90",
+    "Promotion": false,
+    "ImagePath": "1738525921738-534033442-WhatsApp_Image_2025-02-02_at_10.35.37_(14).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 129,
+    "ProductName": "Scapin 245 Intense",
+    "PriceSale": "159.90",
+    "Promotion": false,
+    "ImagePath": "1738525968834-724403385-WhatsApp_Image_2025-02-02_at_10.35.38_(2).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 130,
+    "ProductName": "La villete 470",
+    "PriceSale": "159.90",
+    "Promotion": false,
+    "ImagePath": "1738526027506-308320820-WhatsApp_Image_2025-02-02_at_10.35.38_(3).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 131,
+    "ProductName": "Refil Scapin 245 Colônia",
+    "PriceSale": "199.90",
+    "Promotion": false,
+    "ImagePath": "1738526108289-988359575-WhatsApp_Image_2025-02-02_at_10.35.38_(4).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 132,
+    "ProductName": "Scapin 245 Refil Hidra",
+    "PriceSale": "109.90",
+    "Promotion": false,
+    "ImagePath": "1738526375924-526182200-WhatsApp_Image_2025-02-02_at_10.35.38_(6).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 133,
+    "ProductName": "L Amour 142 Refil Hidra",
+    "PriceSale": "109.90",
+    "Promotion": false,
+    "ImagePath": "1738526441297-173791926-WhatsApp_Image_2025-02-02_at_10.35.38_(7).jpeg",
+    "IdCategory": 15,
+    "Category": {
+      "CategoryName": "OUI Importados"
+    }
+  },
+  {
+    "IdProduct": 134,
+    "ProductName": "Batom Cor Bere270",
+    "PriceSale": "29.90",
+    "Promotion": false,
+    "ImagePath": "1738526824290-383279059-27ba8431-d0d4-450f-af68-7cfd5d88720d-qdb-56867-batom-cremoso-cor-350-frontal-01.webp",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 135,
+    "ProductName": "Batom cor Pink Rose",
+    "PriceSale": "29.90",
+    "Promotion": false,
+    "ImagePath": "1738527314106-72473212-6c2e74a0-4b89-479c-aea4-6d7881343358-bot-83343-intense-arraso-batom-pink-ambientado.webp",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 136,
+    "ProductName": "Batom Volumão cor Rosa Pinkli",
+    "PriceSale": "57.90",
+    "Promotion": false,
+    "ImagePath": "1738527613546-540765045-513gIEUcF9L._AC_UF1000,1000_QL80_.jpg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 137,
+    "ProductName": "Lapis para olhos cor preto",
+    "PriceSale": "17.90",
+    "Promotion": false,
+    "ImagePath": "1738527741934-769437594-br-11134207-7qukw-ljohlgx7mrs69a.jpg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 138,
+    "ProductName": "Lapis 3 em 1 cor Damasco",
+    "PriceSale": "22.90",
+    "Promotion": true,
+    "ImagePath": "1738527891586-992159212-9f6dbe26-e728-4566-95a5-8865844fb787-q54749-lapis-batom-3-1-faber-castell-damasco-2g-color.webp",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 139,
+    "ProductName": "Lapis de olho Esfumador cor Preto",
+    "PriceSale": "47.90",
+    "Promotion": true,
+    "ImagePath": "1738528058374-907515385-Lapis-Olhos-Esfumador-Preto_Q77834_Fechado.webp",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 140,
+    "ProductName": "Cuide se bem Condicionador",
+    "PriceSale": "34.90",
+    "Promotion": false,
+    "ImagePath": "1738528129708-72499279-D_NQ_NP_934345-MLB47246796651_082021-O.webp",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Linha Capilar"
+    }
   }
 ]
