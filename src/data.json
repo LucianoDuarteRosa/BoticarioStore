@@ -700,7 +700,7 @@
     "ImagePath": "1738504740841-364464527-WhatsApp_Image_2025-02-02_at_10.30.01_(5).jpeg",
     "IdCategory": 7,
     "Category": {
-      "CategoryName": "Shampoo e Condicionador"
+      "CategoryName": "Linha Capilar"
     }
   },
   {
@@ -711,7 +711,7 @@
     "ImagePath": "1738504789525-768985626-WhatsApp_Image_2025-02-02_at_10.30.01_(6).jpeg",
     "IdCategory": 7,
     "Category": {
-      "CategoryName": "Shampoo e Condicionador"
+      "CategoryName": "Linha Capilar"
     }
   },
   {
@@ -722,7 +722,7 @@
     "ImagePath": "1738504826848-309759955-WhatsApp_Image_2025-02-02_at_10.30.01_(7).jpeg",
     "IdCategory": 7,
     "Category": {
-      "CategoryName": "Shampoo e Condicionador"
+      "CategoryName": "Linha Capilar"
     }
   },
   {
@@ -733,7 +733,7 @@
     "ImagePath": "1738504866790-320086581-WhatsApp_Image_2025-02-02_at_10.30.01_(8).jpeg",
     "IdCategory": 7,
     "Category": {
-      "CategoryName": "Shampoo e Condicionador"
+      "CategoryName": "Linha Capilar"
     }
   },
   {
@@ -744,7 +744,7 @@
     "ImagePath": "1738505013830-600385014-WhatsApp_Image_2025-02-02_at_10.34.38.jpeg",
     "IdCategory": 7,
     "Category": {
-      "CategoryName": "Shampoo e Condicionador"
+      "CategoryName": "Linha Capilar"
     }
   },
   {
@@ -1064,6 +1064,248 @@
     "IdCategory": 6,
     "Category": {
       "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 99,
+    "ProductName": "Refil Deleite para mãos",
+    "PriceSale": "24.90",
+    "Promotion": false,
+    "ImagePath": "1738521026923-885787990-WhatsApp_Image_2025-02-02_at_10.35.38.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 100,
+    "ProductName": "Refil Rosa e Algodão para mãos",
+    "PriceSale": "24.90",
+    "Promotion": false,
+    "ImagePath": "1738521068107-713983761-WhatsApp_Image_2025-02-02_at_10.35.38_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 101,
+    "ProductName": "SOS Cauterização",
+    "PriceSale": "36.90",
+    "Promotion": true,
+    "ImagePath": "1738521214111-752627919-WhatsApp_Image_2025-02-02_at_10.34.39_(2).jpeg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Linha Capilar"
+    }
+  },
+  {
+    "IdProduct": 102,
+    "ProductName": "Máscara Capilar",
+    "PriceSale": "19.90",
+    "Promotion": true,
+    "ImagePath": "1738521346114-532718300-WhatsApp_Image_2025-02-02_at_10.35.37_(2).jpeg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Linha Capilar"
+    }
+  },
+  {
+    "IdProduct": 103,
+    "ProductName": " Deleite barra 4 un",
+    "PriceSale": "34.90",
+    "Promotion": false,
+    "ImagePath": "1738521904395-915511088-WhatsApp_Image_2025-02-02_at_10.34.40_(2).jpeg",
+    "IdCategory": 8,
+    "Category": {
+      "CategoryName": "Sabonetes"
+    }
+  },
+  {
+    "IdProduct": 104,
+    "ProductName": "Nuvem barra 4 un",
+    "PriceSale": "34.90",
+    "Promotion": false,
+    "ImagePath": "1738521943994-143006238-WhatsApp_Image_2025-02-02_at_10.34.40_(3).jpeg",
+    "IdCategory": 8,
+    "Category": {
+      "CategoryName": "Sabonetes"
+    }
+  },
+  {
+    "IdProduct": 105,
+    "ProductName": "Pessegura barra 4 un",
+    "PriceSale": "34.90",
+    "Promotion": false,
+    "ImagePath": "1738522004830-79762322-WhatsApp_Image_2025-02-02_at_10.34.40_(4).jpeg",
+    "IdCategory": 8,
+    "Category": {
+      "CategoryName": "Sabonetes"
+    }
+  },
+  {
+    "IdProduct": 106,
+    "ProductName": "Beijinho barra 2 un",
+    "PriceSale": "21.90",
+    "Promotion": false,
+    "ImagePath": "1738522043931-619964681-WhatsApp_Image_2025-02-02_at_10.34.40_(5).jpeg",
+    "IdCategory": 8,
+    "Category": {
+      "CategoryName": "Sabonetes"
+    }
+  },
+  {
+    "IdProduct": 107,
+    "ProductName": "Deleite barra 2 un",
+    "PriceSale": "21.90",
+    "Promotion": false,
+    "ImagePath": "1738522081932-843222661-WhatsApp_Image_2025-02-02_at_10.34.40_(6).jpeg",
+    "IdCategory": 8,
+    "Category": {
+      "CategoryName": "Sabonetes"
+    }
+  },
+  {
+    "IdProduct": 108,
+    "ProductName": "Malbec Aerosol",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1738522163684-664978133-WhatsApp_Image_2025-02-02_at_10.35.37_(7).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 109,
+    "ProductName": "Malbec Icon Aerosol",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1738522268571-747513504-WhatsApp_Image_2025-02-02_at_10.34.39_(3).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 110,
+    "ProductName": "Arbo Aerosol",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1738522319655-72510127-WhatsApp_Image_2025-02-02_at_10.34.39_(4).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 111,
+    "ProductName": "Arbo Spray",
+    "PriceSale": "47.90",
+    "Promotion": false,
+    "ImagePath": "1738522374416-75473993-WhatsApp_Image_2025-02-02_at_10.30.05_(1).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 112,
+    "ProductName": "Quasar Rush Refil Spray",
+    "PriceSale": "35.90",
+    "Promotion": false,
+    "ImagePath": "1738522483178-483146128-WhatsApp_Image_2025-02-02_at_10.34.39_(5).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 113,
+    "ProductName": "Quasar Refil Spray",
+    "PriceSale": "35.90",
+    "Promotion": false,
+    "ImagePath": "1738522598180-475440868-WhatsApp_Image_2025-02-02_at_10.34.39_(6).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 114,
+    "ProductName": "Lily Aerosol",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1738522826860-760421485-WhatsApp_Image_2025-02-02_at_10.30.05.jpeg",
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  },
+  {
+    "IdProduct": 115,
+    "ProductName": "Glamour Spray",
+    "PriceSale": "37.90",
+    "Promotion": true,
+    "ImagePath": "1738522871583-422024589-WhatsApp_Image_2025-02-02_at_10.34.38_(2).jpeg",
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  },
+  {
+    "IdProduct": 116,
+    "ProductName": "Glamour Aerosol",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1738522975206-508551022-WhatsApp_Image_2025-02-02_at_10.34.39_(7).jpeg",
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  },
+  {
+    "IdProduct": 117,
+    "ProductName": "Quasar Roll on",
+    "PriceSale": "28.90",
+    "Promotion": false,
+    "ImagePath": "1738523040492-766448041-WhatsApp_Image_2025-02-02_at_10.34.39_(8).jpeg",
+    "IdCategory": 4,
+    "Category": {
+      "CategoryName": "Desodorantes masculinos"
+    }
+  },
+  {
+    "IdProduct": 118,
+    "ProductName": "Roll on Invisible",
+    "PriceSale": "19.90",
+    "Promotion": true,
+    "ImagePath": "1738523149262-815703343-WhatsApp_Image_2025-02-02_at_10.34.39_(9).jpeg",
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  },
+  {
+    "IdProduct": 119,
+    "ProductName": "Glamour Secrets Black Refil ",
+    "PriceSale": "139.90",
+    "Promotion": false,
+    "ImagePath": "1738523299197-805222613-WhatsApp_Image_2025-02-02_at_10.34.41_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 120,
+    "ProductName": "Glamour Refil ",
+    "PriceSale": "139.90",
+    "Promotion": false,
+    "ImagePath": "1738523363134-979308711-WhatsApp_Image_2025-02-02_at_10.34.42_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
     }
   }
 ]
