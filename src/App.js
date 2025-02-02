@@ -27,14 +27,37 @@ const App = () => {
 
   useEffect(() => {
     // Configurar os produtos
-    setProducts(productsData);
+    const shuffleArray = (array) => {
+      return array
+        .map((value) => ({ value, sort: Math.random() })) // Adiciona um valor aleatório
+        .sort((a, b) => a.sort - b.sort) // Ordena aleatoriamente
+        .map(({ value }) => value); // Retorna apenas os valores originais
+    };
+
+    // Embaralha os produtos antes de definir no estado
+    setProducts(shuffleArray(productsData));
 
     // Obter categorias únicas a partir do campo Category.CategoryName
+    const categoriesSet = new Set(
+      productsData.map((product) => product.Category.CategoryName)
+    );
+
+    // Adiciona "Promoção" se houver pelo menos um produto com Promotion: true
+    if (productsData.some((product) => product.Promotion)) {
+      categoriesSet.add("Promoção");
+    }
+
+    // Transforma em array e coloca "Promoção" no início se existir
     const uniqueCategories = [
-      ...new Set(productsData.map((product) => product.Category.CategoryName)),
+      "Promoção",
+      ...Array.from(categoriesSet)
+        .filter(c => c !== "Promoção")
+        .sort((a, b) => a.localeCompare(b)) // Ordenação alfabética
     ];
+
     setCategories(uniqueCategories);
   }, [productsData]);
+
 
   const handleCategoryChange = (category) => {
     setSelectedCategories((prev) =>
@@ -44,14 +67,14 @@ const App = () => {
     );
   };
 
-  const filteredProducts = products.filter(
-    (product) =>
-      // Verificar se a categoria está selecionada
-      (!selectedCategories.length ||
-        selectedCategories.includes(product.Category.CategoryName)) &&
-      // Verificar se o nome do produto corresponde à pesquisa
-      product.ProductName.toLowerCase().includes(searchValue.toLowerCase())
-  );
+  const filteredProducts = products.filter((product) => {
+    const isCategorySelected =
+      !selectedCategories.length ||
+      selectedCategories.includes(product.Category.CategoryName) ||
+      (selectedCategories.includes("Promoção") && product.Promotion);
+
+    return isCategorySelected && product.ProductName.toLowerCase().includes(searchValue.toLowerCase());
+  });
 
   return (
     <Container style={{ marginTop: "1.5rem" }}>
@@ -131,6 +154,9 @@ const App = () => {
             </Grid>
           </Grid>
         </Grid>
+      </Box>
+      <Box className="footer">
+        <p>© 2025 Desenvolvido por Luciano Duarte</p>
       </Box>
     </Container>
   );

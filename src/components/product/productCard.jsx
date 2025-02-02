@@ -12,6 +12,7 @@ const ProductCard = ({ product }) => {
     return (
         <div className="product-card">
             <div className="product-card-content">
+                {product.Promotion && <div className="promotion-banner">Promoção</div>}
                 <img className="img-product" src={`/${product.ImagePath}`} alt="imagem do produto" />
                 <div className="product-info">
                     <h3 className="product-name">{product.ProductName}</h3>

@@ -20,7 +20,7 @@
 }
 
 body {
-    padding: 1rem 1rem 0 1rem;
+    padding: 1rem;
     font-family: var(--font-dm-sans) !important;
     color: var(--text-base-light);
     background-color: var(--bg-icon);
@@ -44,4 +44,11 @@ body {
     justify-content: space-between;
     padding: 1rem;
     transition: transform 0.3s ease-in-out;
+}
+
+.footer{
+    color: var(--text-base-light);
+    font-weight: 500;
+    margin-top: 1rem;
+    text-align: center;
 }

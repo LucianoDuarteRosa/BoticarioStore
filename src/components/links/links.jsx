@@ -7,7 +7,6 @@ import './links.css';
 const Links = () => {
     const whatsappMessage = `Olá! Gostaria de saber mais sobre os produtos. Poderia me ajudar?`;
     const whatsappUrl = `https://wa.me/${paramsData[0].WhatsApp}?text=${encodeURIComponent(whatsappMessage)}`;
-    console.log(paramsData);
     return (
         <div className="social-links">
             <div>
