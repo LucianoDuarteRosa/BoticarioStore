@@ -1560,5 +1560,16 @@
     "Category": {
       "CategoryName": "Desodorantes masculinos"
     }
+  },
+  {
+    "IdProduct": 144,
+    "ProductName": "Shampoo Men 2 em 1",
+    "PriceSale": "39.90",
+    "Promotion": false,
+    "ImagePath": "1738533317982-673608533-5ee203ed-2762-4c06-88c4-88660ee40b73-bot-55975-men-shampcond-21-250ml-produto-amvbientado.jpg",
+    "IdCategory": 7,
+    "Category": {
+      "CategoryName": "Linha Capilar"
+    }
   }
 ]
