@@ -1089,17 +1089,6 @@
     }
   },
   {
-    "IdProduct": 102,
-    "ProductName": "Máscara Capilar",
-    "PriceSale": "19.90",
-    "Promotion": true,
-    "ImagePath": "1738521346114-532718300-WhatsApp_Image_2025-02-02_at_10.35.37_(2).jpeg",
-    "IdCategory": 7,
-    "Category": {
-      "CategoryName": "Linha Capilar"
-    }
-  },
-  {
     "IdProduct": 103,
     "ProductName": " Deleite barra 4 un",
     "PriceSale": "34.90",
@@ -1559,6 +1548,17 @@
     "IdCategory": 7,
     "Category": {
       "CategoryName": "Linha Capilar"
+    }
+  },
+  {
+    "IdProduct": 145,
+    "ProductName": "Hidra Ginseng e Cafeína 50ml",
+    "PriceSale": "19.90",
+    "Promotion": true,
+    "ImagePath": "1738709559959-904321120-WhatsApp_Image_2025-02-04_at_19.48.46.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
     }
   }
 ]
