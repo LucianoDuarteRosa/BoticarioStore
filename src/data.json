@@ -605,17 +605,6 @@
     }
   },
   {
-    "IdProduct": 57,
-    "ProductName": "Deleite 200ml",
-    "PriceSale": "39.90",
-    "Promotion": true,
-    "ImagePath": "1738437732170-872289475-5c9802e2-638d-42ff-8808-3eacca2e67c1-49882.webp",
-    "IdCategory": 6,
-    "Category": {
-      "CategoryName": "Cremes hidratantes"
-    }
-  },
-  {
     "IdProduct": 58,
     "ProductName": "Gloss Deleite",
     "PriceSale": "39.90",
