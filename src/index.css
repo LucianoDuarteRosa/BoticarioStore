@@ -20,7 +20,7 @@
 }
 
 body {
-    padding: 1rem;
+    padding: 1rem 2rem 1rem 0;
     font-family: var(--font-dm-sans) !important;
     color: var(--text-base-light);
     background-color: var(--bg-icon);
@@ -35,7 +35,7 @@ body {
 .drawer .MuiDrawer-paper {
     width: 300px;
     height: auto;
-  }
+}
 
 .drawer-box {
     background-color: var(--bg-icon);
@@ -44,11 +44,59 @@ body {
     justify-content: space-between;
     padding: 1rem;
     transition: transform 0.3s ease-in-out;
+    height: 90vh;
+    overflow-y: auto;
 }
 
-.footer{
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: var(--text-base-light);
     font-weight: 500;
-    margin-top: 1rem;
-    text-align: center;
+    margin: 1rem 0 0 0;
+}
+
+.social-icon-app {
+    margin-left: .6rem;
+    color: var(--text-sub);
+    cursor: pointer;
+    transition: color .3s;
+    font-size: 1.3rem;
+}
+
+.social-icon-app :hover {
+    color: var(--text-destac);
+}
+
+
+@media (max-width: 600px) {
+    .footer {
+        font-size: .9rem;
+    }
+
+    .social-icon-app {
+        margin-left: .3rem;
+        font-size: .9rem;
+    }
+
+    .social-icon-app :hover {
+        color: var(--text-destac);
+    }
+}
+
+
+@media (max-width: 350px) {
+    .footer {
+        font-size: .7rem;
+    }
+
+    .social-icon-app {
+        margin-left: .1rem;
+        font-size: .7rem;
+    }
+
+    .social-icon-app :hover {
+        color: var(--text-destac);
+    }
 }

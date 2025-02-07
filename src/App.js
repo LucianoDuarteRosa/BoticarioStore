@@ -7,7 +7,8 @@ import Logo from "./components/logo/logo";
 import productsData from "./data.json";
 import { Grid, Container, Box, IconButton, Drawer } from "@mui/material";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBars } from "@fortawesome/free-solid-svg-icons";
+import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import './index.css';
 
 const App = () => {
@@ -76,6 +77,13 @@ const App = () => {
     return isCategorySelected && product.ProductName.toLowerCase().includes(searchValue.toLowerCase());
   });
 
+  const whatsappMessage = `Olá! Gostaria de saber mais sobre o site. Poderia me ajudar?`;
+  const whatsappUrl = `https://wa.me/5532988996771?text=${encodeURIComponent(whatsappMessage)}`
+  const linkedIn = "https://www.linkedin.com/in/lucianoduarterosa";
+  const email = "lucianoduarterosa@hotmail.com";
+  const subject = "Desenvolvimento de site";
+  const body = "Olá, gostaria de saber mais informações.";
+
   return (
     <Container style={{ marginTop: "1.5rem" }}>
       {/* Topo com barra de pesquisa, logo e menu hambúrguer */}
@@ -112,13 +120,7 @@ const App = () => {
         open={drawerOpen}
         onClose={toggleDrawer(false)}
       >
-        <Box className="drawer-box"
-          sx={{
-            height: '90vh',
-            overflowY: 'auto', // Habilita a rolagem vertical
-          }}
-        >
-          {/* Logo dentro do Drawer */}
+        <Box className="drawer-box">
           <Box>
             <Logo />
           </Box>
@@ -161,7 +163,23 @@ const App = () => {
         </Grid>
       </Box>
       <Box className="footer">
-        <p>© 2025 Desenvolvido por Luciano Duarte</p>
+        <p>© 2025 - Luciano Duarte. Contato:
+          <span>
+            <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faWhatsapp} className="social-icon-app" />
+            </a>
+          </span>
+          <span>
+            <a href={`mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`}>
+              <FontAwesomeIcon icon={faEnvelope} className="social-icon-app" />
+            </a>
+          </span>
+          <span>
+            <a  href={linkedIn} target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faLinkedin} className="social-icon-app" />
+            </a>
+          </span>
+        </p>
       </Box>
     </Container>
   );

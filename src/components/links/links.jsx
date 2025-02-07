@@ -15,12 +15,12 @@ const Links = () => {
             </div>
 
             <div className="social-icons">
-                {paramsData[0].Facebook !== '' ?
+                {paramsData[0].Facebook != '' ?
                     <a href={paramsData[0].Facebook} target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon icon={faFacebook} className="social-icon" />
                     </a> : ''
                 }
-                {paramsData[0].Instagram !== '' ?
+                {paramsData[0].Instagram != '' ?
                     <a href={paramsData[0].Instagram} target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon icon={faInstagram} className="social-icon" />
                     </a> : ''

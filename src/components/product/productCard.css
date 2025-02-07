@@ -34,14 +34,14 @@
 
 .promotion-banner {
     position: absolute;
-    top: 25px;
+    top: 0;
     left: 0;
     background: var(--text-destac);
     color: var(--text-base-light);
-    padding: 4px 15px;
+    border-radius: 12px 0 12px 0;
+    padding: .3rem .7rem;
     font-size: 1rem;
     font-weight: 700;
-    transform: rotate(-30deg);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 
@@ -145,8 +145,40 @@
     }
 
     .whatsapp-icon {
-        margin-left: 0.5rem;
         width: 1rem;
         height: 1rem;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .promotion-banner {
+        padding: .3rem .6rem;
+        font-size: .9rem;
+    }
+}
+
+@media (max-width: 350px) {
+    .product-name {
+        font-size: .8rem;
+        margin-bottom: .5rem;
+    }
+
+    .product-price {
+        font-size: 1rem;
+    }
+
+    .product-sale {
+        font-size: .4rem;
+    }
+
+    .whatsapp-icon {
+        width: .8rem;
+        height: .8rem;
+    }
+
+    .promotion-banner {
+        padding: .2rem .5rem;
+        font-size: .8rem;
     }
 }
