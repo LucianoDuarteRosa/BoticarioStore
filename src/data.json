@@ -308,17 +308,6 @@
     }
   },
   {
-    "IdProduct": 32,
-    "ProductName": "Kit Ameixa Dourada",
-    "PriceSale": "115.90",
-    "Promotion": false,
-    "ImagePath": "1738433324874-761757194-681400335794210.jpg",
-    "IdCategory": 9,
-    "Category": {
-      "CategoryName": "Kits de perfumes"
-    }
-  },
-  {
     "IdProduct": 33,
     "ProductName": "Kit Lily",
     "PriceSale": "199.90",
@@ -566,17 +555,6 @@
     "PriceSale": "57.90",
     "Promotion": false,
     "ImagePath": "1738437615531-646393555-WhatsApp_Image_2025-02-01_at_11.03.18_(1).jpeg",
-    "IdCategory": 6,
-    "Category": {
-      "CategoryName": "Cremes hidratantes"
-    }
-  },
-  {
-    "IdProduct": 56,
-    "ProductName": "Show de Banho 400ml",
-    "PriceSale": "69.90",
-    "Promotion": false,
-    "ImagePath": "1738437678313-50801594-WhatsApp_Image_2025-02-01_at_11.03.18_(2).jpeg",
     "IdCategory": 6,
     "Category": {
       "CategoryName": "Cremes hidratantes"
@@ -951,17 +929,6 @@
     "PriceSale": "67.90",
     "Promotion": false,
     "ImagePath": "1738507597769-50132823-WhatsApp_Image_2025-02-02_at_10.35.36.jpeg",
-    "IdCategory": 6,
-    "Category": {
-      "CategoryName": "Cremes hidratantes"
-    }
-  },
-  {
-    "IdProduct": 95,
-    "ProductName": "7 Belo para mãos",
-    "PriceSale": "25.90",
-    "Promotion": false,
-    "ImagePath": "1738507680663-906282008-WhatsApp_Image_2025-02-02_at_10.34.40_(1).jpeg",
     "IdCategory": 6,
     "Category": {
       "CategoryName": "Cremes hidratantes"
