@@ -1,16 +1,5 @@
 [
   {
-    "IdProduct": 2,
-    "ProductName": "Floratta Blue",
-    "PriceSale": "149.90",
-    "Promotion": false,
-    "ImagePath": "1738423820426-459040920-WhatsApp_Image_2025-02-01_at_08.57.16_(3).jpeg",
-    "IdCategory": 1,
-    "Category": {
-      "CategoryName": "Perfumes femininos"
-    }
-  },
-  {
     "IdProduct": 3,
     "ProductName": "Floratta My Blue",
     "PriceSale": "149.90",
@@ -27,17 +16,6 @@
     "PriceSale": "149.90",
     "Promotion": false,
     "ImagePath": "1738427879081-742982386-WhatsApp_Image_2025-02-01_at_08.57.17_(1).jpeg",
-    "IdCategory": 1,
-    "Category": {
-      "CategoryName": "Perfumes femininos"
-    }
-  },
-  {
-    "IdProduct": 5,
-    "ProductName": "Floratta Rose",
-    "PriceSale": "149.90",
-    "Promotion": false,
-    "ImagePath": "1738428090887-379314696-757cd203400ff66dab0a02b1a6ef66fd.jpg",
     "IdCategory": 1,
     "Category": {
       "CategoryName": "Perfumes femininos"
@@ -258,17 +236,6 @@
     "PriceSale": "154.90",
     "Promotion": false,
     "ImagePath": "1738432338531-786290220-16ee8784142aace32dce554d49e50e08.jpg",
-    "IdCategory": 2,
-    "Category": {
-      "CategoryName": "Perfumes masculinos"
-    }
-  },
-  {
-    "IdProduct": 28,
-    "ProductName": "Egeo Blue",
-    "PriceSale": "129.90",
-    "Promotion": true,
-    "ImagePath": "1738432734811-119793599-a2e789643a252a2c9eb54be1307d2e79.jpg",
     "IdCategory": 2,
     "Category": {
       "CategoryName": "Perfumes masculinos"
@@ -1155,17 +1122,6 @@
     }
   },
   {
-    "IdProduct": 118,
-    "ProductName": "Roll on Invisible",
-    "PriceSale": "19.90",
-    "Promotion": true,
-    "ImagePath": "1738523149262-815703343-WhatsApp_Image_2025-02-02_at_10.34.39_(9).jpeg",
-    "IdCategory": 5,
-    "Category": {
-      "CategoryName": "Desodorantes femininos"
-    }
-  },
-  {
     "IdProduct": 119,
     "ProductName": "Glamour Secrets Black Refil ",
     "PriceSale": "139.90",
@@ -1427,6 +1383,116 @@
     "IdCategory": 7,
     "Category": {
       "CategoryName": "Linha Capilar"
+    }
+  },
+  {
+    "IdProduct": 146,
+    "ProductName": "Sabonete Doçura 4un",
+    "PriceSale": "27.90",
+    "Promotion": true,
+    "ImagePath": "1739042616222-307630769-WhatsApp_Image_2025-02-08_at_10.39.36.jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 147,
+    "ProductName": "Hidra Doçura 400ml",
+    "PriceSale": "55.90",
+    "Promotion": true,
+    "ImagePath": "1739042723472-488441924-WhatsApp_Image_2025-02-08_at_10.39.36_(1).jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 148,
+    "ProductName": "Hidra para Lâmina 200ml",
+    "PriceSale": "39.90",
+    "Promotion": true,
+    "ImagePath": "1739042800756-572144226-WhatsApp_Image_2025-02-08_at_10.39.36_(2).jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 149,
+    "ProductName": "Sérum Corporal 30ml",
+    "PriceSale": "32.90",
+    "Promotion": true,
+    "ImagePath": "1739042850507-276362856-WhatsApp_Image_2025-02-08_at_10.39.37.jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 150,
+    "ProductName": "Body splash Doçura",
+    "PriceSale": "67.90",
+    "Promotion": true,
+    "ImagePath": "1739042904843-690773176-WhatsApp_Image_2025-02-08_at_10.39.37_(1).jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 151,
+    "ProductName": "Creme Esfoliante Doçura",
+    "PriceSale": "55.90",
+    "Promotion": true,
+    "ImagePath": "1739042951494-725302137-WhatsApp_Image_2025-02-08_at_10.39.37_(2).jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 152,
+    "ProductName": "Creme Depilatório",
+    "PriceSale": "35.90",
+    "Promotion": true,
+    "ImagePath": "1739043006031-874000649-WhatsApp_Image_2025-02-08_at_10.39.37_(3).jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 153,
+    "ProductName": "Sabonete 7 Belo",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1739043067114-252480406-WhatsApp_Image_2025-02-08_at_16.17.57.jpeg",
+    "IdCategory": 8,
+    "Category": {
+      "CategoryName": "Sabonetes"
+    }
+  },
+  {
+    "IdProduct": 154,
+    "ProductName": "Hidra Her Code",
+    "PriceSale": "62.90",
+    "Promotion": false,
+    "ImagePath": "1739043324555-49929926-WhatsApp_Image_2025-02-08_at_16.33.28.jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 155,
+    "ProductName": "Her code",
+    "PriceSale": "239.90",
+    "Promotion": false,
+    "ImagePath": "1739043355203-666048277-WhatsApp_Image_2025-02-08_at_16.33.28_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
     }
   }
 ]
