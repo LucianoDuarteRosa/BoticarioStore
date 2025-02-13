@@ -209,17 +209,6 @@
     }
   },
   {
-    "IdProduct": 25,
-    "ProductName": "Arbo Puro",
-    "PriceSale": "169.90",
-    "Promotion": false,
-    "ImagePath": "1738432160490-974243228-147413711299969.jpg",
-    "IdCategory": 2,
-    "Category": {
-      "CategoryName": "Perfumes masculinos"
-    }
-  },
-  {
     "IdProduct": 26,
     "ProductName": "Portinari",
     "PriceSale": "179.90",
@@ -1303,17 +1292,6 @@
     "PriceSale": "17.90",
     "Promotion": false,
     "ImagePath": "1738527741934-769437594-br-11134207-7qukw-ljohlgx7mrs69a.jpg",
-    "IdCategory": 10,
-    "Category": {
-      "CategoryName": "Maquiagem"
-    }
-  },
-  {
-    "IdProduct": 138,
-    "ProductName": "Lapis 3 em 1 cor Damasco",
-    "PriceSale": "22.90",
-    "Promotion": true,
-    "ImagePath": "1738527891586-992159212-9f6dbe26-e728-4566-95a5-8865844fb787-q54749-lapis-batom-3-1-faber-castell-damasco-2g-color.webp",
     "IdCategory": 10,
     "Category": {
       "CategoryName": "Maquiagem"
