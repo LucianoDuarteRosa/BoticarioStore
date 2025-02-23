@@ -264,17 +264,6 @@
     }
   },
   {
-    "IdProduct": 33,
-    "ProductName": "Kit Lily",
-    "PriceSale": "199.90",
-    "Promotion": false,
-    "ImagePath": "1738433746063-192278437-5041113_58445_1.png",
-    "IdCategory": 9,
-    "Category": {
-      "CategoryName": "Kits de perfumes"
-    }
-  },
-  {
     "IdProduct": 34,
     "ProductName": "Kit Quasar",
     "PriceSale": "159.90",
@@ -869,17 +858,6 @@
     }
   },
   {
-    "IdProduct": 93,
-    "ProductName": "Refil Rosa e Algodão",
-    "PriceSale": "54.90",
-    "Promotion": false,
-    "ImagePath": "1738507552693-393409017-WhatsApp_Image_2025-02-02_at_10.35.37_(5).jpeg",
-    "IdCategory": 6,
-    "Category": {
-      "CategoryName": "Cremes hidratantes"
-    }
-  },
-  {
     "IdProduct": 94,
     "ProductName": "Refil Ameixa",
     "PriceSale": "67.90",
@@ -1402,28 +1380,6 @@
     "PriceSale": "32.90",
     "Promotion": true,
     "ImagePath": "1739042850507-276362856-WhatsApp_Image_2025-02-08_at_10.39.37.jpeg",
-    "IdCategory": 16,
-    "Category": {
-      "CategoryName": "Lançamentos"
-    }
-  },
-  {
-    "IdProduct": 150,
-    "ProductName": "Body splash Doçura",
-    "PriceSale": "67.90",
-    "Promotion": true,
-    "ImagePath": "1739042904843-690773176-WhatsApp_Image_2025-02-08_at_10.39.37_(1).jpeg",
-    "IdCategory": 16,
-    "Category": {
-      "CategoryName": "Lançamentos"
-    }
-  },
-  {
-    "IdProduct": 151,
-    "ProductName": "Creme Esfoliante Doçura",
-    "PriceSale": "55.90",
-    "Promotion": true,
-    "ImagePath": "1739042951494-725302137-WhatsApp_Image_2025-02-08_at_10.39.37_(2).jpeg",
     "IdCategory": 16,
     "Category": {
       "CategoryName": "Lançamentos"
