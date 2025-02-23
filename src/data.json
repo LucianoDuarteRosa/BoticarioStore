@@ -1428,5 +1428,148 @@
     "Category": {
       "CategoryName": "Perfumes femininos"
     }
+  },
+  {
+    "IdProduct": 156,
+    "ProductName": "Hidra Floratta Passion",
+    "PriceSale": "75.90",
+    "Promotion": true,
+    "ImagePath": "1740319717614-8783291-WhatsApp_Image_2025-02-23_at_10.54.08_(3).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 157,
+    "ProductName": "Egeo Bomb Black",
+    "PriceSale": "129.90",
+    "Promotion": true,
+    "ImagePath": "1740319869547-795535479-WhatsApp_Image_2025-02-23_at_10.54.07.jpeg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 158,
+    "ProductName": "kit florattas",
+    "PriceSale": "199.90",
+    "Promotion": false,
+    "ImagePath": "1740319926560-119510274-WhatsApp_Image_2025-02-23_at_10.54.07_(1).jpeg",
+    "IdCategory": 9,
+    "Category": {
+      "CategoryName": "Kits de perfumes"
+    }
+  },
+  {
+    "IdProduct": 159,
+    "ProductName": "Liz",
+    "PriceSale": "164.90",
+    "Promotion": false,
+    "ImagePath": "1740319977208-697199035-WhatsApp_Image_2025-02-23_at_10.54.08.jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 160,
+    "ProductName": "Coffee Woman Duo",
+    "PriceSale": "169.90",
+    "Promotion": true,
+    "ImagePath": "1740320021050-379474974-WhatsApp_Image_2025-02-23_at_10.54.08_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 161,
+    "ProductName": "Quasar Vision",
+    "PriceSale": "164.90",
+    "Promotion": false,
+    "ImagePath": "1740320067919-363987989-WhatsApp_Image_2025-02-23_at_10.54.08_(2).jpeg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 162,
+    "ProductName": "Zaad Expedition",
+    "PriceSale": "314.90",
+    "Promotion": false,
+    "ImagePath": "1740320118000-496554525-WhatsApp_Image_2025-02-23_at_10.54.09.jpeg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 163,
+    "ProductName": "Uomini",
+    "PriceSale": "151.90",
+    "Promotion": true,
+    "ImagePath": "1740320225170-81412579-WhatsApp_Image_2025-02-23_at_10.54.55.jpeg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 164,
+    "ProductName": "The Blend",
+    "PriceSale": "304.90",
+    "Promotion": true,
+    "ImagePath": "1740320264636-580515027-WhatsApp_Image_2025-02-23_at_10.54.14.jpeg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 165,
+    "ProductName": "Máscara de Cílios Incolor",
+    "PriceSale": "29.90",
+    "Promotion": true,
+    "ImagePath": "1740321067194-146246987-WhatsApp_Image_2025-02-23_at_10.03.32.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 166,
+    "ProductName": "Máscara de Cílios Azul",
+    "PriceSale": "36.99",
+    "Promotion": true,
+    "ImagePath": "1740321215632-932577297-WhatsApp_Image_2025-02-23_at_10.03.33.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 167,
+    "ProductName": "Máscara de Cílios Roxa",
+    "PriceSale": "36.99",
+    "Promotion": true,
+    "ImagePath": "1740321292102-853536495-WhatsApp_Image_2025-02-23_at_10.03.33_(1).jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 168,
+    "ProductName": "Delineador Petrolino",
+    "PriceSale": "39.99",
+    "Promotion": true,
+    "ImagePath": "1740321358069-384264152-WhatsApp_Image_2025-02-23_at_10.03.32_(1).jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
   }
 ]
