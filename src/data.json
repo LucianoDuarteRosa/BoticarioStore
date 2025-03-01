@@ -1736,5 +1736,16 @@
     "Category": {
       "CategoryName": "Desodorantes femininos"
     }
+  },
+  {
+    "IdProduct": 181,
+    "ProductName": "Base em Pó Mineral cor 30",
+    "PriceSale": "79.90",
+    "Promotion": true,
+    "ImagePath": "1740846941321-666480436-WhatsApp_Image_2025-02-02_at_10.34.40.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
   }
 ]
