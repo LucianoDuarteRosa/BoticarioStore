@@ -11,17 +11,6 @@
     }
   },
   {
-    "IdProduct": 4,
-    "ProductName": "Floratta Red",
-    "PriceSale": "149.90",
-    "Promotion": false,
-    "ImagePath": "1738427879081-742982386-WhatsApp_Image_2025-02-01_at_08.57.17_(1).jpeg",
-    "IdCategory": 1,
-    "Category": {
-      "CategoryName": "Perfumes femininos"
-    }
-  },
-  {
     "IdProduct": 6,
     "ProductName": "Floratta Romance de Verão",
     "PriceSale": "149.90",
@@ -104,6 +93,17 @@
     "PriceSale": "94.90",
     "Promotion": false,
     "ImagePath": "1738429695374-496735632-WhatsApp_Image_2025-02-01_at_13.56.10_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 15,
+    "ProductName": "Body Splash Jasmim",
+    "PriceSale": "94.90",
+    "Promotion": false,
+    "ImagePath": "1738430079237-87274730-85091cac709ec440d9ad025199c50e9f.webp",
     "IdCategory": 1,
     "Category": {
       "CategoryName": "Perfumes femininos"
@@ -225,6 +225,17 @@
     "PriceSale": "154.90",
     "Promotion": false,
     "ImagePath": "1738432338531-786290220-16ee8784142aace32dce554d49e50e08.jpg",
+    "IdCategory": 2,
+    "Category": {
+      "CategoryName": "Perfumes masculinos"
+    }
+  },
+  {
+    "IdProduct": 28,
+    "ProductName": "Egeo Blue",
+    "PriceSale": "154.90",
+    "Promotion": false,
+    "ImagePath": "1738432734811-119793599-a2e789643a252a2c9eb54be1307d2e79.jpg",
     "IdCategory": 2,
     "Category": {
       "CategoryName": "Perfumes masculinos"
@@ -1089,6 +1100,17 @@
     }
   },
   {
+    "IdProduct": 118,
+    "ProductName": "Roll on Invisible",
+    "PriceSale": "19.90",
+    "Promotion": true,
+    "ImagePath": "1738523149262-815703343-WhatsApp_Image_2025-02-02_at_10.34.39_(9).jpeg",
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
+    }
+  },
+  {
     "IdProduct": 119,
     "ProductName": "Glamour Secrets Black Refil ",
     "PriceSale": "139.90",
@@ -1276,6 +1298,17 @@
     }
   },
   {
+    "IdProduct": 138,
+    "ProductName": "Lapis 3 em 1 cor Marrom",
+    "PriceSale": "24.90",
+    "Promotion": true,
+    "ImagePath": "1740845074426-255903107-WhatsApp_Image_2025-03-01_at_12.41.47.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
     "IdProduct": 139,
     "ProductName": "Lapis de olho Esfumador cor Preto",
     "PriceSale": "47.90",
@@ -1431,13 +1464,13 @@
   },
   {
     "IdProduct": 156,
-    "ProductName": "Hidra Floratta Passion",
-    "PriceSale": "75.90",
-    "Promotion": true,
+    "ProductName": "Hidra Floratta Red Passion",
+    "PriceSale": "94.90",
+    "Promotion": false,
     "ImagePath": "1740319717614-8783291-WhatsApp_Image_2025-02-23_at_10.54.08_(3).jpeg",
-    "IdCategory": 6,
+    "IdCategory": 16,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Lançamentos"
     }
   },
   {
@@ -1476,8 +1509,8 @@
   {
     "IdProduct": 160,
     "ProductName": "Coffee Woman Duo",
-    "PriceSale": "169.90",
-    "Promotion": true,
+    "PriceSale": "199.90",
+    "Promotion": false,
     "ImagePath": "1740320021050-379474974-WhatsApp_Image_2025-02-23_at_10.54.08_(1).jpeg",
     "IdCategory": 1,
     "Category": {
@@ -1570,6 +1603,138 @@
     "IdCategory": 10,
     "Category": {
       "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 169,
+    "ProductName": "Iluminador Make B Gold",
+    "PriceSale": "89.90",
+    "Promotion": true,
+    "ImagePath": "1740844854470-860478806-WhatsApp_Image_2025-03-01_at_12.41.46.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 170,
+    "ProductName": "Coffee Seduction",
+    "PriceSale": "199.90",
+    "Promotion": false,
+    "ImagePath": "1740845162511-95088019-WhatsApp_Image_2025-03-01_at_12.41.49.jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 171,
+    "ProductName": "Hidratante Accordes",
+    "PriceSale": "62.90",
+    "Promotion": false,
+    "ImagePath": "1740845222061-445007701-WhatsApp_Image_2025-03-01_at_12.41.49_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 172,
+    "ProductName": "Floratta Red Passion",
+    "PriceSale": "199.90",
+    "Promotion": false,
+    "ImagePath": "1740845316349-848602616-WhatsApp_Image_2025-03-01_at_12.41.50.jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 173,
+    "ProductName": "Hidra Bob Esponja",
+    "PriceSale": "57.90",
+    "Promotion": false,
+    "ImagePath": "1740845547124-962754055-WhatsApp_Image_2025-03-01_at_12.41.52.jpeg",
+    "IdCategory": 3,
+    "Category": {
+      "CategoryName": "Linha Kids"
+    }
+  },
+  {
+    "IdProduct": 174,
+    "ProductName": "Clash Desod Spray",
+    "PriceSale": "32.90",
+    "Promotion": true,
+    "ImagePath": "1740846187591-388751185-WhatsApp_Image_2025-03-01_at_12.41.53.jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 175,
+    "ProductName": "Clash",
+    "PriceSale": "119.90",
+    "Promotion": true,
+    "ImagePath": "1740846215191-969132713-WhatsApp_Image_2025-03-01_at_12.41.53_(1).jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 176,
+    "ProductName": "Clash Hidratante",
+    "PriceSale": "40.90",
+    "Promotion": true,
+    "ImagePath": "1740846245860-131670562-WhatsApp_Image_2025-03-01_at_12.41.54.jpeg",
+    "IdCategory": 16,
+    "Category": {
+      "CategoryName": "Lançamentos"
+    }
+  },
+  {
+    "IdProduct": 177,
+    "ProductName": "Egeo Spicy Vibe",
+    "PriceSale": "154.90",
+    "Promotion": false,
+    "ImagePath": "1740846340179-633896528-WhatsApp_Image_2025-03-01_at_12.42.00_(1).jpeg",
+    "IdCategory": 1,
+    "Category": {
+      "CategoryName": "Perfumes femininos"
+    }
+  },
+  {
+    "IdProduct": 178,
+    "ProductName": "Hidratante Pessegura",
+    "PriceSale": "49.90",
+    "Promotion": false,
+    "ImagePath": "1740846406965-879303859-WhatsApp_Image_2025-03-01_at_12.41.54_(1).jpeg",
+    "IdCategory": 6,
+    "Category": {
+      "CategoryName": "Cremes hidratantes"
+    }
+  },
+  {
+    "IdProduct": 179,
+    "ProductName": "Lápis para Sobrancelhas",
+    "PriceSale": "31.90",
+    "Promotion": true,
+    "ImagePath": "1740846570801-437003752-WhatsApp_Image_2025-03-01_at_12.42.00.jpeg",
+    "IdCategory": 10,
+    "Category": {
+      "CategoryName": "Maquiagem"
+    }
+  },
+  {
+    "IdProduct": 180,
+    "ProductName": "Egeo Aerosol",
+    "PriceSale": "37.90",
+    "Promotion": false,
+    "ImagePath": "1740846598236-858647744-WhatsApp_Image_2025-03-01_at_12.41.55.jpeg",
+    "IdCategory": 5,
+    "Category": {
+      "CategoryName": "Desodorantes femininos"
     }
   }
 ]
