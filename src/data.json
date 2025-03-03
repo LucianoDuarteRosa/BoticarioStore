@@ -539,17 +539,6 @@
     }
   },
   {
-    "IdProduct": 61,
-    "ProductName": "Base em Pó Mineral cor 40",
-    "PriceSale": "79.90",
-    "Promotion": true,
-    "ImagePath": "1738504244613-860495134-WhatsApp_Image_2025-02-02_at_10.34.40.jpeg",
-    "IdCategory": 10,
-    "Category": {
-      "CategoryName": "Maquiagem"
-    }
-  },
-  {
     "IdProduct": 63,
     "ProductName": "Blush Guaraná",
     "PriceSale": "39.90",
@@ -1463,17 +1452,6 @@
     }
   },
   {
-    "IdProduct": 156,
-    "ProductName": "Hidra Floratta Red Passion",
-    "PriceSale": "94.90",
-    "Promotion": false,
-    "ImagePath": "1740319717614-8783291-WhatsApp_Image_2025-02-23_at_10.54.08_(3).jpeg",
-    "IdCategory": 16,
-    "Category": {
-      "CategoryName": "Lançamentos"
-    }
-  },
-  {
     "IdProduct": 157,
     "ProductName": "Egeo Bomb Black",
     "PriceSale": "129.90",
@@ -1534,17 +1512,6 @@
     "PriceSale": "314.90",
     "Promotion": false,
     "ImagePath": "1740320118000-496554525-WhatsApp_Image_2025-02-23_at_10.54.09.jpeg",
-    "IdCategory": 2,
-    "Category": {
-      "CategoryName": "Perfumes masculinos"
-    }
-  },
-  {
-    "IdProduct": 163,
-    "ProductName": "Uomini",
-    "PriceSale": "151.90",
-    "Promotion": true,
-    "ImagePath": "1740320225170-81412579-WhatsApp_Image_2025-02-23_at_10.54.55.jpeg",
     "IdCategory": 2,
     "Category": {
       "CategoryName": "Perfumes masculinos"
