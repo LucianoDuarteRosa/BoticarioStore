@@ -319,17 +319,6 @@
     }
   },
   {
-    "IdProduct": 38,
-    "ProductName": "Ameixa Negra 400ml",
-    "PriceSale": "86.90",
-    "Promotion": false,
-    "ImagePath": "1738437167713-472928924-61WygkAD13L.jpg",
-    "IdCategory": 6,
-    "Category": {
-      "CategoryName": "Cremes hidratantes"
-    }
-  },
-  {
     "IdProduct": 39,
     "ProductName": "Oléo Ameixa",
     "PriceSale": "71.90",
@@ -1078,17 +1067,6 @@
     }
   },
   {
-    "IdProduct": 117,
-    "ProductName": "Quasar Roll on",
-    "PriceSale": "28.90",
-    "Promotion": false,
-    "ImagePath": "1738523040492-766448041-WhatsApp_Image_2025-02-02_at_10.34.39_(8).jpeg",
-    "IdCategory": 4,
-    "Category": {
-      "CategoryName": "Desodorantes masculinos"
-    }
-  },
-  {
     "IdProduct": 118,
     "ProductName": "Roll on Invisible",
     "PriceSale": "19.90",
@@ -1366,8 +1344,8 @@
   {
     "IdProduct": 146,
     "ProductName": "Sabonete Doçura 4un",
-    "PriceSale": "27.90",
-    "Promotion": true,
+    "PriceSale": "34.90",
+    "Promotion": false,
     "ImagePath": "1739042616222-307630769-WhatsApp_Image_2025-02-08_at_10.39.36.jpeg",
     "IdCategory": 16,
     "Category": {
@@ -1377,8 +1355,8 @@
   {
     "IdProduct": 147,
     "ProductName": "Hidra Doçura 400ml",
-    "PriceSale": "55.90",
-    "Promotion": true,
+    "PriceSale": "69.90",
+    "Promotion": false,
     "ImagePath": "1739042723472-488441924-WhatsApp_Image_2025-02-08_at_10.39.36_(1).jpeg",
     "IdCategory": 16,
     "Category": {
@@ -1410,8 +1388,8 @@
   {
     "IdProduct": 152,
     "ProductName": "Creme Depilatório",
-    "PriceSale": "35.90",
-    "Promotion": true,
+    "PriceSale": "45.90",
+    "Promotion": false,
     "ImagePath": "1739043006031-874000649-WhatsApp_Image_2025-02-08_at_10.39.37_(3).jpeg",
     "IdCategory": 16,
     "Category": {
@@ -1454,8 +1432,8 @@
   {
     "IdProduct": 157,
     "ProductName": "Egeo Bomb Black",
-    "PriceSale": "129.90",
-    "Promotion": true,
+    "PriceSale": "154.90",
+    "Promotion": false,
     "ImagePath": "1740319869547-795535479-WhatsApp_Image_2025-02-23_at_10.54.07.jpeg",
     "IdCategory": 2,
     "Category": {
@@ -1520,8 +1498,8 @@
   {
     "IdProduct": 164,
     "ProductName": "The Blend",
-    "PriceSale": "304.90",
-    "Promotion": true,
+    "PriceSale": "339.90",
+    "Promotion": false,
     "ImagePath": "1740320264636-580515027-WhatsApp_Image_2025-02-23_at_10.54.14.jpeg",
     "IdCategory": 2,
     "Category": {
