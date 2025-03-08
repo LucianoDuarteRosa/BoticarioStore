@@ -143,17 +143,6 @@
     }
   },
   {
-    "IdProduct": 19,
-    "ProductName": "Kit Deleite",
-    "PriceSale": "89.90",
-    "Promotion": false,
-    "ImagePath": "1738430997563-829875046-whatsapp-image-2024-05-19-at-17-18-55--1--ob5r9nmk5x.webp",
-    "IdCategory": 9,
-    "Category": {
-      "CategoryName": "Kits de perfumes"
-    }
-  },
-  {
     "IdProduct": 20,
     "ProductName": "Malbec",
     "PriceSale": "199.90",
@@ -293,7 +282,7 @@
     "ImagePath": "1738433903489-957805599-964433319471522.jpg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -304,7 +293,7 @@
     "ImagePath": "1738433968625-598547472-WhatsApp_Image_2025-02-01_at_13.59.11.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -315,7 +304,7 @@
     "ImagePath": "1738434073846-433835150-WhatsApp_Image_2025-02-01_at_13.56.10_(8).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -326,7 +315,7 @@
     "ImagePath": "1738434173046-423661900-WhatsApp_Image_2025-02-01_at_13.56.10_(6).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -337,7 +326,7 @@
     "ImagePath": "1738434219380-857664567-WhatsApp_Image_2025-02-01_at_13.56.10_(4).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -348,7 +337,7 @@
     "ImagePath": "1738434275099-154170819-WhatsApp_Image_2025-02-01_at_13.56.10_(3).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -370,7 +359,7 @@
     "ImagePath": "1738434537756-490357520-WhatsApp_Image_2025-02-01_at_13.56.09_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -381,7 +370,7 @@
     "ImagePath": "1738434576689-453362506-WhatsApp_Image_2025-02-01_at_13.56.09.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -392,7 +381,7 @@
     "ImagePath": "1738434628047-269671118-WhatsApp_Image_2025-02-01_at_08.55.48.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -425,7 +414,7 @@
     "ImagePath": "1738435743938-49701393-LILY-CR-ACET-CPO_V8_B48060_Conceito.webp",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -436,7 +425,7 @@
     "ImagePath": "1738435821740-647991420-96006d9d-c288-44a9-a7dc-b3df2c592c70-bot-59145-lily-veludo-acetinado-sensorial-ambientado-04.webp",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -447,7 +436,7 @@
     "ImagePath": "1738435877890-919464857-6f0a1351-f2ee-4579-9a6c-d0fda05ef994-bot-57890-lily-gardenia-creme-acetinado-ambientada-04.webp",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -458,7 +447,7 @@
     "ImagePath": "1738435979177-67020580-61Bz4K8RsnL._AC_UF1000,1000_QL80_.jpg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -469,7 +458,7 @@
     "ImagePath": "1738436045613-197379563-61wLpxmizrL.jpg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -480,7 +469,7 @@
     "ImagePath": "1738437504537-504561757-WhatsApp_Image_2025-02-01_at_13.56.09_(2).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -491,7 +480,7 @@
     "ImagePath": "1738437561571-4216072-WhatsApp_Image_2025-02-01_at_11.03.18.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -502,7 +491,7 @@
     "ImagePath": "1738437615531-646393555-WhatsApp_Image_2025-02-01_at_11.03.18_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -777,7 +766,7 @@
     "ImagePath": "1738506937356-887591949-WhatsApp_Image_2025-02-02_at_10.30.04_(5).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -788,7 +777,7 @@
     "ImagePath": "1738507028173-457451189-WhatsApp_Image_2025-02-02_at_10.34.38_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -799,7 +788,7 @@
     "ImagePath": "1738507109674-573177697-WhatsApp_Image_2025-02-02_at_10.34.39_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -810,7 +799,7 @@
     "ImagePath": "1738507324792-124529358-WhatsApp_Image_2025-02-02_at_10.34.42.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -821,7 +810,7 @@
     "ImagePath": "1738507378023-312995060-WhatsApp_Image_2025-02-02_at_10.34.43.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -832,7 +821,7 @@
     "ImagePath": "1738507462944-573605640-WhatsApp_Image_2025-02-02_at_10.34.44.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -843,7 +832,7 @@
     "ImagePath": "1738507501691-943956041-WhatsApp_Image_2025-02-02_at_10.34.44_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -854,7 +843,7 @@
     "ImagePath": "1738507597769-50132823-WhatsApp_Image_2025-02-02_at_10.35.36.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -865,7 +854,7 @@
     "ImagePath": "1738507975976-396847187-WhatsApp_Image_2025-02-02_at_10.35.37_(4).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -876,7 +865,7 @@
     "ImagePath": "1738508055297-688218849-WhatsApp_Image_2025-02-02_at_10.35.37_(6).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -887,7 +876,7 @@
     "ImagePath": "1738521026923-885787990-WhatsApp_Image_2025-02-02_at_10.35.38.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -898,7 +887,7 @@
     "ImagePath": "1738521068107-713983761-WhatsApp_Image_2025-02-02_at_10.35.38_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -1347,9 +1336,9 @@
     "PriceSale": "34.90",
     "Promotion": false,
     "ImagePath": "1739042616222-307630769-WhatsApp_Image_2025-02-08_at_10.39.36.jpeg",
-    "IdCategory": 16,
+    "IdCategory": 8,
     "Category": {
-      "CategoryName": "Lançamentos"
+      "CategoryName": "Sabonetes"
     }
   },
   {
@@ -1358,9 +1347,9 @@
     "PriceSale": "69.90",
     "Promotion": false,
     "ImagePath": "1739042723472-488441924-WhatsApp_Image_2025-02-08_at_10.39.36_(1).jpeg",
-    "IdCategory": 16,
+    "IdCategory": 6,
     "Category": {
-      "CategoryName": "Lançamentos"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -1369,9 +1358,9 @@
     "PriceSale": "39.90",
     "Promotion": true,
     "ImagePath": "1739042800756-572144226-WhatsApp_Image_2025-02-08_at_10.39.36_(2).jpeg",
-    "IdCategory": 16,
+    "IdCategory": 6,
     "Category": {
-      "CategoryName": "Lançamentos"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -1380,9 +1369,9 @@
     "PriceSale": "32.90",
     "Promotion": true,
     "ImagePath": "1739042850507-276362856-WhatsApp_Image_2025-02-08_at_10.39.37.jpeg",
-    "IdCategory": 16,
+    "IdCategory": 6,
     "Category": {
-      "CategoryName": "Lançamentos"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -1391,9 +1380,9 @@
     "PriceSale": "45.90",
     "Promotion": false,
     "ImagePath": "1739043006031-874000649-WhatsApp_Image_2025-02-08_at_10.39.37_(3).jpeg",
-    "IdCategory": 16,
+    "IdCategory": 6,
     "Category": {
-      "CategoryName": "Lançamentos"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -1415,7 +1404,7 @@
     "ImagePath": "1739043324555-49929926-WhatsApp_Image_2025-02-08_at_16.33.28.jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -1580,7 +1569,7 @@
     "ImagePath": "1740845222061-445007701-WhatsApp_Image_2025-03-01_at_12.41.49_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
@@ -1589,9 +1578,9 @@
     "PriceSale": "199.90",
     "Promotion": false,
     "ImagePath": "1740845316349-848602616-WhatsApp_Image_2025-03-01_at_12.41.50.jpeg",
-    "IdCategory": 16,
+    "IdCategory": 1,
     "Category": {
-      "CategoryName": "Lançamentos"
+      "CategoryName": "Perfumes femininos"
     }
   },
   {
@@ -1657,7 +1646,7 @@
     "ImagePath": "1740846406965-879303859-WhatsApp_Image_2025-03-01_at_12.41.54_(1).jpeg",
     "IdCategory": 6,
     "Category": {
-      "CategoryName": "Cremes hidratantes"
+      "CategoryName": "Cremes e Hidratantes"
     }
   },
   {
