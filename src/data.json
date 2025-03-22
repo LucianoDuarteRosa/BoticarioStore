@@ -2,7 +2,7 @@
   "products": [
     {
       "IdProduct": 181,
-      "ProductName": "Base em Pó Mineral cor 30",
+      "ProductName": "Base Mineral Cor 30",
       "PriceSale": "79.90",
       "Promotion": true,
       "ImagePath": "1740846941321-666480436-WhatsApp_Image_2025-02-02_at_10.34.40.jpeg",
@@ -522,7 +522,7 @@
     },
     {
       "IdProduct": 148,
-      "ProductName": "Hidra para Lâmina 200ml",
+      "ProductName": "Hidra para Lâmina",
       "PriceSale": "39.90",
       "Promotion": true,
       "ImagePath": "1739042800756-572144226-WhatsApp_Image_2025-02-08_at_10.39.36_(2).jpeg",
@@ -602,7 +602,7 @@
     },
     {
       "IdProduct": 143,
-      "ProductName": "Desodorate Aerosol OUI 001",
+      "ProductName": "Desodorate Ae OUI 001",
       "PriceSale": "49.90",
       "Promotion": false,
       "ImagePath": "1738530362003-632585243-1000160489-rbzc8zjkq8.webp",
@@ -662,7 +662,7 @@
     },
     {
       "IdProduct": 140,
-      "ProductName": "Cuide se bem Condicionador",
+      "ProductName": "Cuide Se Bem",
       "PriceSale": "34.90",
       "Promotion": false,
       "ImagePath": "1738528129708-72499279-D_NQ_NP_934345-MLB47246796651_082021-O.webp",
@@ -682,7 +682,7 @@
     },
     {
       "IdProduct": 139,
-      "ProductName": "Lapis de olho Esfumador cor Preto",
+      "ProductName": "Lapis Esfumador Cor Preto",
       "PriceSale": "47.90",
       "Promotion": true,
       "ImagePath": "1738528058374-907515385-Lapis-Olhos-Esfumador-Preto_Q77834_Fechado.webp",
@@ -722,7 +722,7 @@
     },
     {
       "IdProduct": 137,
-      "ProductName": "Lapis para olhos cor preto",
+      "ProductName": "Lapis Cor Preto",
       "PriceSale": "17.90",
       "Promotion": false,
       "ImagePath": "1738527741934-769437594-br-11134207-7qukw-ljohlgx7mrs69a.jpg",
@@ -742,7 +742,7 @@
     },
     {
       "IdProduct": 136,
-      "ProductName": "Batom Volumão cor Rosa Pinkli",
+      "ProductName": "Batom Rosa Pinkli",
       "PriceSale": "57.90",
       "Promotion": false,
       "ImagePath": "1738527613546-540765045-513gIEUcF9L._AC_UF1000,1000_QL80_.jpg",
@@ -762,7 +762,7 @@
     },
     {
       "IdProduct": 133,
-      "ProductName": "L Amour 142 Refil Hidra",
+      "ProductName": "L Amour 142 Hidra",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1738526441297-173791926-WhatsApp_Image_2025-02-02_at_10.35.38_(7).jpeg",
@@ -1362,7 +1362,7 @@
     },
     {
       "IdProduct": 100,
-      "ProductName": "Refil Rosa e Algodão para mãos",
+      "ProductName": "Refil Rosa e Algodão",
       "PriceSale": "24.90",
       "Promotion": false,
       "ImagePath": "1738521068107-713983761-WhatsApp_Image_2025-02-02_at_10.35.38_(1).jpeg",
@@ -2022,7 +2022,7 @@
     },
     {
       "IdProduct": 55,
-      "ProductName": "Bubbaloo Tutti Frutti 200ml",
+      "ProductName": "Bubbaloo Tutti Frutti",
       "PriceSale": "57.90",
       "Promotion": false,
       "ImagePath": "1738437615531-646393555-WhatsApp_Image_2025-02-01_at_11.03.18_(1).jpeg",
@@ -2042,7 +2042,7 @@
     },
     {
       "IdProduct": 54,
-      "ProductName": "Bubbaloo Uva 200ml",
+      "ProductName": "Bubbaloo Uva",
       "PriceSale": "57.90",
       "Promotion": false,
       "ImagePath": "1738437561571-4216072-WhatsApp_Image_2025-02-01_at_11.03.18.jpeg",
@@ -2062,7 +2062,7 @@
     },
     {
       "IdProduct": 53,
-      "ProductName": "Bubbaloo Morango 200ml",
+      "ProductName": "Bubbaloo Morango",
       "PriceSale": "57.90",
       "Promotion": false,
       "ImagePath": "1738437504537-504561757-WhatsApp_Image_2025-02-01_at_13.56.09_(2).jpeg",
@@ -2682,7 +2682,7 @@
     },
     {
       "IdProduct": 16,
-      "ProductName": "Body Splash Nuvem",
+      "ProductName": "Splash Nuvem",
       "PriceSale": "84.90",
       "Promotion": false,
       "ImagePath": "1738430170722-36093995-61sfF9DLMdL._AC_UF1000,1000_QL80_.jpg",
@@ -2702,7 +2702,7 @@
     },
     {
       "IdProduct": 15,
-      "ProductName": "Body Splash Jasmim",
+      "ProductName": "Splash Jasmim",
       "PriceSale": "94.90",
       "Promotion": false,
       "ImagePath": "1738430079237-87274730-85091cac709ec440d9ad025199c50e9f.webp",
@@ -2722,7 +2722,7 @@
     },
     {
       "IdProduct": 14,
-      "ProductName": "Body Splash Ameixa",
+      "ProductName": "Splash Ameixa",
       "PriceSale": "94.90",
       "Promotion": false,
       "ImagePath": "1738429695374-496735632-WhatsApp_Image_2025-02-01_at_13.56.10_(1).jpeg",
@@ -2742,7 +2742,7 @@
     },
     {
       "IdProduct": 13,
-      "ProductName": "Body Splash Ameixa Negra",
+      "ProductName": "Splash Ameixa Negra",
       "PriceSale": "94.90",
       "Promotion": false,
       "ImagePath": "1738429651692-88523569-WhatsApp_Image_2025-02-01_at_13.56.10.jpeg",
@@ -2762,7 +2762,7 @@
     },
     {
       "IdProduct": 12,
-      "ProductName": "Body Splash Lilac",
+      "ProductName": "Splash Lilac",
       "PriceSale": "94.90",
       "Promotion": false,
       "ImagePath": "1738429597874-88840405-WhatsApp_Image_2025-02-01_at_13.56.10_(5).jpeg",
@@ -2862,7 +2862,7 @@
     },
     {
       "IdProduct": 6,
-      "ProductName": "Floratta Romance de Verão",
+      "ProductName": "Floratta Romance",
       "PriceSale": "149.90",
       "Promotion": false,
       "ImagePath": "1738428177838-207972040-WhatsApp_Image_2025-02-01_at_08.57.17_(3).jpeg",
@@ -2922,7 +2922,7 @@
     },
     {
       "IdProduct": 189,
-      "ProductName": "Camisa Ref 1103 Cor Preto",
+      "ProductName": "Camisa Preta  Ref 1103",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742677808177-257369629-007.jpeg",
