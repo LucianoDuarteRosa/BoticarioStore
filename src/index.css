@@ -9,7 +9,8 @@
     /* Colors */
     --text-base-dark: #000;
     --text-base-light: #fff;
-    --text-destac: #b64949;
+    --bg-promotion: #b64949;
+    --text-destac: #e6a2d0;
     --text-sub: #b3b3b3;
     --bg-icon: #121212;
     --bg-icon-whatsapp: #25D366;
@@ -44,8 +45,8 @@ body {
     justify-content: space-between;
     padding: 1rem;
     transition: transform 0.3s ease-in-out;
-    height: 90vh;
-    overflow-y: auto;
+    /*height: 85vh;
+    overflow-y: auto; se precisa de mais espaço na barra de rolagem em dispositivos menores*/
 }
 
 .footer {

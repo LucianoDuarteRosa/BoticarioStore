@@ -35,28 +35,51 @@ const App = () => {
         .map(({ value }) => value); // Retorna apenas os valores originais
     };
 
-    // Embaralha os produtos antes de definir no estado
-    setProducts(shuffleArray(productsData));
+    setProducts(shuffleArray(productsData.products));
 
-    // Obter categorias únicas a partir do campo Category.CategoryName
-    const categoriesSet = new Set(
-      productsData.map((product) => product.Category.CategoryName)
-    );
+    const categoriesSet = new Map();
 
-    // Adiciona "Promoção" se houver pelo menos um produto com Promotion: true
-    if (productsData.some((product) => product.Promotion)) {
+    productsData.products.forEach((product) => {
+      const key = `${product.Category.CategoryName}-${product.Category.SuperCategoryName}`;
+      if (!categoriesSet.has(key)) {
+        categoriesSet.set(key, {
+          CategoryName: product.Category.CategoryName,
+          SuperCategoryName: product.Category.SuperCategory.SuperCategoryName,
+        });
+      }
+    });
+
+    const categoriesArray = Array.from(categoriesSet.values());
+
+    /*if (productsData.products.some((product) => product.Promotion)) {
       categoriesSet.add("Promoção");
     }
 
-    // Transforma em array e coloca "Promoção" no início se existir
     const uniqueCategories = [
       "Promoção",
       ...Array.from(categoriesSet)
         .filter(c => c !== "Promoção")
-        .sort((a, b) => a.localeCompare(b)) // Ordenação alfabética
+        .sort((a, b) => a.localeCompare(b))
     ];
+    
+        const uniqueCategories = [
+          ...Array.from(categoriesSet)
+            .sort((a, b) => a.localeCompare(b))
+        ];
+    */
 
-    setCategories(uniqueCategories);
+    const groupedCategories = categoriesArray.reduce((acc, category) => {
+      const { SuperCategoryName, CategoryName } = category;
+
+      if (!acc[SuperCategoryName]) {
+        acc[SuperCategoryName] = [];
+      }
+
+      acc[SuperCategoryName].push(CategoryName);
+      return acc;
+    }, {});
+
+    setCategories(groupedCategories);
   }, []);
 
 
@@ -175,7 +198,7 @@ const App = () => {
             </a>
           </span>
           <span>
-            <a  href={linkedIn} target="_blank" rel="noopener noreferrer">
+            <a href={linkedIn} target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faLinkedin} className="social-icon-app" />
             </a>
           </span>

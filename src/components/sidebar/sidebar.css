@@ -13,6 +13,13 @@
     color: var(--text-base-light);
 }
 
+.title-super-category {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: .5rem 0 0 1rem;
+    color: var(--text-base-light);
+}
+
 .category-list {
     display: flex;
     justify-content: center;

@@ -1,12 +1,12 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faInstagram, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
-import paramsData from "../../params.json";
+import dataJson from "../../data.json";
 import './links.css';
 
 const Links = () => {
     const whatsappMessage = `Olá! Gostaria de saber mais sobre os produtos. Poderia me ajudar?`;
-    const whatsappUrl = `https://wa.me/${paramsData[0].WhatsApp}?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/${dataJson.config.WhatsApp}?text=${encodeURIComponent(whatsappMessage)}`;
     return (
         <div className="social-links">
             <div>
@@ -15,13 +15,13 @@ const Links = () => {
             </div>
 
             <div className="social-icons">
-                {paramsData[0].Facebook != '' ?
-                    <a href={paramsData[0].Facebook} target="_blank" rel="noopener noreferrer">
+                {dataJson.config.Facebook !== '' ?
+                    <a href={dataJson.config.Facebook} target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon icon={faFacebook} className="social-icon" />
                     </a> : ''
                 }
-                {paramsData[0].Instagram != '' ?
-                    <a href={paramsData[0].Instagram} target="_blank" rel="noopener noreferrer">
+                {dataJson.config.Instagram !== '' ?
+                    <a href={dataJson.config.Instagram} target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon icon={faInstagram} className="social-icon" />
                     </a> : ''
 
