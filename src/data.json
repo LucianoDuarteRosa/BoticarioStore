@@ -421,46 +421,6 @@
       }
     },
     {
-      "IdProduct": 159,
-      "ProductName": "Liz",
-      "PriceSale": "164.90",
-      "Promotion": false,
-      "ImagePath": "1740319977208-697199035-WhatsApp_Image_2025-02-23_at_10.54.08.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 158,
-      "ProductName": "kit florattas",
-      "PriceSale": "199.90",
-      "Promotion": false,
-      "ImagePath": "1740319926560-119510274-WhatsApp_Image_2025-02-23_at_10.54.07_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 157,
       "ProductName": "Egeo Bomb Black",
       "PriceSale": "154.90",
@@ -486,26 +446,6 @@
       "PriceSale": "239.90",
       "Promotion": false,
       "ImagePath": "1739043355203-666048277-WhatsApp_Image_2025-02-08_at_16.33.28_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 154,
-      "ProductName": "Hidra Her Code",
-      "PriceSale": "62.90",
-      "Promotion": false,
-      "ImagePath": "1739043324555-49929926-WhatsApp_Image_2025-02-08_at_16.33.28.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -1421,26 +1361,6 @@
       }
     },
     {
-      "IdProduct": 101,
-      "ProductName": "SOS Cauterização",
-      "PriceSale": "36.90",
-      "Promotion": true,
-      "ImagePath": "1738521214111-752627919-WhatsApp_Image_2025-02-02_at_10.34.39_(2).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 100,
       "ProductName": "Refil Rosa e Algodão para mãos",
       "PriceSale": "24.90",
@@ -1781,26 +1701,6 @@
       }
     },
     {
-      "IdProduct": 79,
-      "ProductName": "Colônia Divertidamente",
-      "PriceSale": "129.90",
-      "Promotion": false,
-      "ImagePath": "1738505870357-648527077-WhatsApp_Image_2025-02-02_at_10.30.03_(2).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 78,
       "ProductName": "Colônia da Força",
       "PriceSale": "92.90",
@@ -1826,26 +1726,6 @@
       "PriceSale": "92.90",
       "Promotion": false,
       "ImagePath": "1738505742175-243359803-WhatsApp_Image_2025-02-02_at_10.30.02_(1).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 76,
-      "ProductName": "Colônia Amizade",
-      "PriceSale": "92.90",
-      "Promotion": false,
-      "ImagePath": "1738505607191-854150214-WhatsApp_Image_2025-02-02_at_10.30.02_(2).jpeg",
       "IdCategory": 3,
       "P": false,
       "M": false,
@@ -2306,26 +2186,6 @@
       "PriceSale": "299.90",
       "Promotion": false,
       "ImagePath": "1738435510516-664998625-LILY-EDP-75ml_B77524_conceito_.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 46,
-      "ProductName": "Body Splash Deleite",
-      "PriceSale": "84.90",
-      "Promotion": false,
-      "ImagePath": "1738435402762-148865591-br-11134207-7r98o-lw5pizxu4oeqef.jpg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3041,6 +2901,66 @@
       }
     },
     {
+      "IdProduct": 186,
+      "ProductName": "Top Ref 2538",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1742663218840-567556255-003.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 185,
+      "ProductName": "Calça Ref 2534",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1742662966560-145995264-002.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 184,
+      "ProductName": "Top Ref 2501",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1742662711730-267510776-001.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 183,
       "ProductName": "Bermuda Ref 2509",
       "PriceSale": "69.90",
@@ -3062,7 +2982,7 @@
     },
     {
       "IdProduct": 182,
-      "ProductName": "Toper Ref 2501",
+      "ProductName": "Top Ref 2501",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742660949747-337190522-005.jpeg",
@@ -3072,7 +2992,7 @@
       "G": true,
       "GG": true,
       "Category": {
-        "CategoryName": "Topers e Blusas Feminino",
+        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
