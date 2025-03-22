@@ -18,6 +18,11 @@ const ImageDialog = ({ open, handleClose, imageUrl }) => (
                 />
             </DialogContentText>
         </DialogContent>
+        <DialogActions>
+                <Button onClick={handleClose} className="btn-dialog" variant="contained">
+                    Fechar
+                </Button>
+            </DialogActions>
     </Dialog>
 );
 

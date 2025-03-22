@@ -39,6 +39,10 @@
     position: relative!important;
 }
 
+.btn-dialog{
+    background-color: var(--text-destac)!important;
+}
+
 .promotion-banner {
     position: absolute;
     top: -1;
