@@ -2901,6 +2901,86 @@
       }
     },
     {
+      "IdProduct": 190,
+      "ProductName": "Calça Ref 1304",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1742675757318-35722575-008.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 189,
+      "ProductName": "Camisa Ref 1103 Cor Preto",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 19,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 188,
+      "ProductName": "Bermuda Ref 1210 Cor Preto",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1742675379863-518113400-007.jpeg",
+      "IdCategory": 19,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 187,
+      "ProductName": "Bermuda Ref 2541",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1742675262368-138765406-004.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 186,
       "ProductName": "Top Ref 2538",
       "PriceSale": "59.90",
