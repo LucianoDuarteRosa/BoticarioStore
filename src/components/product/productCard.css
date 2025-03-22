@@ -19,7 +19,6 @@
     align-items: stretch;
     min-height: 100%; 
     margin-bottom: .5rem;
-    
 }
 
 .product-info {
@@ -33,6 +32,11 @@
     width: 100%;
     height: 100%;
     border-radius: 12px 12px 0 0;
+}
+
+.img-product-icon{
+    padding: 0!important;
+    position: relative!important;
 }
 
 .promotion-banner {
@@ -71,6 +75,10 @@
 
 .clothing-banner span {
     white-space: nowrap;
+}
+
+.promotion-banner, .clothing-banner {
+    z-index: 2;
 }
 
 .product-name {

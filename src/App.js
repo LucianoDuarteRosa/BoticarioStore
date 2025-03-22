@@ -5,7 +5,7 @@ import Sidebar from "./components/sidebar/sidebar";
 import Links from "./components/links/links";
 import Logo from "./components/logo/logo";
 import productsData from "./data.json";
-import { Grid, Container, Box, IconButton, Drawer } from "@mui/material";
+import { Grid, Container, Box, IconButton, Drawer} from "@mui/material";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
