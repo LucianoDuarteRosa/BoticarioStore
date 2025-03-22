@@ -41,6 +41,17 @@
 
 .btn-dialog{
     background-color: var(--text-destac)!important;
+    margin: 0!important;
+}
+
+.dialog-full{
+    background-color: var(--bg-icon)!important;
+    opacity: 1!important;
+}
+
+.img-product-dialog{
+    padding: 0!important;
+    margin: 0!important;
 }
 
 .promotion-banner {

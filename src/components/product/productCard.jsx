@@ -1,16 +1,17 @@
 import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
-import { DialogContentText, DialogContent, DialogActions, Button, Dialog, CardMedia, IconButton } from "@mui/material";
+import { DialogContentText, DialogContent, DialogActions, Button, Dialog, CardMedia, IconButton, Box } from "@mui/material";
 import dataJson from "../../data.json";
 import "./productCard.css";
 
 // Componente separado para exibir imagens
 const ImageDialog = ({ open, handleClose, imageUrl }) => (
-    <Dialog open={open} onClose={handleClose} maxWidth="md" fullWidth>
-        <DialogContent>
+    <Dialog open={open} onClose={handleClose} maxWidth="md" fullWidth >
+        <DialogContent className="dialog-full">
             <DialogContentText>
                 <CardMedia
+                    className="img-product-dialog"
                     component="img"
                     image={imageUrl}
                     alt="Imagem de Divulgação"
@@ -18,11 +19,11 @@ const ImageDialog = ({ open, handleClose, imageUrl }) => (
                 />
             </DialogContentText>
         </DialogContent>
-        <DialogActions>
-                <Button onClick={handleClose} className="btn-dialog" variant="contained">
-                    Fechar
-                </Button>
-            </DialogActions>
+        <DialogActions className="dialog-full">
+            <Button onClick={handleClose} className="btn-dialog" variant="contained">
+                Fechar
+            </Button>
+        </DialogActions>
     </Dialog>
 );
 
