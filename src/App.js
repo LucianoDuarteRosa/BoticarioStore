@@ -27,12 +27,11 @@ const App = () => {
   };
 
   useEffect(() => {
-    // Configurar os produtos
     const shuffleArray = (array) => {
       return array
-        .map((value) => ({ value, sort: Math.random() })) // Adiciona um valor aleatório
-        .sort((a, b) => a.sort - b.sort) // Ordena aleatoriamente
-        .map(({ value }) => value); // Retorna apenas os valores originais
+        .map((value) => ({ value, sort: Math.random() }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(({ value }) => value);
     };
 
     setProducts(shuffleArray(productsData.products));
@@ -50,23 +49,6 @@ const App = () => {
     });
 
     const categoriesArray = Array.from(categoriesSet.values());
-
-    /*if (productsData.products.some((product) => product.Promotion)) {
-      categoriesSet.add("Promoção");
-    }
-
-    const uniqueCategories = [
-      "Promoção",
-      ...Array.from(categoriesSet)
-        .filter(c => c !== "Promoção")
-        .sort((a, b) => a.localeCompare(b))
-    ];
-    
-        const uniqueCategories = [
-          ...Array.from(categoriesSet)
-            .sort((a, b) => a.localeCompare(b))
-        ];
-    */
 
     const groupedCategories = categoriesArray.reduce((acc, category) => {
       const { SuperCategoryName, CategoryName } = category;
