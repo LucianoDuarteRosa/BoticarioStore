@@ -1,6 +1,106 @@
 {
   "products": [
     {
+      "IdProduct": 208,
+      "ProductName": "Ampola Sérum Capilar",
+      "PriceSale": "35.90",
+      "Promotion": false,
+      "ImagePath": "1742688550385-571080401-031.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 207,
+      "ProductName": "Styletto",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1742688451638-608742915-028.jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 206,
+      "ProductName": "Egeo Original",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1742688399811-586472630-029.jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 205,
+      "ProductName": "Thaty",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1742688347753-633418984-030.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 204,
+      "ProductName": "Glamour Myriad",
+      "PriceSale": "174.90",
+      "Promotion": false,
+      "ImagePath": "1742688285107-792753670-027.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 181,
       "ProductName": "Base Mineral Cor 30",
       "PriceSale": "79.90",
@@ -2901,6 +3001,266 @@
       }
     },
     {
+      "IdProduct": 203,
+      "ProductName": "Calça Ref 2488",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 202,
+      "ProductName": "Top Ref 2487",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1742688125254-904804689-018.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 201,
+      "ProductName": "Calça disponível sem bolso",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 200,
+      "ProductName": "Top Ref 2480",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1742687896617-916272245-017.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 199,
+      "ProductName": "Top Bojo Ref 1004 Cor Cinza",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1742687838972-842878510-016.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 198,
+      "ProductName": "Calça Ref 2463",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1742687751283-576644322-014.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 197,
+      "ProductName": "Calça Ref 2472",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 196,
+      "ProductName": "Top Ref 2471",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1742687647726-176644984-013.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 195,
+      "ProductName": "Casaco Grosso Ref 1110",
+      "PriceSale": "115.90",
+      "Promotion": false,
+      "ImagePath": "1742687453567-576686695-012.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 194,
+      "ProductName": "Casaco UV 50+ Ref 1109",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1742687401476-231906587-011.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 193,
+      "ProductName": "Bermuda Ref 2545",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 18,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 192,
+      "ProductName": "Top Ref 2544",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1742687266183-212498299-010.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 191,
+      "ProductName": "Calça Ref 1305",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1742687107876-493618052-009.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 190,
       "ProductName": "Calça Ref 1304",
       "PriceSale": "109.90",
@@ -2942,7 +3302,7 @@
     },
     {
       "IdProduct": 188,
-      "ProductName": "Bermuda Ref 1210 Cor Preto",
+      "ProductName": "Bermuda Preta Ref1210",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1742675379863-518113400-007.jpeg",
