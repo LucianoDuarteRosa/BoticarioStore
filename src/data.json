@@ -1,6 +1,106 @@
 {
   "products": [
     {
+      "IdProduct": 213,
+      "ProductName": "Kit Linda",
+      "PriceSale": "218.90",
+      "Promotion": true,
+      "ImagePath": "1742850138095-11470178-025.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 212,
+      "ProductName": "Kit Pessegura",
+      "PriceSale": "59.90",
+      "Promotion": true,
+      "ImagePath": "1742850100108-244947153-026.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 211,
+      "ProductName": "Kit Deleite",
+      "PriceSale": "87.90",
+      "Promotion": true,
+      "ImagePath": "1742850039107-931732043-024.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 210,
+      "ProductName": "Kit Liz",
+      "PriceSale": "192.90",
+      "Promotion": true,
+      "ImagePath": "1742849993849-462048128-023.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 209,
+      "ProductName": "Kit Nativa SPA Ameixa",
+      "PriceSale": "136.90",
+      "Promotion": true,
+      "ImagePath": "1742849911872-271245397-022.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 208,
       "ProductName": "Ampola Sérum Capilar",
       "PriceSale": "35.90",
@@ -203,7 +303,7 @@
     {
       "IdProduct": 176,
       "ProductName": "Clash Hidratante",
-      "PriceSale": "40.90",
+      "PriceSale": "43.90",
       "Promotion": true,
       "ImagePath": "1740846245860-131670562-WhatsApp_Image_2025-03-01_at_12.41.54.jpeg",
       "IdCategory": 2,
@@ -223,8 +323,8 @@
     {
       "IdProduct": 175,
       "ProductName": "Clash",
-      "PriceSale": "119.90",
-      "Promotion": true,
+      "PriceSale": "159.90",
+      "Promotion": false,
       "ImagePath": "1740846215191-969132713-WhatsApp_Image_2025-03-01_at_12.41.53_(1).jpeg",
       "IdCategory": 2,
       "P": false,
@@ -243,8 +343,8 @@
     {
       "IdProduct": 174,
       "ProductName": "Clash Desod Spray",
-      "PriceSale": "32.90",
-      "Promotion": true,
+      "PriceSale": "44.90",
+      "Promotion": false,
       "ImagePath": "1740846187591-388751185-WhatsApp_Image_2025-03-01_at_12.41.53.jpeg",
       "IdCategory": 2,
       "P": false,
