@@ -3221,46 +3221,6 @@
       }
     },
     {
-      "IdProduct": 197,
-      "ProductName": "Calça Ref 2472",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1742689943918-872528163-013.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 196,
-      "ProductName": "Top Ref 2471",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1742687647726-176644984-013.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 195,
       "ProductName": "Casaco Grosso Ref 1110",
       "PriceSale": "115.90",
