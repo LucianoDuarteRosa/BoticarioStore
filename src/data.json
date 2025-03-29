@@ -1,6 +1,146 @@
 {
   "products": [
     {
+      "IdProduct": 220,
+      "ProductName": "Kit Coffee Seduction",
+      "PriceSale": "259.90",
+      "Promotion": true,
+      "ImagePath": "1743276488098-87309258-WhatsApp_Image_2025-03-26_at_20.21.13.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 219,
+      "ProductName": "Kit Egeo Dolce",
+      "PriceSale": "179.90",
+      "Promotion": true,
+      "ImagePath": "1743276426757-996644933-WhatsApp_Image_2025-03-26_at_20.20.09.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 218,
+      "ProductName": "Body Spray Lily Blanche",
+      "PriceSale": "40.90",
+      "Promotion": true,
+      "ImagePath": "1743276307732-800943075-WhatsApp_Image_2025-03-26_at_20.15.09_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 217,
+      "ProductName": "Lily Blanche",
+      "PriceSale": "174.90",
+      "Promotion": true,
+      "ImagePath": "1743276179740-602688651-WhatsApp_Image_2025-03-26_at_20.15.09.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 216,
+      "ProductName": "Kit Lily",
+      "PriceSale": "373.90",
+      "Promotion": true,
+      "ImagePath": "1743276067361-171027500-3.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 215,
+      "ProductName": "Body Splash Uva Merlot",
+      "PriceSale": "84.90",
+      "Promotion": true,
+      "ImagePath": "1743275933469-403349221-2.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 214,
+      "ProductName": "Hidra Uva Merlor 400ml",
+      "PriceSale": "68.90",
+      "Promotion": true,
+      "ImagePath": "1743275845896-892996770-1.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 213,
       "ProductName": "Kit Linda",
       "PriceSale": "218.90",
@@ -3101,6 +3241,106 @@
       }
     },
     {
+      "IdProduct": 225,
+      "ProductName": "Blusa Ref 1102",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1743277224996-562155992-6.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": true,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 224,
+      "ProductName": "Top Ref 1003",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743277046897-446964056-5.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 223,
+      "ProductName": "Top Ref 2538",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743276871289-739026986-4.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 222,
+      "ProductName": "Blusa Ref 1102",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1743276817974-561619999-3.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 221,
+      "ProductName": "Top Ref 2533",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743276722700-616493279-2.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 203,
       "ProductName": "Calça Ref 2488",
       "PriceSale": "109.90",
@@ -3182,10 +3422,10 @@
     },
     {
       "IdProduct": 199,
-      "ProductName": "Top Bojo Ref 1004 Cor Cinza",
+      "ProductName": "Top Bojo Ref 1004",
       "PriceSale": "59.90",
       "Promotion": false,
-      "ImagePath": "1742687838972-842878510-016.jpeg",
+      "ImagePath": "1743277276351-833633323-8.jpeg",
       "IdCategory": 17,
       "P": false,
       "M": true,
@@ -3362,10 +3602,10 @@
     },
     {
       "IdProduct": 188,
-      "ProductName": "Bermuda Preta Ref1210",
+      "ProductName": "Bermuda Preta Ref 1210",
       "PriceSale": "69.90",
       "Promotion": false,
-      "ImagePath": "1742675379863-518113400-007.jpeg",
+      "ImagePath": "1743277401921-891214936-4.jpeg",
       "IdCategory": 19,
       "P": true,
       "M": false,
@@ -3402,17 +3642,17 @@
     },
     {
       "IdProduct": 186,
-      "ProductName": "Top Ref 2538",
-      "PriceSale": "59.90",
+      "ProductName": "Short Duplo Ref 1202",
+      "PriceSale": "69.90",
       "Promotion": false,
-      "ImagePath": "1742663218840-567556255-003.jpeg",
-      "IdCategory": 17,
-      "P": true,
-      "M": false,
+      "ImagePath": "1743277623761-113059065-5.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
       "G": false,
       "GG": false,
       "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
+        "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
