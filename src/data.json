@@ -3241,6 +3241,206 @@
       }
     },
     {
+      "IdProduct": 235,
+      "ProductName": "Top Dupla Face Ref 2501",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": true,
+      "GG": true,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 234,
+      "ProductName": "Calça Ref 1304",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1743278612325-522340071-19.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": true,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 233,
+      "ProductName": "Top Ref 2533",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743278536402-509880278-16.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 232,
+      "ProductName": "Blusa Ref 1102",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1743278370117-332319292-13.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 231,
+      "ProductName": "Top dupla face Ref 2501",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743278309702-554305142-12.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 230,
+      "ProductName": "Calça Ref 2448",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1743278227440-613342601-10.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 229,
+      "ProductName": "Bermuda Ref 2375",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1743278155434-610069829-11.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 228,
+      "ProductName": "Top Ref 2419",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743278070763-656218486-10.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 227,
+      "ProductName": "Bermuda Ref 2177",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1743278017654-621720564-9.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 226,
+      "ProductName": "Calça Ref 2546",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1743277923536-605551289-7.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 225,
       "ProductName": "Blusa Ref 1102",
       "PriceSale": "54.90",
@@ -3382,10 +3582,10 @@
     },
     {
       "IdProduct": 201,
-      "ProductName": "Calça disponível sem bolso",
+      "ProductName": "Calça Ref 2414",
       "PriceSale": "109.90",
       "Promotion": false,
-      "ImagePath": "1742689901928-440563284-017.jpeg",
+      "ImagePath": "1743278453036-123317692-14.jpeg",
       "IdCategory": 18,
       "P": false,
       "M": true,
@@ -3647,7 +3847,7 @@
       "Promotion": false,
       "ImagePath": "1743277623761-113059065-5.jpeg",
       "IdCategory": 18,
-      "P": false,
+      "P": true,
       "M": true,
       "G": false,
       "GG": false,
