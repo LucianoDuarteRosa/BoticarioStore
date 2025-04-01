@@ -3788,9 +3788,9 @@
       "ImagePath": "1743277401921-891214936-4.jpeg",
       "IdCategory": 19,
       "P": true,
-      "M": false,
-      "G": false,
-      "GG": false,
+      "M": true,
+      "G": true,
+      "GG": true,
       "Category": {
         "CategoryName": "Moda Masculina",
         "IdSuperCategory": 2,
