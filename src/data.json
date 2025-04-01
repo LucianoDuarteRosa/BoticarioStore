@@ -261,26 +261,6 @@
       }
     },
     {
-      "IdProduct": 207,
-      "ProductName": "Styletto",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1742688451638-608742915-028.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 206,
       "ProductName": "Egeo Original",
       "PriceSale": "154.90",
@@ -3242,7 +3222,7 @@
     },
     {
       "IdProduct": 235,
-      "ProductName": "Top Dupla Face Ref 2501",
+      "ProductName": "Top Dupla Face ADMA Ref 2501",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": null,
@@ -3262,7 +3242,7 @@
     },
     {
       "IdProduct": 234,
-      "ProductName": "Calça Ref 1304",
+      "ProductName": "Calça ADMA Ref 1304",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1743278612325-522340071-19.jpeg",
@@ -3282,7 +3262,7 @@
     },
     {
       "IdProduct": 233,
-      "ProductName": "Top Ref 2533",
+      "ProductName": "Top ADMA Ref 2533",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1743278536402-509880278-16.jpeg",
@@ -3302,7 +3282,7 @@
     },
     {
       "IdProduct": 232,
-      "ProductName": "Blusa Ref 1102",
+      "ProductName": "Blusa ADMA Ref 1102",
       "PriceSale": "54.90",
       "Promotion": false,
       "ImagePath": "1743278370117-332319292-13.jpeg",
@@ -3322,7 +3302,7 @@
     },
     {
       "IdProduct": 231,
-      "ProductName": "Top dupla face Ref 2501",
+      "ProductName": "Top Dupla Face ADMA Ref 2501",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1743278309702-554305142-12.jpeg",
@@ -3342,7 +3322,7 @@
     },
     {
       "IdProduct": 230,
-      "ProductName": "Calça Ref 2448",
+      "ProductName": "Calça ADMA Ref 2448",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1743278227440-613342601-10.jpeg",
@@ -3362,7 +3342,7 @@
     },
     {
       "IdProduct": 229,
-      "ProductName": "Bermuda Ref 2375",
+      "ProductName": "Bermuda ADMA Ref 2375",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1743278155434-610069829-11.jpeg",
@@ -3382,7 +3362,7 @@
     },
     {
       "IdProduct": 228,
-      "ProductName": "Top Ref 2419",
+      "ProductName": "Top Ref ADMA 2419",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1743278070763-656218486-10.jpeg",
@@ -3402,7 +3382,7 @@
     },
     {
       "IdProduct": 227,
-      "ProductName": "Bermuda Ref 2177",
+      "ProductName": "Bermuda ADMA Ref 2177",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1743278017654-621720564-9.jpeg",
@@ -3422,7 +3402,7 @@
     },
     {
       "IdProduct": 226,
-      "ProductName": "Calça Ref 2546",
+      "ProductName": "Calça ADMA Ref 2546",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1743277923536-605551289-7.jpeg",
@@ -3442,7 +3422,7 @@
     },
     {
       "IdProduct": 225,
-      "ProductName": "Blusa Ref 1102",
+      "ProductName": "Blusa ADMA Ref 1102",
       "PriceSale": "54.90",
       "Promotion": false,
       "ImagePath": "1743277224996-562155992-6.jpeg",
@@ -3462,7 +3442,7 @@
     },
     {
       "IdProduct": 224,
-      "ProductName": "Top Ref 1003",
+      "ProductName": "Top ADMA Ref 1003",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1743277046897-446964056-5.jpeg",
@@ -3482,7 +3462,7 @@
     },
     {
       "IdProduct": 223,
-      "ProductName": "Top Ref 2538",
+      "ProductName": "Top ADMA Ref 2538",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1743276871289-739026986-4.jpeg",
@@ -3502,7 +3482,7 @@
     },
     {
       "IdProduct": 222,
-      "ProductName": "Blusa Ref 1102",
+      "ProductName": "Blusa ADMA Ref 1102",
       "PriceSale": "54.90",
       "Promotion": false,
       "ImagePath": "1743276817974-561619999-3.jpeg",
@@ -3522,7 +3502,7 @@
     },
     {
       "IdProduct": 221,
-      "ProductName": "Top Ref 2533",
+      "ProductName": "Top ADMA Ref 2533",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1743276722700-616493279-2.jpeg",
@@ -3542,7 +3522,7 @@
     },
     {
       "IdProduct": 203,
-      "ProductName": "Calça Ref 2488",
+      "ProductName": "Calça ADMA Ref 2488",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1742689875298-83617726-018.jpeg",
@@ -3562,7 +3542,7 @@
     },
     {
       "IdProduct": 202,
-      "ProductName": "Top Ref 2487",
+      "ProductName": "Top ADMA Ref 2487",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742688125254-904804689-018.jpeg",
@@ -3582,7 +3562,7 @@
     },
     {
       "IdProduct": 201,
-      "ProductName": "Calça Ref 2414",
+      "ProductName": "Calça ADMA Ref 2414",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1743278453036-123317692-14.jpeg",
@@ -3602,7 +3582,7 @@
     },
     {
       "IdProduct": 200,
-      "ProductName": "Top Ref 2480",
+      "ProductName": "Top ADMA Ref 2480",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742687896617-916272245-017.jpeg",
@@ -3622,7 +3602,7 @@
     },
     {
       "IdProduct": 199,
-      "ProductName": "Top Bojo Ref 1004",
+      "ProductName": "Top Bojo ADMA Ref 1004",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1743277276351-833633323-8.jpeg",
@@ -3642,7 +3622,7 @@
     },
     {
       "IdProduct": 198,
-      "ProductName": "Calça Ref 2463",
+      "ProductName": "Calça ADMA Ref 2463",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1742687751283-576644322-014.jpeg",
@@ -3662,7 +3642,7 @@
     },
     {
       "IdProduct": 195,
-      "ProductName": "Casaco Grosso Ref 1110",
+      "ProductName": "Casaco Grosso ADMA Ref 1110",
       "PriceSale": "115.90",
       "Promotion": false,
       "ImagePath": "1742687453567-576686695-012.jpeg",
@@ -3682,7 +3662,7 @@
     },
     {
       "IdProduct": 194,
-      "ProductName": "Casaco UV 50+ Ref 1109",
+      "ProductName": "Casaco UV 50+ ADMA Ref 1109",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1742687401476-231906587-011.jpeg",
@@ -3702,7 +3682,7 @@
     },
     {
       "IdProduct": 193,
-      "ProductName": "Bermuda Ref 2545",
+      "ProductName": "Bermuda ADMA Ref 2545",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1742689796627-830460771-010.jpeg",
@@ -3722,7 +3702,7 @@
     },
     {
       "IdProduct": 192,
-      "ProductName": "Top Ref 2544",
+      "ProductName": "Top ADMA Ref 2544",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742687266183-212498299-010.jpeg",
@@ -3742,7 +3722,7 @@
     },
     {
       "IdProduct": 191,
-      "ProductName": "Calça Ref 1305",
+      "ProductName": "Calça ADMA Ref 1305",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1742687107876-493618052-009.jpeg",
@@ -3762,7 +3742,7 @@
     },
     {
       "IdProduct": 190,
-      "ProductName": "Calça Ref 1304",
+      "ProductName": "Calça ADMA Ref 1304",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1742675757318-35722575-008.jpeg",
@@ -3782,7 +3762,7 @@
     },
     {
       "IdProduct": 189,
-      "ProductName": "Camisa Preta  Ref 1103",
+      "ProductName": "Camisa Preta ADMA Ref 1103",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742677808177-257369629-007.jpeg",
@@ -3802,7 +3782,7 @@
     },
     {
       "IdProduct": 188,
-      "ProductName": "Bermuda Preta Ref 1210",
+      "ProductName": "Bermuda Preta ADMA Ref 1210",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1743277401921-891214936-4.jpeg",
@@ -3822,7 +3802,7 @@
     },
     {
       "IdProduct": 187,
-      "ProductName": "Bermuda Ref 2541",
+      "ProductName": "Bermuda ADMA Ref 2541",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1742675262368-138765406-004.jpeg",
@@ -3842,7 +3822,7 @@
     },
     {
       "IdProduct": 186,
-      "ProductName": "Short Duplo Ref 1202",
+      "ProductName": "Short Duplo ADMA Ref 1202",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1743277623761-113059065-5.jpeg",
@@ -3862,7 +3842,7 @@
     },
     {
       "IdProduct": 185,
-      "ProductName": "Calça Ref 2534",
+      "ProductName": "Calça ADMA Ref 2534",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1742662966560-145995264-002.jpeg",
@@ -3882,7 +3862,7 @@
     },
     {
       "IdProduct": 184,
-      "ProductName": "Top Ref 2501",
+      "ProductName": "Top ADMA Ref 2501",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742662711730-267510776-001.jpeg",
@@ -3902,7 +3882,7 @@
     },
     {
       "IdProduct": 183,
-      "ProductName": "Bermuda Ref 2509",
+      "ProductName": "Bermuda ADMA Ref 2509",
       "PriceSale": "69.90",
       "Promotion": false,
       "ImagePath": "1742661951928-421229553-005.jpeg",
@@ -3922,7 +3902,7 @@
     },
     {
       "IdProduct": 182,
-      "ProductName": "Top Ref 2501",
+      "ProductName": "Top ADMA Ref 2501",
       "PriceSale": "59.90",
       "Promotion": false,
       "ImagePath": "1742660949747-337190522-005.jpeg",
