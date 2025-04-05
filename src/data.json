@@ -3201,6 +3201,26 @@
       }
     },
     {
+      "IdProduct": 246,
+      "ProductName": "Calça ADMA Ref 2547",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1743818798565-295789692-WhatsApp_Image_2025-04-04_at_22.43.27.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": true,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 245,
       "ProductName": "Top Ref 2544",
       "PriceSale": "59.90",
