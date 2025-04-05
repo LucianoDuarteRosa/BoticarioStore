@@ -3201,6 +3201,26 @@
       }
     },
     {
+      "IdProduct": 245,
+      "ProductName": "Top Ref 2544",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743818562235-693147042-WhatsApp_Image_2025-04-04_at_22.43.27.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": true,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 244,
       "ProductName": "Top Ref 2518",
       "PriceSale": "59.90",
