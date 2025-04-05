@@ -101,26 +101,6 @@
       }
     },
     {
-      "IdProduct": 215,
-      "ProductName": "Body Splash Uva Merlot",
-      "PriceSale": "84.90",
-      "Promotion": true,
-      "ImagePath": "1743275933469-403349221-2.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 214,
       "ProductName": "Hidra Uva Merlor 400ml",
       "PriceSale": "68.90",
@@ -3221,6 +3201,66 @@
       }
     },
     {
+      "IdProduct": 244,
+      "ProductName": "Top Ref 2518",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1743817949887-240259714-WhatsApp_Image_2025-04-02_at_20.12.25.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 243,
+      "ProductName": "Calça Ref 2449",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1743817875648-370516042-WhatsApp_Image_2025-04-02_at_20.12.26.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": true,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 242,
+      "ProductName": "Bermuda Ref 2520",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1743817841897-928655713-WhatsApp_Image_2025-04-02_at_20.12.25.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 241,
       "ProductName": "Calça ADMA Ref 2457",
       "PriceSale": "109.90",
@@ -3568,7 +3608,7 @@
       "ImagePath": "1743277046897-446964056-5.jpeg",
       "IdCategory": 17,
       "P": true,
-      "M": false,
+      "M": true,
       "G": false,
       "GG": false,
       "Category": {
@@ -3830,7 +3870,7 @@
       "P": false,
       "M": true,
       "G": false,
-      "GG": false,
+      "GG": true,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
