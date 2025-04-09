@@ -3210,7 +3210,7 @@
       "P": false,
       "M": false,
       "G": true,
-      "GG": true,
+      "GG": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
@@ -3230,7 +3230,7 @@
       "P": false,
       "M": false,
       "G": true,
-      "GG": true,
+      "GG": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
@@ -3910,7 +3910,7 @@
       "P": false,
       "M": true,
       "G": false,
-      "GG": true,
+      "GG": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
@@ -4049,7 +4049,7 @@
       "IdCategory": 17,
       "P": true,
       "M": false,
-      "G": false,
+      "G": true,
       "GG": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
