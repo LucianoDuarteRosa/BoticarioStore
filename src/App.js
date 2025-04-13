@@ -77,7 +77,9 @@ const App = () => {
     const isCategorySelected =
       !selectedCategories.length ||
       selectedCategories.includes(product.Category.CategoryName) ||
-      (selectedCategories.includes("Promoção") && product.Promotion);
+      (selectedCategories.includes("Promotion") && product.Promotion) ||
+      (selectedCategories.includes("Launch") && product.Launch) 
+      ;
 
     return isCategorySelected && product.ProductName.toLowerCase().includes(searchValue.toLowerCase());
   });

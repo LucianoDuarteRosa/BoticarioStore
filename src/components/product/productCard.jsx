@@ -1,22 +1,33 @@
 import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
-import { DialogContentText, DialogContent, DialogActions, Button, Dialog, CardMedia, IconButton, Box } from "@mui/material";
+import { DialogContentText, DialogContent, DialogActions, Button, Dialog, CardMedia, IconButton } from "@mui/material";
 import dataJson from "../../data.json";
 import "./productCard.css";
 
 // Componente separado para exibir imagens
-const ImageDialog = ({ open, handleClose, imageUrl }) => (
-    <Dialog open={open} onClose={handleClose} maxWidth="md" fullWidth >
+const ImageDialog = ({ open, handleClose, product, clothingSizes }) => (
+    <Dialog open={open} onClose={handleClose} maxWidth="sm" fullWidth >
         <DialogContent className="dialog-full">
             <DialogContentText>
-                <CardMedia
-                    className="img-product-dialog"
-                    component="img"
-                    image={imageUrl}
-                    alt="Imagem de Divulgação"
-                    sx={{ width: "100%", maxHeight: "80vh", objectFit: "contain" }}
-                />
+                {product.Promotion && <div className="promotion-banner-dialog">Promoção</div>}
+                {product.Category?.SuperCategory?.IdSuperCategory === 2 && clothingSizes.length > 0 && (
+                    <div className="product-size">{clothingSizes}</div>
+                )}
+                <div className="product-card-content">
+                    <CardMedia
+                        className="img-product-dialog"
+                        component="img"
+                        image={product.ImagePath}
+                        alt="Imagem de Divulgação"
+                        sx={{ width: "100%", maxHeight: "60vh", objectFit: "contain" }}
+                    ></CardMedia>
+
+                    <div className="product-info">
+                        <h3 className="product-name">{product.ProductName}</h3>
+                        <p className="product-price-dialog">R$ {Number.parseFloat(product.PriceSale).toFixed(2).replace(".", ",")}</p>
+                    </div>
+                </div>
             </DialogContentText>
         </DialogContent>
         <DialogActions className="dialog-full">
@@ -38,7 +49,7 @@ const ProductCard = ({ product }) => {
 
     // Exibir tamanhos disponíveis (se aplicável)
     const clothingSizes = Object.entries(product)
-        .filter(([key, value]) => ["P", "M", "G", "GG"].includes(key) && value)
+        .filter(([key, value]) => ["P", "M", "G", "GG", "XG"].includes(key) && value)
         .map(([key]) => <span key={key}>{key}</span>);
 
     return (
@@ -65,7 +76,7 @@ const ProductCard = ({ product }) => {
                     </a>
                 </div>
 
-                <ImageDialog open={openDialog} handleClose={handleCloseDialog} imageUrl={product.ImagePath} />
+                <ImageDialog open={openDialog} handleClose={handleCloseDialog} product={product} clothingSizes={clothingSizes} />
             </div>
         </div>
     );
