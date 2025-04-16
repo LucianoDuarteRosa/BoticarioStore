@@ -3169,28 +3169,6 @@
       }
     },
     {
-      "IdProduct": 17,
-      "ProductName": "Coffee Addictive",
-      "PriceSale": "199.90",
-      "Promotion": false,
-      "ImagePath": "1738430517299-254346534-WhatsApp_Image_2025-02-01_at_08.57.15_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 16,
       "ProductName": "Splash Nuvem",
       "PriceSale": "84.90",
@@ -3284,28 +3262,6 @@
       "PriceSale": "224.90",
       "Promotion": false,
       "ImagePath": "1738429433622-776809847-WhatsApp_Image_2025-02-01_at_13.55.47.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 8,
-      "ProductName": "Glamour",
-      "PriceSale": "174.90",
-      "Promotion": false,
-      "ImagePath": "1738428617384-869027345-WhatsApp_Image_2025-02-01_at_08.57.16_(2).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3685,8 +3641,8 @@
       "M": false,
       "G": true,
       "GG": false,
-      "XG": true,
-      "Launch": true,
+      "XG": false,
+      "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
