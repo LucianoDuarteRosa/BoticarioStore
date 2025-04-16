@@ -1,6 +1,28 @@
 {
   "products": [
     {
+      "IdProduct": 260,
+      "ProductName": "Body Splash Uva ",
+      "PriceSale": "94.90",
+      "Promotion": false,
+      "ImagePath": "1744821132988-895923072-2.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 220,
       "ProductName": "Kit Coffee Seduction",
       "PriceSale": "259.90",
@@ -47,8 +69,8 @@
     {
       "IdProduct": 218,
       "ProductName": "Body Spray Lily Blanche",
-      "PriceSale": "40.90",
-      "Promotion": true,
+      "PriceSale": "49.90",
+      "Promotion": false,
       "ImagePath": "1743276307732-800943075-WhatsApp_Image_2025-03-26_at_20.15.09_(1).jpeg",
       "IdCategory": 1,
       "P": false,
@@ -69,8 +91,8 @@
     {
       "IdProduct": 217,
       "ProductName": "Lily Blanche",
-      "PriceSale": "174.90",
-      "Promotion": true,
+      "PriceSale": "209.90",
+      "Promotion": false,
       "ImagePath": "1743276179740-602688651-WhatsApp_Image_2025-03-26_at_20.15.09.jpeg",
       "IdCategory": 1,
       "P": false,
@@ -91,8 +113,8 @@
     {
       "IdProduct": 214,
       "ProductName": "Hidra Uva Merlor 400ml",
-      "PriceSale": "68.90",
-      "Promotion": true,
+      "PriceSale": "86.90",
+      "Promotion": false,
       "ImagePath": "1743275845896-892996770-1.jpeg",
       "IdCategory": 1,
       "P": false,
