@@ -1,6 +1,72 @@
 {
   "products": [
     {
+      "IdProduct": 264,
+      "ProductName": "Acqua Fresca",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1744941429300-746153152-10.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 263,
+      "ProductName": "Glamour Midnight",
+      "PriceSale": "174.90",
+      "Promotion": false,
+      "ImagePath": "1744941348331-450460238-09.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 262,
+      "ProductName": "Glamour S Black Intense",
+      "PriceSale": "174.90",
+      "Promotion": false,
+      "ImagePath": "1744941288413-503109789-08.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 260,
       "ProductName": "Body Splash Uva ",
       "PriceSale": "94.90",
@@ -710,6 +776,28 @@
       "PriceSale": "339.90",
       "Promotion": false,
       "ImagePath": "1740320264636-580515027-WhatsApp_Image_2025-02-23_at_10.54.14.jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 163,
+      "ProductName": "Uomini",
+      "PriceSale": "189.90",
+      "Promotion": false,
+      "ImagePath": "1740320225170-81412579-WhatsApp_Image_2025-02-23_at_10.54.55.jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -2443,50 +2531,6 @@
       }
     },
     {
-      "IdProduct": 64,
-      "ProductName": "Batom Shophie",
-      "PriceSale": "19.90",
-      "Promotion": true,
-      "ImagePath": "1738504579057-389434291-WhatsApp_Image_2025-02-02_at_10.30.01_(4).jpeg",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 63,
-      "ProductName": "Blush Guaraná",
-      "PriceSale": "39.90",
-      "Promotion": true,
-      "ImagePath": "1738504455878-209245222-WhatsApp_Image_2025-02-02_at_10.30.01_(2).jpeg",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 60,
       "ProductName": "Batom Mate Marronterra",
       "PriceSale": "36.90",
@@ -2523,6 +2567,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Maquiagem",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 57,
+      "ProductName": "Deleite 200ml",
+      "PriceSale": "49.90",
+      "Promotion": false,
+      "ImagePath": "1738437732170-872289475-5c9802e2-638d-42ff-8808-3eacca2e67c1-49882.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2690,6 +2756,28 @@
       "PriceSale": "299.90",
       "Promotion": false,
       "ImagePath": "1738435510516-664998625-LILY-EDP-75ml_B77524_conceito_.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 46,
+      "ProductName": "Body Splash Deleite",
+      "PriceSale": "84.90",
+      "Promotion": false,
+      "ImagePath": "1738435402762-148865591-br-11134207-7r98o-lw5pizxu4oeqef.jpg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3345,6 +3433,28 @@
       }
     },
     {
+      "IdProduct": 261,
+      "ProductName": "Bermuda Preta ADMA Ref 1209",
+      "PriceSale": "79.90",
+      "Promotion": false,
+      "ImagePath": "1744939870586-660519595-Bermuda_1209.jpeg",
+      "IdCategory": 19,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": true,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 259,
       "ProductName": "Calça ADMA Ref 2412",
       "PriceSale": "109.90",
@@ -3485,7 +3595,7 @@
       "IdCategory": 18,
       "P": false,
       "M": true,
-      "G": false,
+      "G": true,
       "GG": true,
       "XG": false,
       "Launch": false,
@@ -3507,7 +3617,7 @@
       "IdCategory": 18,
       "P": false,
       "M": true,
-      "G": false,
+      "G": true,
       "GG": false,
       "XG": false,
       "Launch": false,
@@ -4341,9 +4451,9 @@
       "Promotion": false,
       "ImagePath": "1743277401921-891214936-4.jpeg",
       "IdCategory": 19,
-      "P": false,
+      "P": true,
       "M": true,
-      "G": false,
+      "G": true,
       "GG": true,
       "XG": false,
       "Launch": false,
