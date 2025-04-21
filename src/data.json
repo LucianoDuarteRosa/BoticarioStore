@@ -3837,7 +3837,7 @@
       "IdCategory": 18,
       "P": false,
       "M": false,
-      "G": true,
+      "G": false,
       "GG": true,
       "XG": false,
       "Launch": true,
@@ -3909,28 +3909,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 257,
-      "ProductName": "Calça ADMA Ref 2176",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1744733902565-229604263-12.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -4401,28 +4379,6 @@
       }
     },
     {
-      "IdProduct": 232,
-      "ProductName": "Blusa ADMA Ref 1102",
-      "PriceSale": "54.90",
-      "Promotion": false,
-      "ImagePath": "1743278370117-332319292-13.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 231,
       "ProductName": "Top Dupla Face ADMA Ref 2501",
       "PriceSale": "59.90",
@@ -4562,7 +4518,7 @@
       "ImagePath": "1743277224996-562155992-6.jpeg",
       "IdCategory": 17,
       "P": true,
-      "M": true,
+      "M": false,
       "G": false,
       "GG": true,
       "XG": false,
@@ -4679,28 +4635,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 201,
-      "ProductName": "Calça ADMA Ref 2414",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1743278453036-123317692-14.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -4827,7 +4761,7 @@
       "IdCategory": 18,
       "P": false,
       "M": true,
-      "G": true,
+      "G": false,
       "GG": false,
       "XG": false,
       "Launch": false,
