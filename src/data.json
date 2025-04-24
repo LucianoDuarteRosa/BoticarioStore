@@ -441,28 +441,6 @@
       }
     },
     {
-      "IdProduct": 214,
-      "ProductName": "Hidra Uva Merlor 400ml",
-      "PriceSale": "86.90",
-      "Promotion": false,
-      "ImagePath": "1743275845896-892996770-1.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 213,
       "ProductName": "Kit Linda",
       "PriceSale": "218.90",
@@ -3807,28 +3785,6 @@
       }
     },
     {
-      "IdProduct": 266,
-      "ProductName": "Calça ADMA Ref 1315",
-      "PriceSale": "119.90",
-      "Promotion": false,
-      "ImagePath": "1744941958955-281448842-WhatsApp_Image_2025-04-17_at_22.10.25.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": true,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 265,
       "ProductName": "Calça ADMA Ref 1307",
       "PriceSale": "109.90",
@@ -3991,7 +3947,7 @@
       "IdCategory": 18,
       "P": false,
       "M": true,
-      "G": true,
+      "G": false,
       "GG": true,
       "XG": false,
       "Launch": false,
@@ -4893,7 +4849,7 @@
       "IdCategory": 17,
       "P": true,
       "M": false,
-      "G": true,
+      "G": false,
       "GG": false,
       "XG": false,
       "Launch": false,
