@@ -837,28 +837,6 @@
       }
     },
     {
-      "IdProduct": 172,
-      "ProductName": "Floratta Red Passion",
-      "PriceSale": "199.90",
-      "Promotion": false,
-      "ImagePath": "1740845316349-848602616-WhatsApp_Image_2025-03-01_at_12.41.50.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 171,
       "ProductName": "Hidratante Accordes",
       "PriceSale": "62.90",
