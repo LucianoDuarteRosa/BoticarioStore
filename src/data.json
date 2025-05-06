@@ -3939,28 +3939,6 @@
       }
     },
     {
-      "IdProduct": 258,
-      "ProductName": "Top ADMA Ref",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1744733930833-168792828-03.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 256,
       "ProductName": "Top ADMA Ref 2348",
       "PriceSale": "59.90",
@@ -4298,28 +4276,6 @@
       "ImagePath": "1744733495460-960292238-07.jpeg",
       "IdCategory": 18,
       "P": true,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 237,
-      "ProductName": "Calça ADMA Ref 2491",
-      "PriceSale": "134.90",
-      "Promotion": false,
-      "ImagePath": "1743696041545-105939564-CalÃ§a_2491.jpeg",
-      "IdCategory": 18,
-      "P": false,
       "M": true,
       "G": false,
       "GG": false,
@@ -4819,28 +4775,6 @@
       }
     },
     {
-      "IdProduct": 190,
-      "ProductName": "Calça ADMA Ref 1304",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1742675757318-35722575-008.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 189,
       "ProductName": "Camisa Preta ADMA Ref 1103",
       "PriceSale": "59.90",
@@ -4914,28 +4848,6 @@
       "ImagePath": "1743277623761-113059065-5.jpeg",
       "IdCategory": 18,
       "P": true,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 185,
-      "ProductName": "Calça ADMA Ref 2534",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1742662966560-145995264-002.jpeg",
-      "IdCategory": 18,
-      "P": false,
       "M": true,
       "G": false,
       "GG": false,
