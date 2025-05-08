@@ -353,28 +353,6 @@
       }
     },
     {
-      "IdProduct": 220,
-      "ProductName": "Kit Coffee Seduction",
-      "PriceSale": "259.90",
-      "Promotion": true,
-      "ImagePath": "1743276488098-87309258-WhatsApp_Image_2025-03-26_at_20.21.13.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 219,
       "ProductName": "Kit Egeo Dolce",
       "PriceSale": "179.90",
@@ -490,28 +468,6 @@
       "PriceSale": "87.90",
       "Promotion": true,
       "ImagePath": "1742850039107-931732043-024.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 210,
-      "ProductName": "Kit Liz",
-      "PriceSale": "192.90",
-      "Promotion": true,
-      "ImagePath": "1742849993849-462048128-023.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3548,28 +3504,6 @@
       "PriceSale": "224.90",
       "Promotion": false,
       "ImagePath": "1738429459686-522539880-WhatsApp_Image_2025-02-01_at_13.55.46.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 10,
-      "ProductName": "Botica 214",
-      "PriceSale": "224.90",
-      "Promotion": false,
-      "ImagePath": "1738429433622-776809847-WhatsApp_Image_2025-02-01_at_13.55.47.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
