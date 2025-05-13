@@ -375,28 +375,6 @@
       }
     },
     {
-      "IdProduct": 218,
-      "ProductName": "Body Spray Lily Blanche",
-      "PriceSale": "49.90",
-      "Promotion": false,
-      "ImagePath": "1743276307732-800943075-WhatsApp_Image_2025-03-26_at_20.15.09_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 217,
       "ProductName": "Lily Blanche",
       "PriceSale": "209.90",
@@ -424,28 +402,6 @@
       "PriceSale": "218.90",
       "Promotion": true,
       "ImagePath": "1742850138095-11470178-025.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 212,
-      "ProductName": "Kit Pessegura",
-      "PriceSale": "59.90",
-      "Promotion": true,
-      "ImagePath": "1742850100108-244947153-026.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -666,28 +622,6 @@
       "PriceSale": "49.90",
       "Promotion": false,
       "ImagePath": "1740846406965-879303859-WhatsApp_Image_2025-03-01_at_12.41.54_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 177,
-      "ProductName": "Egeo Spicy Vibe",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1740846340179-633896528-WhatsApp_Image_2025-03-01_at_12.42.00_(1).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -952,28 +886,6 @@
       "PriceSale": "339.90",
       "Promotion": false,
       "ImagePath": "1740320264636-580515027-WhatsApp_Image_2025-02-23_at_10.54.14.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 163,
-      "ProductName": "Uomini",
-      "PriceSale": "189.90",
-      "Promotion": false,
-      "ImagePath": "1740320225170-81412579-WhatsApp_Image_2025-02-23_at_10.54.55.jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -1365,50 +1277,6 @@
       }
     },
     {
-      "IdProduct": 138,
-      "ProductName": "Lapis 3 em 1 cor Marrom",
-      "PriceSale": "24.90",
-      "Promotion": true,
-      "ImagePath": "1740845074426-255903107-WhatsApp_Image_2025-03-01_at_12.41.47.jpeg",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 137,
-      "ProductName": "Lapis Cor Preto",
-      "PriceSale": "17.90",
-      "Promotion": false,
-      "ImagePath": "1738527741934-769437594-br-11134207-7qukw-ljohlgx7mrs69a.jpg",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 136,
       "ProductName": "Batom Rosa Pinkli",
       "PriceSale": "57.90",
@@ -1695,28 +1563,6 @@
       }
     },
     {
-      "IdProduct": 120,
-      "ProductName": "Glamour Refil ",
-      "PriceSale": "139.90",
-      "Promotion": false,
-      "ImagePath": "1738523363134-979308711-WhatsApp_Image_2025-02-02_at_10.34.42_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 119,
       "ProductName": "Glamour Secrets Black Refil ",
       "PriceSale": "139.90",
@@ -1981,28 +1827,6 @@
       }
     },
     {
-      "IdProduct": 106,
-      "ProductName": "Beijinho barra 2 un",
-      "PriceSale": "21.90",
-      "Promotion": false,
-      "ImagePath": "1738522043931-619964681-WhatsApp_Image_2025-02-02_at_10.34.40_(5).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 105,
       "ProductName": "Pessegura barra 4 un",
       "PriceSale": "34.90",
@@ -2250,28 +2074,6 @@
       "PriceSale": "34.90",
       "Promotion": true,
       "ImagePath": "1738507324792-124529358-WhatsApp_Image_2025-02-02_at_10.34.42.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 88,
-      "ProductName": "Floratta Gold",
-      "PriceSale": "62.90",
-      "Promotion": false,
-      "ImagePath": "1738507109674-573177697-WhatsApp_Image_2025-02-02_at_10.34.39_(1).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -2751,28 +2553,6 @@
       }
     },
     {
-      "IdProduct": 57,
-      "ProductName": "Deleite 200ml",
-      "PriceSale": "49.90",
-      "Promotion": false,
-      "ImagePath": "1738437732170-872289475-5c9802e2-638d-42ff-8808-3eacca2e67c1-49882.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 55,
       "ProductName": "Bubbaloo Tutti Frutti",
       "PriceSale": "57.90",
@@ -2949,28 +2729,6 @@
       }
     },
     {
-      "IdProduct": 46,
-      "ProductName": "Body Splash Deleite",
-      "PriceSale": "84.90",
-      "Promotion": false,
-      "ImagePath": "1738435402762-148865591-br-11134207-7r98o-lw5pizxu4oeqef.jpg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 45,
       "ProductName": "Deleite Chocolatudo 400ml",
       "PriceSale": "69.90",
@@ -3130,28 +2888,6 @@
       "PriceSale": "86.90",
       "Promotion": false,
       "ImagePath": "1738433968625-598547472-WhatsApp_Image_2025-02-01_at_13.59.11.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 35,
-      "ProductName": "Hidratante Egeo",
-      "PriceSale": "74.90",
-      "Promotion": false,
-      "ImagePath": "1738433903489-957805599-964433319471522.jpg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3565,11 +3301,55 @@
       }
     },
     {
+      "IdProduct": 5,
+      "ProductName": "Floratta Rose",
+      "PriceSale": "149.90",
+      "Promotion": false,
+      "ImagePath": "1738428090887-379314696-757cd203400ff66dab0a02b1a6ef66fd.jpg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 3,
       "ProductName": "Floratta My Blue",
       "PriceSale": "149.90",
       "Promotion": false,
       "ImagePath": "1738427762019-584321852-WhatsApp_Image_2025-02-01_at_08.57.17.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 2,
+      "ProductName": "Floratta Blue",
+      "PriceSale": "149.90",
+      "Promotion": false,
+      "ImagePath": "1738423820426-459040920-WhatsApp_Image_2025-02-01_at_08.57.16_(3).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3946,7 +3726,7 @@
       "ImagePath": "1744733741103-77958979-05.jpeg",
       "IdCategory": 18,
       "P": false,
-      "M": true,
+      "M": false,
       "G": false,
       "GG": true,
       "XG": false,
@@ -4181,28 +3961,6 @@
       }
     },
     {
-      "IdProduct": 239,
-      "ProductName": "Calça ADMA Ref 2414",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1743696234024-505379278-WhatsApp_Image_2025-03-30_at_17.30.23.jpeg",
-      "IdCategory": 18,
-      "P": true,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 238,
       "ProductName": "Bermuda ADMA Ref 2490",
       "PriceSale": "84.90",
@@ -4335,28 +4093,6 @@
       }
     },
     {
-      "IdProduct": 230,
-      "ProductName": "Calça ADMA Ref 2448",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1743278227440-613342601-10.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 229,
       "ProductName": "Bermuda ADMA Ref 2375",
       "PriceSale": "69.90",
@@ -4401,28 +4137,6 @@
       }
     },
     {
-      "IdProduct": 227,
-      "ProductName": "Bermuda ADMA Ref 2177",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1743278017654-621720564-9.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 226,
       "ProductName": "Calça ADMA Ref 2546",
       "PriceSale": "109.90",
@@ -4451,7 +4165,7 @@
       "Promotion": false,
       "ImagePath": "1743277224996-562155992-6.jpeg",
       "IdCategory": 17,
-      "P": true,
+      "P": false,
       "M": false,
       "G": false,
       "GG": true,
