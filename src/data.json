@@ -3268,7 +3268,7 @@
       "G": true,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Moda Masculina",
         "IdSuperCategory": 2,
@@ -3290,7 +3290,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Moda Masculina",
         "IdSuperCategory": 2,
@@ -3312,7 +3312,7 @@
       "G": true,
       "GG": true,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
@@ -3334,7 +3334,7 @@
       "G": false,
       "GG": false,
       "XG": true,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Moda Masculina",
         "IdSuperCategory": 2,
