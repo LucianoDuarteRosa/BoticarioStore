@@ -3,8 +3,8 @@
     {
       "IdProduct": 283,
       "ProductName": "Creme Aveludado Her Code",
-      "PriceSale": "92.90",
-      "Promotion": true,
+      "PriceSale": "109.90",
+      "Promotion": false,
       "ImagePath": "1744943378546-721375640-WhatsApp_Image_2025-04-17_at_22.51.02.jpeg",
       "IdCategory": 1,
       "P": false,
@@ -12,7 +12,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
         "IdSuperCategory": 1,
@@ -25,8 +25,8 @@
     {
       "IdProduct": 282,
       "ProductName": "Óleo de massagem Her Code",
-      "PriceSale": "71.90",
-      "Promotion": true,
+      "PriceSale": "89.90",
+      "Promotion": false,
       "ImagePath": "1744943326580-458877323-WhatsApp_Image_2025-04-17_at_22.51.02_(1).jpeg",
       "IdCategory": 1,
       "P": false,
@@ -34,7 +34,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
         "IdSuperCategory": 1,
@@ -224,7 +224,7 @@
       "IdProduct": 273,
       "ProductName": "Splash Nuvem de Alegria",
       "PriceSale": "84.90",
-      "Promotion": true,
+      "Promotion": false,
       "ImagePath": "1744942473281-92310826-WhatsApp_Image_2025-04-17_at_22.35.33.jpeg",
       "IdCategory": 1,
       "P": false,
@@ -232,29 +232,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 272,
-      "ProductName": "Hidra Iluminador N de Alegria ",
-      "PriceSale": "49.90",
-      "Promotion": true,
-      "ImagePath": "1744942410293-485709402-WhatsApp_Image_2025-04-17_at_22.35.32.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
         "IdSuperCategory": 1,
@@ -507,28 +485,6 @@
       }
     },
     {
-      "IdProduct": 205,
-      "ProductName": "Thaty",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1742688347753-633418984-030.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 204,
       "ProductName": "Glamour Myriad",
       "PriceSale": "174.90",
@@ -641,8 +597,8 @@
     {
       "IdProduct": 176,
       "ProductName": "Clash Hidratante",
-      "PriceSale": "43.90",
-      "Promotion": true,
+      "PriceSale": "54.90",
+      "Promotion": false,
       "ImagePath": "1740846245860-131670562-WhatsApp_Image_2025-03-01_at_12.41.54.jpeg",
       "IdCategory": 2,
       "P": false,
@@ -666,28 +622,6 @@
       "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1740846215191-969132713-WhatsApp_Image_2025-03-01_at_12.41.53_(1).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 174,
-      "ProductName": "Clash Desod Spray",
-      "PriceSale": "44.90",
-      "Promotion": false,
-      "ImagePath": "1740846187591-388751185-WhatsApp_Image_2025-03-01_at_12.41.53.jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -939,28 +873,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 160,
-      "ProductName": "Coffee Woman Duo",
-      "PriceSale": "199.90",
-      "Promotion": false,
-      "ImagePath": "1740320021050-379474974-WhatsApp_Image_2025-02-23_at_10.54.08_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -3037,28 +2949,6 @@
       }
     },
     {
-      "IdProduct": 24,
-      "ProductName": "Arbo",
-      "PriceSale": "169.90",
-      "Promotion": false,
-      "ImagePath": "1738432125858-433937214-br-11134207-23030-s2vrq72bmnov36.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 23,
       "ProductName": "Malbec Icon",
       "PriceSale": "199.90",
@@ -3367,28 +3257,6 @@
       }
     },
     {
-      "IdProduct": 291,
-      "ProductName": "Blusa ADMA Ref 2041 aberta nas costas",
-      "PriceSale": "54.90",
-      "Promotion": false,
-      "ImagePath": "1745724541799-980288134-WhatsApp_Image_2025-04-26_at_20.27.30_(2).jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": true,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 271,
       "ProductName": "Bermuda ADMA Ref 1210",
       "PriceSale": "69.90",
@@ -3484,11 +3352,11 @@
       "ImagePath": "1744942011224-238829911-WhatsApp_Image_2025-04-17_at_22.15.58.jpeg",
       "IdCategory": 17,
       "P": false,
-      "M": false,
+      "M": true,
       "G": false,
       "GG": true,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
@@ -3513,50 +3381,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Moda Masculina",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 259,
-      "ProductName": "Calça ADMA Ref 2412",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1744733999268-728150924-17.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": true,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 255,
-      "ProductName": "Top ADMA Ref 2423",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1744733825231-818809360-04.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -3619,72 +3443,6 @@
       "M": true,
       "G": true,
       "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 251,
-      "ProductName": "Calça ADMA Ref 2534",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1744733434273-687664470-11.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": true,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 250,
-      "ProductName": "Short Saia ADMA",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1744733390913-390108382-15.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": true,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 249,
-      "ProductName": "Short duplo ADMA Ref 1202",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1744733351860-494661617-14.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": true,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -3814,32 +3572,10 @@
       "ImagePath": "1743277046897-446964056-5.jpeg",
       "IdCategory": 17,
       "P": true,
-      "M": false,
-      "G": false,
-      "GG": false,
+      "M": true,
+      "G": true,
+      "GG": true,
       "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 222,
-      "ProductName": "Blusa ADMA Ref 1102",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1743276817974-561619999-3.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": true,
       "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
@@ -3860,6 +3596,28 @@
       "P": false,
       "M": true,
       "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 195,
+      "ProductName": "Casaco Grosso ADMA Ref 1110",
+      "PriceSale": "115.90",
+      "Promotion": false,
+      "ImagePath": "1742687453567-576686695-012.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": true,
       "GG": false,
       "XG": false,
       "Launch": false,
