@@ -1,6 +1,28 @@
 {
   "products": [
     {
+      "IdProduct": 293,
+      "ProductName": "Egeo Cogu",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1748799434983-256692759-WhatsApp_Image_2025-06-01_at_13.48.40_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 292,
       "ProductName": "Egeo Red",
       "PriceSale": "154.90",
@@ -842,6 +864,28 @@
       "PriceSale": "339.90",
       "Promotion": false,
       "ImagePath": "1740320264636-580515027-WhatsApp_Image_2025-02-23_at_10.54.14.jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 163,
+      "ProductName": "Uomini",
+      "PriceSale": "189.90",
+      "Promotion": false,
+      "ImagePath": "1740320225170-81412579-WhatsApp_Image_2025-02-23_at_10.54.55.jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -2954,6 +2998,28 @@
       "PriceSale": "179.90",
       "Promotion": false,
       "ImagePath": "1738432218645-366338706-2---PORTINARI_1000x.webp",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 25,
+      "ProductName": "Arbo Atlântica",
+      "PriceSale": "169.90",
+      "Promotion": false,
+      "ImagePath": "1748799026088-147698128-WhatsApp_Image_2025-06-01_at_13.48.40.jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
