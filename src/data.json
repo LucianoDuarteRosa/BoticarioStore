@@ -1,6 +1,50 @@
 {
   "products": [
     {
+      "IdProduct": 295,
+      "ProductName": "Sabonete Líquido Infans",
+      "PriceSale": "42.99",
+      "Promotion": false,
+      "ImagePath": "1750625941623-363289164-WhatsApp_Image_2025-06-22_at_17.46.04_(1).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 294,
+      "ProductName": "Diva",
+      "PriceSale": "129.90",
+      "Promotion": false,
+      "ImagePath": "1750625886889-852332338-WhatsApp_Image_2025-06-22_at_17.46.03_(4).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 293,
       "ProductName": "Egeo Cogu",
       "PriceSale": "154.90",
@@ -697,6 +741,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 172,
+      "ProductName": "Floratta Red Passion",
+      "PriceSale": "199.90",
+      "Promotion": false,
+      "ImagePath": "1740845316349-848602616-WhatsApp_Image_2025-03-01_at_12.41.50.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
