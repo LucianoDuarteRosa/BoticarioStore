@@ -419,11 +419,55 @@
       }
     },
     {
+      "IdProduct": 212,
+      "ProductName": "Kit Celebre",
+      "PriceSale": "119.90",
+      "Promotion": true,
+      "ImagePath": "1750624019210-849211764-celebre.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 211,
       "ProductName": "Kit Deleite",
       "PriceSale": "87.90",
       "Promotion": true,
       "ImagePath": "1742850039107-931732043-024.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 210,
+      "ProductName": "Kit Floratta Red",
+      "PriceSale": "189.90",
+      "Promotion": true,
+      "ImagePath": "1750624573577-890872001-WhatsApp_Image_2025-06-22_at_17.35.01.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -859,6 +903,28 @@
       }
     },
     {
+      "IdProduct": 158,
+      "ProductName": "kit Glamour",
+      "PriceSale": "222.90",
+      "Promotion": true,
+      "ImagePath": "1750624454821-876155310-WhatsApp_Image_2025-06-22_at_17.29.59.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 153,
       "ProductName": "Sabonete 7 Belo",
       "PriceSale": "37.90",
@@ -1049,6 +1115,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "O.U.I Importados",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 141,
+      "ProductName": "Kit Egeo",
+      "PriceSale": "159.90",
+      "Promotion": true,
+      "ImagePath": "1750624332200-977041994-WhatsApp_Image_2025-06-22_at_17.29.59_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -1937,6 +2025,28 @@
       }
     },
     {
+      "IdProduct": 69,
+      "ProductName": "Kit Pré e Pós Química",
+      "PriceSale": "77.80",
+      "Promotion": true,
+      "ImagePath": "1738505013830-600385014-WhatsApp_Image_2025-02-02_at_10.34.38.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 68,
       "ProductName": "Condicionador Manga",
       "PriceSale": "27.90",
@@ -2399,6 +2509,28 @@
       }
     },
     {
+      "IdProduct": 32,
+      "ProductName": "Kit Egeo Original",
+      "PriceSale": "159.90",
+      "Promotion": true,
+      "ImagePath": "1750624289196-420879702-WhatsApp_Image_2025-06-22_at_17.29.59_(2).jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 31,
       "ProductName": "Quasar Deep Blue",
       "PriceSale": "164.90",
@@ -2545,6 +2677,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 19,
+      "ProductName": "Kit Deleite Chocolatudo",
+      "PriceSale": "109.90",
+      "Promotion": true,
+      "ImagePath": "1750623626097-392237027-deleite.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
