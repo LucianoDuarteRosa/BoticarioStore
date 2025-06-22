@@ -1,8 +1,206 @@
 {
   "products": [
     {
+      "IdProduct": 304,
+      "ProductName": "Kit Eudora Siàge ",
+      "PriceSale": "142.90",
+      "Promotion": false,
+      "ImagePath": "1750628512131-315596530-WhatsApp_Image_2025-06-22_at_18.40.31.jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 303,
+      "ProductName": "Kit Sampoo e Cond ",
+      "PriceSale": "87.90",
+      "Promotion": false,
+      "ImagePath": "1750628295659-882655724-WhatsApp_Image_2025-06-22_at_17.52.40.jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 302,
+      "ProductName": "Sabonete Lily 2un",
+      "PriceSale": "49.90",
+      "Promotion": false,
+      "ImagePath": "1750628128339-145215825-WhatsApp_Image_2025-06-22_at_17.46.04.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 301,
+      "ProductName": "Crazy Feelings",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1750628027252-98906592-WhatsApp_Image_2025-06-22_at_17.46.03_(5).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 300,
+      "ProductName": "The Blend Cardamom",
+      "PriceSale": "339.90",
+      "Promotion": false,
+      "ImagePath": "1750627977249-617325802-WhatsApp_Image_2025-06-22_at_17.46.03_(3).jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 299,
+      "ProductName": "Hidra Lily Love",
+      "PriceSale": "139.90",
+      "Promotion": false,
+      "ImagePath": "1750627932246-154180441-WhatsApp_Image_2025-06-22_at_17.46.03_(2).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 298,
+      "ProductName": "Floratta Love Flower",
+      "PriceSale": "149.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 297,
+      "ProductName": "Floratta Cerejeira",
+      "PriceSale": "149.90",
+      "Promotion": false,
+      "ImagePath": "1750627873645-565572357-WhatsApp_Image_2025-06-22_at_17.46.03.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 296,
+      "ProductName": "Floratta Red Blossom",
+      "PriceSale": "149.90",
+      "Promotion": false,
+      "ImagePath": "1750627702107-671550176-WhatsApp_Image_2025-06-22_at_17.46.02.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 295,
-      "ProductName": "Sabonete Líquido Infans",
+      "ProductName": "Sabonete Líquido Baby",
       "PriceSale": "42.99",
       "Promotion": false,
       "ImagePath": "1750625941623-363289164-WhatsApp_Image_2025-06-22_at_17.46.04_(1).jpeg",
@@ -991,6 +1189,28 @@
       }
     },
     {
+      "IdProduct": 154,
+      "ProductName": "Hidra Her Code",
+      "PriceSale": "62.90",
+      "Promotion": false,
+      "ImagePath": "1739043324555-49929926-WhatsApp_Image_2025-02-08_at_16.33.28.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 153,
       "ProductName": "Sabonete 7 Belo",
       "PriceSale": "37.90",
@@ -1652,7 +1872,7 @@
     },
     {
       "IdProduct": 105,
-      "ProductName": "Pessegura barra 4 un",
+      "ProductName": "Sabonete Pessegura 4un",
       "PriceSale": "34.90",
       "Promotion": false,
       "ImagePath": "1738522004830-79762322-WhatsApp_Image_2025-02-02_at_10.34.40_(4).jpeg",
@@ -1674,7 +1894,7 @@
     },
     {
       "IdProduct": 104,
-      "ProductName": "Nuvem barra 4 un",
+      "ProductName": "Sabonete Nuvem 4 un",
       "PriceSale": "34.90",
       "Promotion": false,
       "ImagePath": "1738521943994-143006238-WhatsApp_Image_2025-02-02_at_10.34.40_(3).jpeg",
@@ -1696,7 +1916,7 @@
     },
     {
       "IdProduct": 103,
-      "ProductName": "Deleite barra 4 un",
+      "ProductName": "Sabonete Deleite 4 un",
       "PriceSale": "34.90",
       "Promotion": false,
       "ImagePath": "1738521904395-915511088-WhatsApp_Image_2025-02-02_at_10.34.40_(2).jpeg",
@@ -2993,6 +3213,94 @@
       }
     },
     {
+      "IdProduct": 307,
+      "ProductName": "Calça ADMA Ref 2404",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1750629007928-742222724-WhatsApp_Image_2025-06-22_at_18.48.46.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 306,
+      "ProductName": "Calça ADMA Ref 1308",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1750628970115-614051417-WhatsApp_Image_2025-06-22_at_18.47.24.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 305,
+      "ProductName": "Top ADMA Ref 2503",
+      "PriceSale": "65.90",
+      "Promotion": false,
+      "ImagePath": "1750628681349-352412691-WhatsApp_Image_2025-06-22_at_18.24.53.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 284,
+      "ProductName": "Blusa ADMA Ref 1105",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1750628805014-347646632-WhatsApp_Image_2025-06-22_at_18.46.14.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 271,
       "ProductName": "Bermuda ADMA Ref 1210",
       "PriceSale": "69.90",
@@ -3169,28 +3477,6 @@
       }
     },
     {
-      "IdProduct": 247,
-      "ProductName": "Calça ADMA Ref 1301",
-      "PriceSale": "119.90",
-      "Promotion": false,
-      "ImagePath": "1748107541482-223785531-WhatsApp_Image_2025-04-04_at_22.45.45.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": true,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 240,
       "ProductName": "Cueca ADMA Ref 303 consultar cores",
       "PriceSale": "24.90",
@@ -3309,7 +3595,7 @@
       "IdCategory": 17,
       "P": true,
       "M": true,
-      "G": true,
+      "G": false,
       "GG": false,
       "XG": false,
       "Launch": false,
@@ -3337,28 +3623,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 203,
-      "ProductName": "Calça ADMA Ref 2535",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1748107458831-680740082-top_2501.jpeg",
-      "IdCategory": 18,
-      "P": true,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -3442,33 +3706,11 @@
       "P": false,
       "M": true,
       "G": false,
-      "GG": false,
+      "GG": true,
       "XG": false,
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 195,
-      "ProductName": "Casaco Grosso ADMA Ref 1110",
-      "PriceSale": "115.90",
-      "Promotion": false,
-      "ImagePath": "1742687453567-576686695-012.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
