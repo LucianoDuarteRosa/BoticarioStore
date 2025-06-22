@@ -419,28 +419,6 @@
       }
     },
     {
-      "IdProduct": 213,
-      "ProductName": "Kit Linda",
-      "PriceSale": "218.90",
-      "Promotion": true,
-      "ImagePath": "1742850138095-11470178-025.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 211,
       "ProductName": "Kit Deleite",
       "PriceSale": "87.90",
@@ -499,28 +477,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 206,
-      "ProductName": "Egeo Original",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1742688399811-586472630-029.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -727,28 +683,6 @@
       }
     },
     {
-      "IdProduct": 170,
-      "ProductName": "Coffee Seduction",
-      "PriceSale": "199.90",
-      "Promotion": false,
-      "ImagePath": "1740845162511-95088019-WhatsApp_Image_2025-03-01_at_12.41.49.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 169,
       "ProductName": "Iluminador Make B Gold",
       "PriceSale": "89.90",
@@ -859,28 +793,6 @@
       }
     },
     {
-      "IdProduct": 164,
-      "ProductName": "The Blend",
-      "PriceSale": "339.90",
-      "Promotion": false,
-      "ImagePath": "1740320264636-580515027-WhatsApp_Image_2025-02-23_at_10.54.14.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 163,
       "ProductName": "Uomini",
       "PriceSale": "189.90",
@@ -939,50 +851,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 157,
-      "ProductName": "Egeo Bomb Black",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1740319869547-795535479-WhatsApp_Image_2025-02-23_at_10.54.07.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 155,
-      "ProductName": "Her code",
-      "PriceSale": "239.90",
-      "Promotion": false,
-      "ImagePath": "1739043355203-666048277-WhatsApp_Image_2025-02-08_at_16.33.28_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -1172,28 +1040,6 @@
       "PriceSale": "39.90",
       "Promotion": false,
       "ImagePath": "1738530312500-244609842-D_NQ_NP_830682-MLB69496525590_052023-O.webp",
-      "IdCategory": 4,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "O.U.I Importados",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 141,
-      "ProductName": "Kit OUI 020",
-      "PriceSale": "379.90",
-      "Promotion": false,
-      "ImagePath": "1738530248255-249919983-capa-43-.avif",
       "IdCategory": 4,
       "P": false,
       "M": false,
@@ -1563,116 +1409,6 @@
       }
     },
     {
-      "IdProduct": 118,
-      "ProductName": "Roll on Invisible",
-      "PriceSale": "19.90",
-      "Promotion": true,
-      "ImagePath": "1738523149262-815703343-WhatsApp_Image_2025-02-02_at_10.34.39_(9).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 116,
-      "ProductName": "Glamour Aerosol",
-      "PriceSale": "37.90",
-      "Promotion": false,
-      "ImagePath": "1738522975206-508551022-WhatsApp_Image_2025-02-02_at_10.34.39_(7).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 115,
-      "ProductName": "Glamour Spray",
-      "PriceSale": "47.90",
-      "Promotion": false,
-      "ImagePath": "1738522871583-422024589-WhatsApp_Image_2025-02-02_at_10.34.38_(2).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 114,
-      "ProductName": "Lily Aerosol",
-      "PriceSale": "37.90",
-      "Promotion": false,
-      "ImagePath": "1738522826860-760421485-WhatsApp_Image_2025-02-02_at_10.30.05.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 113,
-      "ProductName": "Quasar Refil Spray",
-      "PriceSale": "35.90",
-      "Promotion": false,
-      "ImagePath": "1738522598180-475440868-WhatsApp_Image_2025-02-02_at_10.34.39_(6).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 112,
       "ProductName": "Quasar Rush Refil Spray",
       "PriceSale": "35.90",
@@ -1722,28 +1458,6 @@
       "PriceSale": "37.90",
       "Promotion": false,
       "ImagePath": "1738522319655-72510127-WhatsApp_Image_2025-02-02_at_10.34.39_(4).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 109,
-      "ProductName": "Malbec Icon Aerosol",
-      "PriceSale": "37.90",
-      "Promotion": false,
-      "ImagePath": "1738522268571-747513504-WhatsApp_Image_2025-02-02_at_10.34.39_(3).jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -2025,28 +1739,6 @@
       }
     },
     {
-      "IdProduct": 90,
-      "ProductName": "Refil Lilac",
-      "PriceSale": "67.90",
-      "Promotion": false,
-      "ImagePath": "1738507378023-312995060-WhatsApp_Image_2025-02-02_at_10.34.43.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 89,
       "ProductName": "Lilac para mãos",
       "PriceSale": "34.90",
@@ -2083,50 +1775,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 86,
-      "ProductName": "Refil Lily",
-      "PriceSale": "99.90",
-      "Promotion": false,
-      "ImagePath": "1738506937356-887591949-WhatsApp_Image_2025-02-02_at_10.30.04_(5).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 85,
-      "ProductName": "Aromatizador",
-      "PriceSale": "29.90",
-      "Promotion": true,
-      "ImagePath": "1738506729830-146070926-WhatsApp_Image_2025-02-02_at_10.30.04_(4).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2223,99 +1871,11 @@
       }
     },
     {
-      "IdProduct": 78,
-      "ProductName": "Colônia da Força",
-      "PriceSale": "92.90",
-      "Promotion": false,
-      "ImagePath": "1738505807465-958890208-WhatsApp_Image_2025-02-02_at_10.30.02.jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 77,
       "ProductName": "Colônia Criatividade",
       "PriceSale": "92.90",
       "Promotion": false,
       "ImagePath": "1738505742175-243359803-WhatsApp_Image_2025-02-02_at_10.30.02_(1).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 75,
-      "ProductName": "Espuma de Banho",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1738505467806-105211161-WhatsApp_Image_2025-02-02_at_10.30.02_(3).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 74,
-      "ProductName": "Hidratante",
-      "PriceSale": "54.90",
-      "Promotion": false,
-      "ImagePath": "1738505407844-564606160-WhatsApp_Image_2025-02-02_at_10.30.02_(4).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 73,
-      "ProductName": "Sabonete Líquido",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1738505351457-643310194-WhatsApp_Image_2025-02-02_at_10.30.03.jpeg",
       "IdCategory": 3,
       "P": false,
       "M": false,
@@ -2685,28 +2245,6 @@
       }
     },
     {
-      "IdProduct": 47,
-      "ProductName": "Lily",
-      "PriceSale": "299.90",
-      "Promotion": false,
-      "ImagePath": "1738435510516-664998625-LILY-EDP-75ml_B77524_conceito_.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 45,
       "ProductName": "Deleite Chocolatudo 400ml",
       "PriceSale": "69.90",
@@ -2883,28 +2421,6 @@
       }
     },
     {
-      "IdProduct": 34,
-      "ProductName": "Kit Quasar",
-      "PriceSale": "159.90",
-      "Promotion": false,
-      "ImagePath": "1738433810271-440800251-br-11134207-7r98o-m26mrjzlzrldb2.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 31,
       "ProductName": "Quasar Deep Blue",
       "PriceSale": "164.90",
@@ -2949,77 +2465,11 @@
       }
     },
     {
-      "IdProduct": 29,
-      "ProductName": "Coffee Addictive",
-      "PriceSale": "139.90",
-      "Promotion": true,
-      "ImagePath": "1738432778877-413737624-Coffee-Man-Addictive-100ml-2.webp",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 28,
       "ProductName": "Egeo Blue",
       "PriceSale": "154.90",
       "Promotion": false,
       "ImagePath": "1738432734811-119793599-a2e789643a252a2c9eb54be1307d2e79.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 26,
-      "ProductName": "Portinari",
-      "PriceSale": "179.90",
-      "Promotion": false,
-      "ImagePath": "1738432218645-366338706-2---PORTINARI_1000x.webp",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 25,
-      "ProductName": "Arbo Atlântica",
-      "PriceSale": "169.90",
-      "Promotion": false,
-      "ImagePath": "1748799026088-147698128-WhatsApp_Image_2025-06-01_at_13.48.40.jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
