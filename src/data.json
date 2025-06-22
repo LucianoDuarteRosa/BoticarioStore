@@ -1497,28 +1497,6 @@
       }
     },
     {
-      "IdProduct": 107,
-      "ProductName": "Deleite barra 2 un",
-      "PriceSale": "21.90",
-      "Promotion": false,
-      "ImagePath": "1738522081932-843222661-WhatsApp_Image_2025-02-02_at_10.34.40_(6).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 105,
       "ProductName": "Pessegura barra 4 un",
       "PriceSale": "34.90",
