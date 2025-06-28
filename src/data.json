@@ -3213,6 +3213,116 @@
       }
     },
     {
+      "IdProduct": 312,
+      "ProductName": "Top ADMA Ref 2501 verde",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1751128655801-604086492-WhatsApp_Image_2025-06-28_at_13.36.12.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 311,
+      "ProductName": "Calça Flare ADMA Ref 1311",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1751128356833-57966323-WhatsApp_Image_2025-06-28_at_13.16.37.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 310,
+      "ProductName": "Calça Flare ADMA Ref 1312",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1751128295063-328093030-WhatsApp_Image_2025-06-28_at_13.16.37_(1).jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 309,
+      "ProductName": "Calça ADMA Ref 1303",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1751127968124-618634149-casaco_uv_1109.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 308,
+      "ProductName": "Calça ADMA Montaria 1305",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1751127837570-113513449-blusa_1102.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 307,
       "ProductName": "Calça ADMA Ref 2404",
       "PriceSale": "109.90",
@@ -3285,7 +3395,7 @@
       "Promotion": false,
       "ImagePath": "1750628805014-347646632-WhatsApp_Image_2025-06-22_at_18.46.14.jpeg",
       "IdCategory": 17,
-      "P": false,
+      "P": true,
       "M": true,
       "G": true,
       "GG": true,
@@ -3639,7 +3749,7 @@
       "IdCategory": 18,
       "P": false,
       "M": true,
-      "G": false,
+      "G": true,
       "GG": false,
       "XG": false,
       "Launch": false,
@@ -3858,7 +3968,7 @@
       "ImagePath": "1748107243597-560825048-WhatsApp_Image_2025-05-24_at_14.17.42.jpeg",
       "IdCategory": 17,
       "P": true,
-      "M": false,
+      "M": true,
       "G": false,
       "GG": false,
       "XG": false,
