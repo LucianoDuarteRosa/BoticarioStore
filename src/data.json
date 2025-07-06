@@ -3437,7 +3437,7 @@
       "ProductName": "Top ADMA Ref 1007",
       "PriceSale": "59.90",
       "Promotion": false,
-      "ImagePath": "1744942011224-238829911-WhatsApp_Image_2025-04-17_at_22.15.58.jpeg",
+      "ImagePath": "1751818256944-271358625-WhatsApp_Image_2025-07-06_at_13.07.34_(2).jpeg",
       "IdCategory": 17,
       "P": false,
       "M": true,
@@ -3543,6 +3543,28 @@
       }
     },
     {
+      "IdProduct": 239,
+      "ProductName": "Calça ADMA Ref 2414",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1751818517262-550605256-WhatsApp_Image_2025-07-06_at_13.07.33_(1).jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 232,
       "ProductName": "Blusa ADMA Ref 1102",
       "PriceSale": "54.90",
@@ -3552,6 +3574,28 @@
       "P": false,
       "M": true,
       "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 231,
+      "ProductName": "Top ADMA Ref 2348",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1751818373744-963796188-WhatsApp_Image_2025-07-06_at_13.07.33.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": true,
       "GG": false,
       "XG": false,
       "Launch": false,
@@ -3579,6 +3623,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 228,
+      "ProductName": "Top ADMA Ref  2419",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1751818654403-430043569-WhatsApp_Image_2025-07-06_at_13.07.33_(2).jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -3719,6 +3785,28 @@
       }
     },
     {
+      "IdProduct": 198,
+      "ProductName": "Calça ADMA Ref 2414",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1751818570908-55390909-WhatsApp_Image_2025-07-06_at_13.07.34_(1).jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 197,
       "ProductName": "Calça ADMA Ref 2504",
       "PriceSale": "109.90",
@@ -3843,6 +3931,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 182,
+      "ProductName": "Top ADMA Ref 2348",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1751818447684-216125142-WhatsApp_Image_2025-07-06_at_13.07.34.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
