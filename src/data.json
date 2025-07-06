@@ -3411,28 +3411,6 @@
       }
     },
     {
-      "IdProduct": 268,
-      "ProductName": "Cueca ADMA Ref 303",
-      "PriceSale": "27.90",
-      "Promotion": false,
-      "ImagePath": "1744942055631-495341545-WhatsApp_Image_2025-04-17_at_22.18.36.jpeg",
-      "IdCategory": 19,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": true,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Moda Masculina",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 267,
       "ProductName": "Top ADMA Ref 1007",
       "PriceSale": "59.90",
@@ -3530,7 +3508,7 @@
       "P": true,
       "M": true,
       "G": true,
-      "GG": true,
+      "GG": false,
       "XG": false,
       "Launch": false,
       "Category": {
