@@ -3257,50 +3257,6 @@
       }
     },
     {
-      "IdProduct": 310,
-      "ProductName": "Calça Flare ADMA Ref 1312",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1751128295063-328093030-WhatsApp_Image_2025-06-28_at_13.16.37_(1).jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 309,
-      "ProductName": "Calça ADMA Ref 1303",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1751127968124-618634149-casaco_uv_1109.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 308,
       "ProductName": "Calça ADMA Montaria 1305",
       "PriceSale": "109.90",
@@ -3323,12 +3279,12 @@
       }
     },
     {
-      "IdProduct": 307,
-      "ProductName": "Calça ADMA Ref 2404",
-      "PriceSale": "109.90",
+      "IdProduct": 305,
+      "ProductName": "Top ADMA Ref 2503",
+      "PriceSale": "65.90",
       "Promotion": false,
-      "ImagePath": "1750629007928-742222724-WhatsApp_Image_2025-06-22_at_18.48.46.jpeg",
-      "IdCategory": 18,
+      "ImagePath": "1750628681349-352412691-WhatsApp_Image_2025-06-22_at_18.24.53.jpeg",
+      "IdCategory": 17,
       "P": false,
       "M": false,
       "G": false,
@@ -3336,7 +3292,7 @@
       "XG": false,
       "Launch": false,
       "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
+        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -3353,7 +3309,7 @@
       "IdCategory": 17,
       "P": true,
       "M": true,
-      "G": true,
+      "G": false,
       "GG": false,
       "XG": false,
       "Launch": false,
@@ -3403,6 +3359,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 269,
+      "ProductName": "Bermuda ADMA Ref 1203",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1744942098517-605029565-WhatsApp_Image_2025-04-17_at_22.15.58.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
