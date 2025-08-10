@@ -135,9 +135,9 @@
     {
       "IdProduct": 298,
       "ProductName": "Floratta Love Flower",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
-      "ImagePath": null,
+      "ImagePath": "1754843649025-425659809-WhatsApp_Image_2025-06-22_at_17.46.03_(1).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -157,7 +157,7 @@
     {
       "IdProduct": 297,
       "ProductName": "Floratta Cerejeira",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1750627873645-565572357-WhatsApp_Image_2025-06-22_at_17.46.03.jpeg",
       "IdCategory": 1,
@@ -179,7 +179,7 @@
     {
       "IdProduct": 296,
       "ProductName": "Floratta Red Blossom",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1750627702107-671550176-WhatsApp_Image_2025-06-22_at_17.46.02.jpeg",
       "IdCategory": 1,
@@ -949,7 +949,7 @@
     {
       "IdProduct": 172,
       "ProductName": "Floratta Red Passion",
-      "PriceSale": "199.90",
+      "PriceSale": "209.90",
       "Promotion": false,
       "ImagePath": "1740845316349-848602616-WhatsApp_Image_2025-03-01_at_12.41.50.jpeg",
       "IdCategory": 1,
@@ -1741,7 +1741,7 @@
     {
       "IdProduct": 121,
       "ProductName": "Malbec Vert Spray",
-      "PriceSale": "47.90",
+      "PriceSale": "49.90",
       "Promotion": false,
       "ImagePath": "1738523676441-620636185-WhatsApp_Image_2025-02-02_at_10.35.37_(8).jpeg",
       "IdCategory": 2,
@@ -1851,7 +1851,7 @@
     {
       "IdProduct": 108,
       "ProductName": "Malbec Aerosol",
-      "PriceSale": "37.90",
+      "PriceSale": "39.90",
       "Promotion": false,
       "ImagePath": "1738522163684-664978133-WhatsApp_Image_2025-02-02_at_10.35.37_(7).jpeg",
       "IdCategory": 2,
@@ -2885,7 +2885,7 @@
     {
       "IdProduct": 23,
       "ProductName": "Malbec Icon",
-      "PriceSale": "199.90",
+      "PriceSale": "209.90",
       "Promotion": false,
       "ImagePath": "1738431588045-124291172-61uaZrhR4KL.jpg",
       "IdCategory": 2,
@@ -2951,7 +2951,7 @@
     {
       "IdProduct": 20,
       "ProductName": "Malbec",
-      "PriceSale": "199.90",
+      "PriceSale": "209.90",
       "Promotion": false,
       "ImagePath": "1738431291170-214416268-D_Q_NP_687834-MLU72751500008_112023-O.webp",
       "IdCategory": 2,
@@ -3105,7 +3105,7 @@
     {
       "IdProduct": 7,
       "ProductName": "Floratta Gold",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738428388759-337500216-8a99ed4f-fd41-47de-b682-271f23e4f8a0-bot-51448-floratta-gold-ambientada-4.jpg",
       "IdCategory": 1,
@@ -3127,7 +3127,7 @@
     {
       "IdProduct": 6,
       "ProductName": "Floratta Romance",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738428177838-207972040-WhatsApp_Image_2025-02-01_at_08.57.17_(3).jpeg",
       "IdCategory": 1,
@@ -3149,7 +3149,7 @@
     {
       "IdProduct": 5,
       "ProductName": "Floratta Rose",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738428090887-379314696-757cd203400ff66dab0a02b1a6ef66fd.jpg",
       "IdCategory": 1,
@@ -3171,7 +3171,7 @@
     {
       "IdProduct": 3,
       "ProductName": "Floratta My Blue",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738427762019-584321852-WhatsApp_Image_2025-02-01_at_08.57.17.jpeg",
       "IdCategory": 1,
@@ -3193,7 +3193,7 @@
     {
       "IdProduct": 2,
       "ProductName": "Floratta Blue",
-      "PriceSale": "149.90",
+      "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738423820426-459040920-WhatsApp_Image_2025-02-01_at_08.57.16_(3).jpeg",
       "IdCategory": 1,
