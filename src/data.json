@@ -89,55 +89,11 @@
       }
     },
     {
-      "IdProduct": 300,
-      "ProductName": "The Blend Cardamom",
-      "PriceSale": "339.90",
-      "Promotion": false,
-      "ImagePath": "1750627977249-617325802-WhatsApp_Image_2025-06-22_at_17.46.03_(3).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 299,
       "ProductName": "Hidra Lily Love",
       "PriceSale": "139.90",
       "Promotion": false,
       "ImagePath": "1750627932246-154180441-WhatsApp_Image_2025-06-22_at_17.46.03_(2).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 298,
-      "ProductName": "Floratta Love Flower",
-      "PriceSale": "159.90",
-      "Promotion": false,
-      "ImagePath": "1754843649025-425659809-WhatsApp_Image_2025-06-22_at_17.46.03_(1).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -265,28 +221,6 @@
       }
     },
     {
-      "IdProduct": 292,
-      "ProductName": "Egeo Red",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1748796745950-564732141-WhatsApp_Image_2025-06-01_at_13.48.39.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 283,
       "ProductName": "Creme Aveludado Her Code",
       "PriceSale": "109.90",
@@ -353,55 +287,11 @@
       }
     },
     {
-      "IdProduct": 280,
-      "ProductName": "Hidra Karité 180ml",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1744943099575-208377626-WhatsApp_Image_2025-04-17_at_22.47.46_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 279,
       "ProductName": "Body Splash Pessegura",
       "PriceSale": "89.90",
       "Promotion": false,
       "ImagePath": "1744942938582-325205756-WhatsApp_Image_2025-04-17_at_22.45.22.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 278,
-      "ProductName": "Hidra Pessegura 400ml",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1744942844512-372050097-WhatsApp_Image_2025-04-17_at_22.43.52.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -683,28 +573,6 @@
       }
     },
     {
-      "IdProduct": 211,
-      "ProductName": "Kit Deleite",
-      "PriceSale": "87.90",
-      "Promotion": true,
-      "ImagePath": "1742850039107-931732043-024.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 210,
       "ProductName": "Kit Floratta Red",
       "PriceSale": "189.90",
@@ -785,28 +653,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 181,
-      "ProductName": "Base Mineral Cor 30",
-      "PriceSale": "79.90",
-      "Promotion": true,
-      "ImagePath": "1740846941321-666480436-WhatsApp_Image_2025-02-02_at_10.34.40.jpeg",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -903,28 +749,6 @@
       }
     },
     {
-      "IdProduct": 175,
-      "ProductName": "Clash",
-      "PriceSale": "159.90",
-      "Promotion": false,
-      "ImagePath": "1740846215191-969132713-WhatsApp_Image_2025-03-01_at_12.41.53_(1).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 173,
       "ProductName": "Hidra Bob Esponja",
       "PriceSale": "57.90",
@@ -939,50 +763,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 172,
-      "ProductName": "Floratta Red Passion",
-      "PriceSale": "209.90",
-      "Promotion": false,
-      "ImagePath": "1740845316349-848602616-WhatsApp_Image_2025-03-01_at_12.41.50.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 171,
-      "ProductName": "Hidratante Accordes",
-      "PriceSale": "62.90",
-      "Promotion": false,
-      "ImagePath": "1740845222061-445007701-WhatsApp_Image_2025-03-01_at_12.41.49_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -1101,94 +881,6 @@
       }
     },
     {
-      "IdProduct": 163,
-      "ProductName": "Uomini",
-      "PriceSale": "189.90",
-      "Promotion": false,
-      "ImagePath": "1740320225170-81412579-WhatsApp_Image_2025-02-23_at_10.54.55.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 162,
-      "ProductName": "Zaad Expedition",
-      "PriceSale": "314.90",
-      "Promotion": false,
-      "ImagePath": "1740320118000-496554525-WhatsApp_Image_2025-02-23_at_10.54.09.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 161,
-      "ProductName": "Quasar Vision",
-      "PriceSale": "164.90",
-      "Promotion": false,
-      "ImagePath": "1740320067919-363987989-WhatsApp_Image_2025-02-23_at_10.54.08_(2).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 158,
-      "ProductName": "kit Glamour",
-      "PriceSale": "222.90",
-      "Promotion": true,
-      "ImagePath": "1750624454821-876155310-WhatsApp_Image_2025-06-22_at_17.29.59.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 154,
       "ProductName": "Hidra Her Code",
       "PriceSale": "62.90",
@@ -1216,28 +908,6 @@
       "PriceSale": "37.90",
       "Promotion": false,
       "ImagePath": "1739043067114-252480406-WhatsApp_Image_2025-02-08_at_16.17.57.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 152,
-      "ProductName": "Creme Depilatório",
-      "PriceSale": "45.90",
-      "Promotion": false,
-      "ImagePath": "1739043006031-874000649-WhatsApp_Image_2025-02-08_at_10.39.37_(3).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -1370,28 +1040,6 @@
       "PriceSale": "49.90",
       "Promotion": false,
       "ImagePath": "1738530362003-632585243-1000160489-rbzc8zjkq8.webp",
-      "IdCategory": 4,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "O.U.I Importados",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 142,
-      "ProductName": "Sabonete OUI ",
-      "PriceSale": "39.90",
-      "Promotion": false,
-      "ImagePath": "1738530312500-244609842-D_NQ_NP_830682-MLB69496525590_052023-O.webp",
       "IdCategory": 4,
       "P": false,
       "M": false,
@@ -1563,28 +1211,6 @@
       }
     },
     {
-      "IdProduct": 130,
-      "ProductName": "La villete 470",
-      "PriceSale": "159.90",
-      "Promotion": false,
-      "ImagePath": "1738526027506-308320820-WhatsApp_Image_2025-02-02_at_10.35.38_(3).jpeg",
-      "IdCategory": 4,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "O.U.I Importados",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 129,
       "ProductName": "Scapin 245 Intense",
       "PriceSale": "159.90",
@@ -1612,28 +1238,6 @@
       "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738525921738-534033442-WhatsApp_Image_2025-02-02_at_10.35.37_(14).jpeg",
-      "IdCategory": 4,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "O.U.I Importados",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 127,
-      "ProductName": "Elegance 115 Hidra",
-      "PriceSale": "119.90",
-      "Promotion": false,
-      "ImagePath": "1738525790633-214814598-WhatsApp_Image_2025-02-02_at_16.48.39.jpeg",
       "IdCategory": 4,
       "P": false,
       "M": false,
@@ -1744,50 +1348,6 @@
       "PriceSale": "49.90",
       "Promotion": false,
       "ImagePath": "1738523676441-620636185-WhatsApp_Image_2025-02-02_at_10.35.37_(8).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 119,
-      "ProductName": "Glamour Secrets Black Refil ",
-      "PriceSale": "139.90",
-      "Promotion": false,
-      "ImagePath": "1738523299197-805222613-WhatsApp_Image_2025-02-02_at_10.34.41_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 112,
-      "ProductName": "Quasar Rush Refil Spray",
-      "PriceSale": "35.90",
-      "Promotion": false,
-      "ImagePath": "1738522483178-483146128-WhatsApp_Image_2025-02-02_at_10.34.39_(5).jpeg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -1981,28 +1541,6 @@
       }
     },
     {
-      "IdProduct": 98,
-      "ProductName": "Refil Elysée",
-      "PriceSale": "74.90",
-      "Promotion": true,
-      "ImagePath": "1738508055297-688218849-WhatsApp_Image_2025-02-02_at_10.35.37_(6).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 97,
       "ProductName": "Refil Elysée Blanc",
       "PriceSale": "74.90",
@@ -2069,55 +1607,11 @@
       }
     },
     {
-      "IdProduct": 91,
-      "ProductName": "Refil Nuvem",
-      "PriceSale": "54.90",
-      "Promotion": false,
-      "ImagePath": "1738507462944-573605640-WhatsApp_Image_2025-02-02_at_10.34.44.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 89,
       "ProductName": "Lilac para mãos",
       "PriceSale": "34.90",
       "Promotion": true,
       "ImagePath": "1738507324792-124529358-WhatsApp_Image_2025-02-02_at_10.34.42.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 87,
-      "ProductName": "Hidratante Hidra",
-      "PriceSale": "62.90",
-      "Promotion": false,
-      "ImagePath": "1738507028173-457451189-WhatsApp_Image_2025-02-02_at_10.34.38_(1).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -2267,28 +1761,6 @@
       }
     },
     {
-      "IdProduct": 71,
-      "ProductName": "Creme de Pentear",
-      "PriceSale": "42.90",
-      "Promotion": false,
-      "ImagePath": "1738505204891-358530596-WhatsApp_Image_2025-02-02_at_10.34.39.jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 70,
       "ProductName": "Shampoo Infantil",
       "PriceSale": "59.90",
@@ -2338,28 +1810,6 @@
       "PriceSale": "27.90",
       "Promotion": false,
       "ImagePath": "1738504866790-320086581-WhatsApp_Image_2025-02-02_at_10.30.01_(8).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 67,
-      "ProductName": "Shampoo Framboesa",
-      "PriceSale": "24.90",
-      "Promotion": false,
-      "ImagePath": "1738504826848-309759955-WhatsApp_Image_2025-02-02_at_10.30.01_(7).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -2663,50 +2113,6 @@
       }
     },
     {
-      "IdProduct": 43,
-      "ProductName": "Beijinho 400ml",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1738434537756-490357520-WhatsApp_Image_2025-02-01_at_13.56.09_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 41,
-      "ProductName": "Ameixa Negra 200ml",
-      "PriceSale": "64.90",
-      "Promotion": false,
-      "ImagePath": "1738434275099-154170819-WhatsApp_Image_2025-02-01_at_13.56.10_(3).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 40,
       "ProductName": "Quinoa 400ml",
       "PriceSale": "86.90",
@@ -2721,138 +2127,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 39,
-      "ProductName": "Oléo Ameixa",
-      "PriceSale": "89.90",
-      "Promotion": false,
-      "ImagePath": "1738434173046-423661900-WhatsApp_Image_2025-02-01_at_13.56.10_(6).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 37,
-      "ProductName": "Ameixa 400ml",
-      "PriceSale": "83.90",
-      "Promotion": false,
-      "ImagePath": "1738434073846-433835150-WhatsApp_Image_2025-02-01_at_13.56.10_(8).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 36,
-      "ProductName": "Lilac 400ml",
-      "PriceSale": "86.90",
-      "Promotion": false,
-      "ImagePath": "1738433968625-598547472-WhatsApp_Image_2025-02-01_at_13.59.11.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 32,
-      "ProductName": "Kit Egeo Original",
-      "PriceSale": "159.90",
-      "Promotion": true,
-      "ImagePath": "1750624289196-420879702-WhatsApp_Image_2025-06-22_at_17.29.59_(2).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 31,
-      "ProductName": "Quasar Deep Blue",
-      "PriceSale": "164.90",
-      "Promotion": false,
-      "ImagePath": "1738432882947-508402209-6baec038-4f1c-4d57-9dfe-d90e83688d0c-bot-58526-quasar-deep-blue-ambientada-05.webp",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 30,
-      "ProductName": "Quasar Classic",
-      "PriceSale": "164.90",
-      "Promotion": false,
-      "ImagePath": "1738432842861-241579806-63753c22-cf73-4f09-9add-f416d25e408f-bot-51243-quasar-classic-colonia-segredinho-02.webp",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2998,28 +2272,6 @@
       "PriceSale": "154.90",
       "Promotion": false,
       "ImagePath": "1738430696137-902652703-whatsapp-image-2024-01-23-at-18-15-29-31e7a56db9e1bf355417060445665877-480-0.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 16,
-      "ProductName": "Splash Nuvem",
-      "PriceSale": "89.90",
-      "Promotion": false,
-      "ImagePath": "1738430170722-36093995-61sfF9DLMdL._AC_UF1000,1000_QL80_.jpg",
       "IdCategory": 1,
       "P": false,
       "M": false,
