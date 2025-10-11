@@ -1,6 +1,270 @@
 {
   "products": [
     {
+      "IdProduct": 327,
+      "ProductName": "Splash Show de Banho",
+      "PriceSale": "89.90",
+      "Promotion": false,
+      "ImagePath": "1760222315282-602391378-images.jpg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 326,
+      "ProductName": "Splash Rosa e Algodão",
+      "PriceSale": "89.90",
+      "Promotion": false,
+      "ImagePath": "1760222222749-736127246-ae537471-05d2-4448-b98b-5526803c2c82-bot-51163-cuide-se-bem-rosa-algodao-body-splash-ambientada-04.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 325,
+      "ProductName": "Splash Beijinho",
+      "PriceSale": "89.90",
+      "Promotion": false,
+      "ImagePath": "1760222139183-17689642-Body-Splash-Cuide-se-Bem-Beijinho-O-Boticario.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 324,
+      "ProductName": "Splash Floratta Rose",
+      "PriceSale": "89.90",
+      "Promotion": false,
+      "ImagePath": "1760221950059-372937140-d8f27d6dda4014a58fafa8d429b33af0.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 323,
+      "ProductName": "Kit Portinari",
+      "PriceSale": "189.90",
+      "Promotion": true,
+      "ImagePath": "1760221730853-21565274-D_752630-MLB94486382045_102025-C.jpg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 322,
+      "ProductName": "Kit Arbo",
+      "PriceSale": "179.90",
+      "Promotion": true,
+      "ImagePath": "1760221584103-512909005-Kit-Arbo-Presente-Natal-2025-O-Boticario.jpg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 321,
+      "ProductName": "kit Uomini",
+      "PriceSale": "229.90",
+      "Promotion": true,
+      "ImagePath": "1760221410445-193868807-Kit-Uomini.jpg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 320,
+      "ProductName": "Linda",
+      "PriceSale": "199.90",
+      "Promotion": false,
+      "ImagePath": "1760220964564-905113705-e87f8d2db3023aafe0351fe562d48ac3.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 319,
+      "ProductName": "Refil Arbo",
+      "PriceSale": "129.90",
+      "Promotion": false,
+      "ImagePath": "1760220850788-838334794-51EKmf8oY3L._UF1000,1000_QL80_.jpg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 318,
+      "ProductName": "Hidra Morango 400ml",
+      "PriceSale": "54.99",
+      "Promotion": false,
+      "ImagePath": "1760220531732-10781147-WhatsApp_Image_2025-10-11_at_18.52.06_(4).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 317,
+      "ProductName": "Hidra Rosa 400ml",
+      "PriceSale": "39.90",
+      "Promotion": true,
+      "ImagePath": "1760220240026-238055493-WhatsApp_Image_2025-10-11_at_18.52.06_(3).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 316,
+      "ProductName": "Hidra Karité 400ml",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1760220123650-730394213-WhatsApp_Image_2025-10-11_at_18.52.06_(5).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 304,
       "ProductName": "Kit Eudora Siàge ",
       "PriceSale": "142.90",
@@ -507,6 +771,28 @@
       }
     },
     {
+      "IdProduct": 220,
+      "ProductName": "Kit Coffee Seduction",
+      "PriceSale": "229.90",
+      "Promotion": true,
+      "ImagePath": "1760221827575-138638693-Kit-Coffe-Woman-Seduction-Presente-Natal-2025-O-Boticario.jpg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 219,
       "ProductName": "Kit Egeo Dolce",
       "PriceSale": "179.90",
@@ -543,6 +829,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 213,
+      "ProductName": "Kit Egeo Bomb Black",
+      "PriceSale": "149.90",
+      "Promotion": true,
+      "ImagePath": "1760221189132-132046469-2ba40791568693b0356908b994167798.webp",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -873,6 +1181,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Maquiagem",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 157,
+      "ProductName": "Egeo Bomb Black",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1740319869547-795535479-WhatsApp_Image_2025-02-23_at_10.54.07.jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -1563,6 +1893,28 @@
       }
     },
     {
+      "IdProduct": 96,
+      "ProductName": "Refil Malbec",
+      "PriceSale": "169.90",
+      "Promotion": false,
+      "ImagePath": "1760220651635-129920114-39bee8f5-335e-4f9d-a1e0-dcd8e554ba2c-bot-84705-malbec-desodorante-colonia-refil-01.webp",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 94,
       "ProductName": "Refil Ameixa",
       "PriceSale": "67.90",
@@ -2135,11 +2487,77 @@
       }
     },
     {
+      "IdProduct": 34,
+      "ProductName": "Kit Quasar",
+      "PriceSale": "174.90",
+      "Promotion": true,
+      "ImagePath": "1760221497271-149061491-Kit-Quasar-Deep-Blue-Presente-Natal-O-Boticario.jpg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 32,
+      "ProductName": "Kit Liz",
+      "PriceSale": "169.90",
+      "Promotion": true,
+      "ImagePath": "1760221303761-491570322-kit_liz_presente_natal_2_itens_o_boticario_9166_1_cea34d4373c956fdd72a54b5811527d1.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 28,
       "ProductName": "Egeo Blue",
       "PriceSale": "154.90",
       "Promotion": false,
       "ImagePath": "1738432734811-119793599-a2e789643a252a2c9eb54be1307d2e79.jpg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 26,
+      "ProductName": "Portinari",
+      "PriceSale": "189.90",
+      "Promotion": false,
+      "ImagePath": "1738432218645-366338706-2---PORTINARI_1000x.webp",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -2272,6 +2690,28 @@
       "PriceSale": "154.90",
       "Promotion": false,
       "ImagePath": "1738430696137-902652703-whatsapp-image-2024-01-23-at-18-15-29-31e7a56db9e1bf355417060445665877-480-0.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 15,
+      "ProductName": "Splash Jasmim",
+      "PriceSale": "99.90",
+      "Promotion": false,
+      "ImagePath": "1738430079237-87274730-85091cac709ec440d9ad025199c50e9f.webp",
       "IdCategory": 1,
       "P": false,
       "M": false,
