@@ -1,6 +1,292 @@
 {
   "products": [
     {
+      "IdProduct": 356,
+      "ProductName": "Élégance Royale 115",
+      "PriceSale": "369.00",
+      "Promotion": false,
+      "ImagePath": "1760225702544-470210076-47c2d498-d59e-462a-b064-c986dfebaebc-102560-elegance-royale-07.webp",
+      "IdCategory": 4,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "O.U.I Importados",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 355,
+      "ProductName": "Lor de Méditerranée",
+      "PriceSale": "369.00",
+      "Promotion": false,
+      "ImagePath": "1760225575156-808257461-WhatsApp_Image_2025-10-11_at_20.29.08_(1).jpeg",
+      "IdCategory": 4,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "O.U.I Importados",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 354,
+      "ProductName": "La Pistacherie",
+      "PriceSale": "319.00",
+      "Promotion": true,
+      "ImagePath": "1760225484843-710969016-WhatsApp_Image_2025-10-11_at_20.29.08.jpeg",
+      "IdCategory": 4,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "O.U.I Importados",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 353,
+      "ProductName": "Gloss algodão doce",
+      "PriceSale": "47.90",
+      "Promotion": false,
+      "ImagePath": "1760225175365-566708560-WhatsApp_Image_2025-10-11_at_18.52.04.jpeg",
+      "IdCategory": 5,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Maquiagem",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 352,
+      "ProductName": "Gel facial algodão doce",
+      "PriceSale": "34.90",
+      "Promotion": false,
+      "ImagePath": "1760225103016-673316879-WhatsApp_Image_2025-10-11_at_18.56.02.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 351,
+      "ProductName": "Splash Algodão doce",
+      "PriceSale": "89.90",
+      "Promotion": false,
+      "ImagePath": "1760225068184-785155684-WhatsApp_Image_2025-10-11_at_18.52.04_(2).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 350,
+      "ProductName": "Hidra Algodão doce 400ml",
+      "PriceSale": "72.90",
+      "Promotion": false,
+      "ImagePath": "1760225038394-248427948-WhatsApp_Image_2025-10-11_at_18.52.04_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 349,
+      "ProductName": "Hidra Her Code Clímax",
+      "PriceSale": "62.90",
+      "Promotion": false,
+      "ImagePath": "1760224991547-784140149-WhatsApp_Image_2025-10-11_at_18.52.04_(3).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 348,
+      "ProductName": "Club Six Spotlight",
+      "PriceSale": "139.90",
+      "Promotion": false,
+      "ImagePath": "1760224769185-751173414-WhatsApp_Image_2025-10-11_at_18.52.07_(3).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 347,
+      "ProductName": "Liz Aura",
+      "PriceSale": "169.90",
+      "Promotion": false,
+      "ImagePath": "1760224680092-238211603-WhatsApp_Image_2025-10-11_at_18.52.05.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 346,
+      "ProductName": "Lily Gardénia",
+      "PriceSale": "279.90",
+      "Promotion": true,
+      "ImagePath": "1760224443404-696025888-5a379788-ee2a-4ec3-9254-1373271cb88d-bot-55363-lily-gardenia-edp-perfume-ambientada-03.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 345,
+      "ProductName": "Egeo Choc",
+      "PriceSale": "154.90",
+      "Promotion": false,
+      "ImagePath": "1760224259067-309462605-whatsapp-image-2024-08-22-at-233511_640x640+fill_ffffff.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 344,
+      "ProductName": "Elysée",
+      "PriceSale": "314.90",
+      "Promotion": false,
+      "ImagePath": "1760224000066-663796575-a1a4b9b502f608194254d17d7b976533.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 343,
       "ProductName": "Hidra Elysée",
       "PriceSale": "139.90",
@@ -1431,6 +1717,28 @@
       }
     },
     {
+      "IdProduct": 170,
+      "ProductName": "Coffee Seduction",
+      "PriceSale": "209.90",
+      "Promotion": false,
+      "ImagePath": "1740845162511-95088019-WhatsApp_Image_2025-03-01_at_12.41.49.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 169,
       "ProductName": "Iluminador Make B Gold",
       "PriceSale": "89.90",
@@ -1541,6 +1849,28 @@
       }
     },
     {
+      "IdProduct": 160,
+      "ProductName": "Coffee Woman Duo",
+      "PriceSale": "209.90",
+      "Promotion": false,
+      "ImagePath": "1740320021050-379474974-WhatsApp_Image_2025-02-23_at_10.54.08_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 157,
       "ProductName": "Egeo Bomb Black",
       "PriceSale": "154.90",
@@ -1555,6 +1885,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 155,
+      "ProductName": "Her code Clímax",
+      "PriceSale": "239.90",
+      "Promotion": false,
+      "ImagePath": "1760224931898-358609754-WhatsApp_Image_2025-10-11_at_18.52.04_(4).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2708,7 +3060,7 @@
     },
     {
       "IdProduct": 50,
-      "ProductName": "Lily Gardénia",
+      "ProductName": "Hidra Lily Gardénia",
       "PriceSale": "139.90",
       "Promotion": false,
       "ImagePath": "1738435877890-919464857-6f0a1351-f2ee-4579-9a6c-d0fda05ef994-bot-57890-lily-gardenia-creme-acetinado-ambientada-04.webp",
@@ -2756,6 +3108,28 @@
       "PriceSale": "139.90",
       "Promotion": false,
       "ImagePath": "1738435743938-49701393-LILY-CR-ACET-CPO_V8_B48060_Conceito.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 47,
+      "ProductName": "Lily",
+      "PriceSale": "309.90",
+      "Promotion": false,
+      "ImagePath": "1738435510516-664998625-LILY-EDP-75ml_B77524_conceito_.webp",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -2822,6 +3196,28 @@
       "PriceSale": "86.90",
       "Promotion": false,
       "ImagePath": "1738434219380-857664567-WhatsApp_Image_2025-02-01_at_13.56.10_(4).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 39,
+      "ProductName": "Oléo Ameixa Negra",
+      "PriceSale": "92.90",
+      "Promotion": false,
+      "ImagePath": "1760225256338-472543630-2bf39bfd-6dc1-49b9-bb25-9007939b6fd9-bot-48999-ambientada.webp",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -2910,6 +3306,28 @@
       "PriceSale": "189.90",
       "Promotion": false,
       "ImagePath": "1738432218645-366338706-2---PORTINARI_1000x.webp",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 24,
+      "ProductName": "Arbo",
+      "PriceSale": "174.90",
+      "Promotion": false,
+      "ImagePath": "1738432125858-433937214-br-11134207-23030-s2vrq72bmnov36.jpg",
       "IdCategory": 2,
       "P": false,
       "M": false,
