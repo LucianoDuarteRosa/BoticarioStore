@@ -1,6 +1,358 @@
 {
   "products": [
     {
+      "IdProduct": 343,
+      "ProductName": "Hidra Elysée",
+      "PriceSale": "139.90",
+      "Promotion": false,
+      "ImagePath": "1760223879540-614481844-Elysee-creme-acetinado-300x300.jpg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 342,
+      "ProductName": "Kit Siage Crescimento",
+      "PriceSale": "167.79",
+      "Promotion": false,
+      "ImagePath": "1760223707523-467038281-WhatsApp_Image_2025-10-11_at_18.52.07_(2).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 341,
+      "ProductName": "Kit Siage Nutri Rosé",
+      "PriceSale": "139.90",
+      "Promotion": false,
+      "ImagePath": "1760223584056-645306748-WhatsApp_Image_2025-10-11_at_18.52.07.jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 340,
+      "ProductName": "Kit Siage Reconstroi",
+      "PriceSale": "139.90",
+      "Promotion": false,
+      "ImagePath": "1760223534193-865745823-WhatsApp_Image_2025-10-11_at_18.52.05_(2).jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 339,
+      "ProductName": "Hidra Sophie 200ml",
+      "PriceSale": "46.90",
+      "Promotion": false,
+      "ImagePath": "1760223458685-132508679-WhatsApp_Image_2025-10-11_at_18.52.05_(1).jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 338,
+      "ProductName": "Nex",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1760223408188-666177082-WhatsApp_Image_2025-10-11_at_18.52.05_(3).jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 337,
+      "ProductName": "Next Spider",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1760223387817-840094622-WhatsApp_Image_2025-10-11_at_18.52.07_(1).jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 336,
+      "ProductName": "Hidra Spider Gwen",
+      "PriceSale": "64.90",
+      "Promotion": false,
+      "ImagePath": "1760223327071-107410216-WhatsApp_Image_2025-10-11_at_18.52.05_(5).jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 335,
+      "ProductName": "Sophie Spider",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1760223243714-729325125-WhatsApp_Image_2025-10-11_at_18.52.05_(4).jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 334,
+      "ProductName": "Sophie Hello",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1760223176949-573820487-WhatsApp_Image_2025-10-11_at_18.52.06.jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 333,
+      "ProductName": "Sophie Like",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1760223139948-730642479-WhatsApp_Image_2025-10-11_at_18.52.06_(1).jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 332,
+      "ProductName": "Sophie Candy",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1760223086118-211276676-WhatsApp_Image_2025-10-11_at_18.52.06_(2).jpeg",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 331,
+      "ProductName": "Palette Multifuncional",
+      "PriceSale": "179.90",
+      "Promotion": true,
+      "ImagePath": "1760222930010-833670119-WhatsApp_Image_2025-10-11_at_19.43.18_(1).jpeg",
+      "IdCategory": 5,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Maquiagem",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 330,
+      "ProductName": "Combo Harry Potter",
+      "PriceSale": "109.80",
+      "Promotion": true,
+      "ImagePath": "1760222866906-835797787-WhatsApp_Image_2025-10-11_at_19.43.18.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 329,
+      "ProductName": "Sabonete Ameixa Negra",
+      "PriceSale": "57.90",
+      "Promotion": false,
+      "ImagePath": "1760222711798-834467806-3471c8df-066f-4fc2-b680-ff665fc46ccd-bot-53389-nativa-spa-ameixa-negra-ambientada-03.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 328,
+      "ProductName": "Sabonete Orquídea Noire",
+      "PriceSale": "57.90",
+      "Promotion": false,
+      "ImagePath": "1760222633173-2793330-21a4bcbc-a93c-4a9a-9bf3-8fe72e44c1ec-bot-53392-nativa-spa-orquidea-noire-sabonete-liquido-frontal-01.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 327,
       "ProductName": "Splash Show de Banho",
       "PriceSale": "89.90",
