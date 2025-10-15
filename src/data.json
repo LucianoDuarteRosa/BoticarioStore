@@ -1,6 +1,204 @@
 {
   "products": [
     {
+      "IdProduct": 365,
+      "ProductName": "Protetor Solar Kids FPS 70",
+      "PriceSale": "66.90",
+      "Promotion": false,
+      "ImagePath": "1760568863758-336326617-BT_13_25_Pack_Boti_Sun_Kids_DrBotica_VD_V2_.0001.preview-1.webp",
+      "IdCategory": 3,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Linha Kids",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 364,
+      "ProductName": "Desod Aerosol Coffee",
+      "PriceSale": "37.90",
+      "Promotion": false,
+      "ImagePath": "1760568563646-669949046-COFFEE_DES_ANT_AER_WOMAN_SEDUC_75g_V4-B48780-Frontal.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 363,
+      "ProductName": "Body Spray Egeo Dolce",
+      "PriceSale": "47.90",
+      "Promotion": false,
+      "ImagePath": "1760568260148-613782486-b7804417-fd9c-438d-8f45-255a1849d54a-bot-74893-egeo-dolce-body-spray-ambientada.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 362,
+      "ProductName": "Desod Aerosol Ameixa",
+      "PriceSale": "37.90",
+      "Promotion": false,
+      "ImagePath": "1760568102446-374366098-desodorante-aerosol-antitranspirante-nativa-spa-ameixa-75g.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 361,
+      "ProductName": "Kit Cauterização dos lisos",
+      "PriceSale": "167.90",
+      "Promotion": false,
+      "ImagePath": "1760567983862-411258133-WhatsApp_Image_2025-10-15_at_19.31.00.jpeg",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 360,
+      "ProductName": "Hidra Orquídea Lumiére 180ml",
+      "PriceSale": "47.90",
+      "Promotion": true,
+      "ImagePath": "1760567838149-268426112-WhatsApp_Image_2025-10-15_at_19.31.01_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": true,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 359,
+      "ProductName": "Hidra Orquídea Lumiére 400ml",
+      "PriceSale": "59.90",
+      "Promotion": true,
+      "ImagePath": "1760567747772-430213416-WhatsApp_Image_2025-10-15_at_19.31.01_(2).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": true,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 358,
+      "ProductName": "Hidra Floratta Rose Bouquet",
+      "PriceSale": "52.90",
+      "Promotion": true,
+      "ImagePath": "1760567655739-279241181-WhatsApp_Image_2025-10-15_at_19.31.00_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": true,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 357,
+      "ProductName": "Floratta Rose Bouquet",
+      "PriceSale": "129.90",
+      "Promotion": true,
+      "ImagePath": "1760567603205-601988156-WhatsApp_Image_2025-10-15_at_19.31.01.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": true,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 356,
       "ProductName": "Élégance Royale 115",
       "PriceSale": "369.00",
@@ -2399,6 +2597,50 @@
       }
     },
     {
+      "IdProduct": 116,
+      "ProductName": "Glamour Secrets B Aerosol",
+      "PriceSale": "37.90",
+      "Promotion": false,
+      "ImagePath": "1760568429036-847273481-GLAMOUR-DES-ANTIT-AER-SEC-BL-75g-V6_B84225_.webp",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 114,
+      "ProductName": "Lily Aerosol",
+      "PriceSale": "37.90",
+      "Promotion": false,
+      "ImagePath": "1738522826860-760421485-WhatsApp_Image_2025-02-02_at_10.30.05.jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 111,
       "ProductName": "Arbo Spray",
       "PriceSale": "47.90",
@@ -3213,11 +3455,11 @@
       }
     },
     {
-      "IdProduct": 39,
-      "ProductName": "Oléo Ameixa Negra",
-      "PriceSale": "92.90",
+      "IdProduct": 35,
+      "ProductName": "Hidratante Egeo",
+      "PriceSale": "74.90",
       "Promotion": false,
-      "ImagePath": "1760225256338-472543630-2bf39bfd-6dc1-49b9-bb25-9007939b6fd9-bot-48999-ambientada.webp",
+      "ImagePath": "1738433903489-957805599-964433319471522.jpg",
       "IdCategory": 1,
       "P": false,
       "M": false,
