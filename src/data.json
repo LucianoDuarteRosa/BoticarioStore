@@ -397,28 +397,6 @@
       }
     },
     {
-      "IdProduct": 347,
-      "ProductName": "Liz Aura",
-      "PriceSale": "169.90",
-      "Promotion": false,
-      "ImagePath": "1760224680092-238211603-WhatsApp_Image_2025-10-11_at_18.52.05.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 346,
       "ProductName": "Lily Gardénia",
       "PriceSale": "279.90",
@@ -793,28 +771,6 @@
       }
     },
     {
-      "IdProduct": 329,
-      "ProductName": "Sabonete Ameixa Negra",
-      "PriceSale": "57.90",
-      "Promotion": false,
-      "ImagePath": "1760222711798-834467806-3471c8df-066f-4fc2-b680-ff665fc46ccd-bot-53389-nativa-spa-ameixa-negra-ambientada-03.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 328,
       "ProductName": "Sabonete Orquídea Noire",
       "PriceSale": "57.90",
@@ -974,50 +930,6 @@
       "PriceSale": "229.90",
       "Promotion": true,
       "ImagePath": "1760221410445-193868807-Kit-Uomini.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 320,
-      "ProductName": "Linda",
-      "PriceSale": "199.90",
-      "Promotion": false,
-      "ImagePath": "1760220964564-905113705-e87f8d2db3023aafe0351fe562d48ac3.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 319,
-      "ProductName": "Refil Arbo",
-      "PriceSale": "129.90",
-      "Promotion": false,
-      "ImagePath": "1760220850788-838334794-51EKmf8oY3L._UF1000,1000_QL80_.jpg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -1546,28 +1458,6 @@
       "PriceSale": "174.90",
       "Promotion": false,
       "ImagePath": "1744941348331-450460238-09.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 262,
-      "ProductName": "Glamour S Black Intense",
-      "PriceSale": "174.90",
-      "Promotion": false,
-      "ImagePath": "1744941288413-503109789-08.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -2267,28 +2157,6 @@
       }
     },
     {
-      "IdProduct": 143,
-      "ProductName": "Desodorate Ae.OUI 001",
-      "PriceSale": "49.90",
-      "Promotion": false,
-      "ImagePath": "1738530362003-632585243-1000160489-rbzc8zjkq8.webp",
-      "IdCategory": 4,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "O.U.I Importados",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 141,
       "ProductName": "Kit Egeo",
       "PriceSale": "159.90",
@@ -2470,28 +2338,6 @@
       "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738525921738-534033442-WhatsApp_Image_2025-02-02_at_10.35.37_(14).jpeg",
-      "IdCategory": 4,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "O.U.I Importados",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 126,
-      "ProductName": "La Villette 470 Hidra",
-      "PriceSale": "119.90",
-      "Promotion": false,
-      "ImagePath": "1738525626309-540879585-WhatsApp_Image_2025-02-02_at_10.35.37_(13).jpeg",
       "IdCategory": 4,
       "P": false,
       "M": false,
@@ -2729,28 +2575,6 @@
       }
     },
     {
-      "IdProduct": 104,
-      "ProductName": "Sabonete Nuvem 4 un",
-      "PriceSale": "34.90",
-      "Promotion": false,
-      "ImagePath": "1738521943994-143006238-WhatsApp_Image_2025-02-02_at_10.34.40_(3).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 103,
       "ProductName": "Sabonete Deleite 4 un",
       "PriceSale": "34.90",
@@ -2888,28 +2712,6 @@
       "PriceSale": "54.90",
       "Promotion": false,
       "ImagePath": "1738507501691-943956041-WhatsApp_Image_2025-02-02_at_10.34.44_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 89,
-      "ProductName": "Lilac para mãos",
-      "PriceSale": "34.90",
-      "Promotion": true,
-      "ImagePath": "1738507324792-124529358-WhatsApp_Image_2025-02-02_at_10.34.42.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3073,28 +2875,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 69,
-      "ProductName": "Kit Pré e Pós Química",
-      "PriceSale": "77.80",
-      "Promotion": true,
-      "ImagePath": "1738505013830-600385014-WhatsApp_Image_2025-02-02_at_10.34.38.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -3807,11 +3587,11 @@
       }
     },
     {
-      "IdProduct": 7,
-      "ProductName": "Floratta Gold",
-      "PriceSale": "159.90",
+      "IdProduct": 8,
+      "ProductName": "Glamour Secrets Black",
+      "PriceSale": "174.90",
       "Promotion": false,
-      "ImagePath": "1738428388759-337500216-8a99ed4f-fd41-47de-b682-271f23e4f8a0-bot-51448-floratta-gold-ambientada-4.jpg",
+      "ImagePath": "1738428617384-869027345-WhatsApp_Image_2025-02-01_at_08.57.16_(2).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -3834,28 +3614,6 @@
       "PriceSale": "159.90",
       "Promotion": false,
       "ImagePath": "1738428177838-207972040-WhatsApp_Image_2025-02-01_at_08.57.17_(3).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 5,
-      "ProductName": "Floratta Rose",
-      "PriceSale": "159.90",
-      "Promotion": false,
-      "ImagePath": "1738428090887-379314696-757cd203400ff66dab0a02b1a6ef66fd.jpg",
       "IdCategory": 1,
       "P": false,
       "M": false,
