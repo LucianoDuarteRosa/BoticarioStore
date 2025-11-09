@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import SearchBar from "./components/search/searchbar";
 import ProductCard from "./components/product/productCard";
 import Sidebar from "./components/sidebar/sidebar";
 import Links from "./components/links/links";
 import Logo from "./components/logo/logo";
 import productsData from "./data.json";
-import { Grid, Container, Box, IconButton, Drawer} from "@mui/material";
+import { Grid, Container, Box, IconButton, Drawer } from "@mui/material";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
@@ -16,8 +16,19 @@ const App = () => {
   const [categories, setCategories] = useState([]);
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [searchValue, setSearchValue] = useState("");
-
   const [drawerOpen, setDrawerOpen] = useState(false);
+
+  const snowflakes = useMemo(
+    () =>
+      Array.from({ length: 80 }, (_, index) => ({
+        id: index,
+        left: `${Math.random() * 100}%`,
+        animationDelay: `${Math.random() * 10}s`,
+        animationDuration: `${8 + Math.random() * 8}s`,
+        size: `${4 + Math.random() * 8}px`,
+      })),
+    []
+  );
 
   const toggleDrawer = (open) => (event) => {
     if (event.type === "keydown" && (event.key === "Tab" || event.key === "Shift")) {
@@ -78,7 +89,7 @@ const App = () => {
       !selectedCategories.length ||
       selectedCategories.includes(product.Category.CategoryName) ||
       (selectedCategories.includes("Promotion") && product.Promotion) ||
-      (selectedCategories.includes("Launch") && product.Launch) 
+      (selectedCategories.includes("Launch") && product.Launch)
       ;
 
     return isCategorySelected && product.ProductName.toLowerCase().includes(searchValue.toLowerCase());
@@ -92,101 +103,117 @@ const App = () => {
   const body = "Olá, gostaria de saber mais informações.";
 
   return (
-    <Container style={{ marginTop: "1.5rem" }}>
-      {/* Topo com barra de pesquisa, logo e menu hambúrguer */}
-      <Box
-        display="flex"
-        justifyContent="space-between"
-        alignItems="center"
-      >
-        {/* Logo - Apenas em telas grandes */}
-        <Box sx={{ display: { xs: "none", sm: "block" } }}>
-          <Logo />
-        </Box>
+    <Container className="app-container festive-theme"
+      maxWidth={false}
+      disableGutters>
+      <div className="snow-wrapper" aria-hidden="true">
+        {snowflakes.map(({ id, left, animationDelay, animationDuration, size }) => (
+          <span
+            key={id}
+            className="snowflake"
+            style={{ left, animationDelay, animationDuration, width: size, height: size }}
+          />
+        ))}
+      </div>
 
-        {/* Ícone do menu hambúrguer - Apenas em telas pequenas */}
-        <Box sx={{ display: { xs: "block", sm: "none" } }}>
-          <IconButton
-            style={{ color: "white" }}
-            onClick={toggleDrawer(true)}
-          >
-            <FontAwesomeIcon icon={faBars} />
-          </IconButton>
-        </Box>
+      <div className="sleigh-runner" aria-hidden="true" />
 
-        {/* Barra de pesquisa */}
-        <Box flexGrow={1}>
-          <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
-        </Box>
-      </Box>
-
-      {/* Menu hambúrguer lateral */}
-      <Drawer
-        className="drawer"
-        anchor="left"
-        open={drawerOpen}
-        onClose={toggleDrawer(false)}
-      >
-        <Box className="drawer-box">
-          <Box>
+      <Box className="content-shell">
+        {/* Topo com barra de pesquisa, logo e menu hambúrguer */}
+        <Box
+          className="festive-nav"
+          display="flex"
+          justifyContent="space-between"
+          alignItems="center"
+        >
+          <Box sx={{ display: { xs: "none", sm: "block" } }}>
             <Logo />
           </Box>
-          <Sidebar
-            categories={categories}
-            selectedCategories={selectedCategories}
-            onCategoryChange={handleCategoryChange}
-          />
-          <Links />
-        </Box>
-      </Drawer>
 
-      {/* Conteúdo principal */}
-      <Box>
-        <Grid container spacing={2}>
-          {/* Sidebar em telas grandes */}
-          <Grid
-            item
-            xs={3}
-            sx={{ display: { xs: "none", sm: "block" } }}
-          >
+          {/* Ícone do menu hambúrguer - Apenas em telas pequenas */}
+          <Box sx={{ display: { xs: "block", sm: "none" } }}>
+            <IconButton
+              style={{ color: "white" }}
+              onClick={toggleDrawer(true)}
+            >
+              <FontAwesomeIcon icon={faBars} />
+            </IconButton>
+          </Box>
+
+          {/* Barra de pesquisa */}
+          <Box flexGrow={1}>
+            <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
+          </Box>
+        </Box>
+
+        {/* Menu hambúrguer lateral */}
+        <Drawer
+          className="drawer"
+          anchor="left"
+          open={drawerOpen}
+          onClose={toggleDrawer(false)}
+        >
+          <Box className="drawer-box">
+            <Box>
+              <Logo />
+            </Box>
             <Sidebar
               categories={categories}
               selectedCategories={selectedCategories}
               onCategoryChange={handleCategoryChange}
             />
             <Links />
-          </Grid>
+          </Box>
+        </Drawer>
 
-          {/* Cards de produtos */}
-          <Grid item xs={11} sm={8}>
-            <Grid container spacing={2}>
-              {filteredProducts.map((product) => (
-                <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
-                  <ProductCard product={product} />
-                </Grid>
-              ))}
+        {/* Conteúdo principal */}
+        <Box>
+          <Grid container spacing={2}>
+            {/* Sidebar em telas grandes */}
+            <Grid
+              item
+              xs={3}
+              sx={{ display: { xs: "none", sm: "block" } }}
+            >
+              <Sidebar
+                categories={categories}
+                selectedCategories={selectedCategories}
+                onCategoryChange={handleCategoryChange}
+              />
+              <Links />
+            </Grid>
+
+            {/* Cards de produtos */}
+            <Grid item xs={11} sm={8}>
+              <Grid container spacing={2}>
+                {filteredProducts.map((product) => (
+                  <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
+                    <ProductCard product={product} />
+                  </Grid>
+                ))}
+              </Grid>
             </Grid>
           </Grid>
-        </Grid>
-      </Box>
-      <Box className="footer">
-        <p>© 2025 - Luciano Duarte. Contato:
-          <span>
-            <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faWhatsapp} className="social-icon-app" />
-            </a>
-          </span>
-          <span>
-            <a href={`mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`}>
-              <FontAwesomeIcon icon={faEnvelope} className="social-icon-app" />
-            </a>
-          </span>
-          <span>
-            <a href={linkedIn} target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faLinkedin} className="social-icon-app" />
-            </a>
-          </span>
-        </p>
+        </Box>
+        <Box className="footer">
+          <p>© 2025 - Luciano Duarte. Contato:
+            <span>
+              <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
+                <FontAwesomeIcon icon={faWhatsapp} className="social-icon-app" />
+              </a>
+            </span>
+            <span>
+              <a href={`mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`}>
+                <FontAwesomeIcon icon={faEnvelope} className="social-icon-app" />
+              </a>
+            </span>
+            <span>
+              <a href={linkedIn} target="_blank" rel="noopener noreferrer">
+                <FontAwesomeIcon icon={faLinkedin} className="social-icon-app" />
+              </a>
+            </span>
+          </p>
+        </Box>
       </Box>
     </Container>
   );

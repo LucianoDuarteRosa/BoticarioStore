@@ -21,10 +21,221 @@
 }
 
 body {
-    padding: 1rem 2rem 1rem 0;
+    padding: 0;
     font-family: var(--font-dm-sans) !important;
     color: var(--text-base-light);
-    background-color: var(--bg-icon);
+    background: radial-gradient(120% 120% at 10% 20%, rgba(255, 118, 165, 0.25) 0%, rgba(18, 18, 18, 0.9) 45%),
+        radial-gradient(120% 140% at 90% 0%, rgba(255, 214, 153, 0.18) 0%, rgba(18, 18, 18, 0.85) 50%),
+        linear-gradient(180deg, #0f172a 0%, #0b1120 100%);
+    background-attachment: fixed;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.app-container {
+    position: relative;
+    margin-top: 0;
+    min-height: calc(100vh - 1.5rem);
+    overflow: hidden;
+    padding: 1.5rem 1.5rem 3rem;
+    border-radius: 0;
+    box-shadow: 0 32px 80px -24px rgba(15, 23, 42, 0.65);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app-container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url("../public/assets/bolasnatal.png");
+    background-repeat: repeat-x;
+    background-size: 420px auto;
+    background-position: center top;
+    opacity: 0.6;
+    filter: saturate(130%) drop-shadow(0 16px 32px rgba(10, 12, 24, 0.35));
+    mix-blend-mode: screen;
+    transform: translateY(-40px);
+    z-index: 0;
+    pointer-events: none;
+}
+
+.content-shell {
+    width: 70%;
+    position: relative;
+    z-index: 2;
+    background: rgba(12, 18, 32, 0.78);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 24px;
+    padding: 1.5rem;
+    backdrop-filter: blur(8px);
+    overflow: hidden;
+}
+
+.background-gifs {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.bg-gif {
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.4;
+    filter: drop-shadow(0 0 12px rgba(255, 255, 255, 0.2));
+    --float-delay: 0s;
+    --float-duration: 18s;
+}
+
+.bg-gif::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: inherit;
+    background-size: inherit;
+    background-repeat: inherit;
+    opacity: 0.85;
+    animation: float var(--float-duration) ease-in-out infinite;
+    animation-delay: var(--float-delay);
+}
+
+.bg-gif.santa {
+    top: 8%;
+    left: -4%;
+    width: 220px;
+    height: 220px;
+    background-image: url("https://media4.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif");
+    --float-duration: 22s;
+}
+
+.bg-gif.tree {
+    bottom: -6%;
+    left: 12%;
+    width: 180px;
+    height: 220px;
+    background-image: url("https://media3.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif");
+    --float-delay: 2s;
+    --float-duration: 18s;
+}
+
+.bg-gif.reindeer {
+    top: 18%;
+    right: -5%;
+    width: 240px;
+    height: 180px;
+    background-image: url("https://media1.giphy.com/media/3og0IV7MOCtb1GzZws/giphy.gif");
+    --float-delay: 4s;
+    --float-duration: 24s;
+}
+
+.bg-gif.ornament {
+    bottom: 12%;
+    right: 18%;
+    width: 140px;
+    height: 140px;
+    background-image: url("https://media0.giphy.com/media/l0MYAw8R2oh6OXTiM/giphy.gif");
+    --float-delay: 6s;
+}
+
+.bg-gif.gift {
+    top: 52%;
+    left: -8%;
+    width: 160px;
+    height: 160px;
+    background-image: url("https://media3.giphy.com/media/3o6Mbs8Lh8q0N7dQys/giphy.gif");
+    --float-delay: 8s;
+    --float-duration: 16s;
+}
+
+.snow-wrapper {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.sleigh-runner {
+    position: fixed;
+    bottom: -5vh;
+    right: -30vw;
+    width: clamp(180px, 24vw, 320px);
+    height: clamp(110px, 15vw, 200px);
+    background-image: url("https://www.imagensanimadas.com/data/media/1084/treno-papai-noel-imagem-animada-0011.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    pointer-events: none;
+    z-index: 5;
+    opacity: 0;
+    animation: sleigh-glide 20s linear infinite;
+}
+
+.snowflake {
+    position: absolute;
+    top: -12vh;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+    animation: snow 14s linear infinite;
+}
+
+@keyframes snow {
+    0% {
+        transform: translate3d(0, -12vh, 0) rotate(0deg);
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translate3d(-12px, 110vh, 0) rotate(360deg);
+        opacity: 0;
+    }
+}
+
+@keyframes float {
+
+    0%,
+    100% {
+        transform: translateY(0) scale(1);
+    }
+
+    50% {
+        transform: translateY(-12px) scale(1.05);
+    }
+}
+
+@keyframes sleigh-glide {
+    0% {
+        transform: translateX(0);
+        opacity: 0;
+    }
+
+    5% {
+        transform: translateX(-12vw);
+        opacity: 1;
+    }
+
+    45% {
+        transform: translateX(-160vw);
+        opacity: 1;
+    }
+
+    50% {
+        transform: translateX(-180vw);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(-180vw);
+        opacity: 0;
+    }
 }
 
 .icon-standart {
@@ -72,6 +283,39 @@ body {
 
 
 @media (max-width: 600px) {
+    body {
+        padding: 0;
+    }
+
+    .content-shell {
+        width: 90%;
+    }
+
+    .app-container {
+        padding: 1.2rem 1rem 2.2rem;
+        border-radius: 0;
+    }
+
+    .app-container::before {
+        background-size: 300px auto;
+        transform: translateY(-28px);
+        opacity: 0.24;
+    }
+
+    .content-shell {
+        padding: 1rem;
+        border-radius: 18px;
+    }
+
+    .bg-gif {
+        opacity: 0.3;
+    }
+
+    .bg-gif.santa,
+    .bg-gif.reindeer {
+        display: none;
+    }
+
     .footer {
         font-size: .9rem;
     }
@@ -84,12 +328,20 @@ body {
     .social-icon-app :hover {
         color: var(--text-destac);
     }
+
+    .sleigh-runner {
+        bottom: -2vh;
+    }
 }
 
 
 @media (max-width: 350px) {
     .footer {
         font-size: .7rem;
+    }
+
+    .content-shell {
+        width: 95%;
     }
 
     .social-icon-app {

@@ -5,7 +5,7 @@
     justify-content: start;
     align-items: center;
     border-radius: 24px;
-    width: 100%;
+    width: 90%;
     background-color: var(--bg-top-bar);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -18,7 +18,7 @@
     font-size: 1rem;
     font-weight: 400;
     padding: 1rem;
-    width: 100%;
+    width: 80%;
     outline: none;
 }
 
