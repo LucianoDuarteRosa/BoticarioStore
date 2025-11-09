@@ -150,6 +150,10 @@ body {
     --float-duration: 16s;
 }
 
+.products {
+    padding: 0.5rem;
+}
+
 .snow-wrapper {
     position: absolute;
     inset: 0;
@@ -330,7 +334,7 @@ body {
     }
 
     .sleigh-runner {
-        bottom: -2vh;
+        bottom: 0vh;
     }
 }
 

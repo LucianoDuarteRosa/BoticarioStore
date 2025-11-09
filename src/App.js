@@ -184,7 +184,7 @@ const App = () => {
             </Grid>
 
             {/* Cards de produtos */}
-            <Grid item xs={11} sm={8}>
+            <Grid className="products" item xs={11} sm={8}>
               <Grid container spacing={2}>
                 {filteredProducts.map((product) => (
                   <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
