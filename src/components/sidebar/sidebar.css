@@ -4,6 +4,10 @@
     border-radius: 12px;
     background-color: var(--bg-top-bar);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-image: url("../../../public/assets/santa-sign.gif");
+    background-repeat: no-repeat;
+    background-position: calc(100% + .5rem) calc(5% - .4rem);
+    background-size: 140px auto;
 }
 
 .title-category {
@@ -77,6 +81,7 @@
     .sidebar {
         padding: .4rem;
         margin-top: 1.5rem;
+        background-size: 120px auto;
     }
 
     .title-category {
@@ -88,13 +93,13 @@
         padding: .3rem .8rem;
         font-size: .7rem;
     }
-
 }
 
 @media (max-width: 770px) {
     .sidebar {
         padding: .2rem;
         margin-top: 1rem;
+        background-size: 100px auto;
     }
 
     .title-category {
@@ -106,13 +111,13 @@
         padding: .1rem .6rem;
         font-size: .5rem;
     }
-
 }
 
 @media (max-width: 630px) {
     .sidebar {
         margin-top: .6rem;
         padding: .3rem;
+        background-size: 90px auto;
     }
 
     .title-category {
@@ -124,5 +129,4 @@
         padding: .3rem .5rem;
         font-size: .7rem;
     }
-
 }
