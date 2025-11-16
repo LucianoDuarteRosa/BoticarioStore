@@ -3675,6 +3675,248 @@
       }
     },
     {
+      "IdProduct": 376,
+      "ProductName": "Bermuda verde ADMA Ref 1210",
+      "PriceSale": "79.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 19,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": true,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 375,
+      "ProductName": "Bermuda verde ADMA Ref 1209",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1763316031595-54790579-18.jpeg",
+      "IdCategory": 19,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 374,
+      "ProductName": "Bermuda ADMA Ref 1210",
+      "PriceSale": "79.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 19,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": true,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 373,
+      "ProductName": "Bermuda ADMA Ref 1209",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1763315953121-881573054-6.jpeg",
+      "IdCategory": 19,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 372,
+      "ProductName": "Bermuda  ADMA Ref 1210",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1763315886593-371752125-4.jpeg",
+      "IdCategory": 19,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 371,
+      "ProductName": "Bermuda ADMA 1209 azul marinho",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1763315830548-482410567-1.jpeg",
+      "IdCategory": 19,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 370,
+      "ProductName": "Blusa ADMA Ref 1102 Listrada",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1763315713301-989488780-17.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 369,
+      "ProductName": "Blusa ADMA Ref 1105",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": null,
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 368,
+      "ProductName": "Blusa ADMA Ref 1105 azul",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1763315455649-125864908-20.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": true,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 367,
+      "ProductName": "Camisa Cinza ADMA Ref 1103",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1763315365305-617002684-21.jpeg",
+      "IdCategory": 19,
+      "P": false,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 366,
+      "ProductName": "Camisa Azul ADMA Ref 1103",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1763315211618-882995827-19.jpeg",
+      "IdCategory": 19,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 314,
       "ProductName": "Top Adma ref 2348",
       "PriceSale": "59.90",
@@ -3829,13 +4071,57 @@
       }
     },
     {
+      "IdProduct": 286,
+      "ProductName": "Blusa ADMA Ref 1105",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1763314365678-820079891-7.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": true,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 285,
+      "ProductName": "Blusa ADMA Ref 1105",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1763314388233-880331482-7.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 284,
       "ProductName": "Blusa ADMA Ref 1105",
       "PriceSale": "54.90",
       "Promotion": false,
       "ImagePath": "1750628805014-347646632-WhatsApp_Image_2025-06-22_at_18.46.14.jpeg",
       "IdCategory": 17,
-      "P": false,
+      "P": true,
       "M": true,
       "G": true,
       "GG": true,
@@ -3931,6 +4217,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 261,
+      "ProductName": "Bermuda Preta ADMA Ref 1209",
+      "PriceSale": "79.90",
+      "Promotion": false,
+      "ImagePath": "1744939870586-660519595-Bermuda_1209.jpeg",
+      "IdCategory": 19,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": true,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -4036,7 +4344,7 @@
       "P": false,
       "M": true,
       "G": false,
-      "GG": true,
+      "GG": false,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -4124,6 +4432,28 @@
       "P": true,
       "M": true,
       "G": false,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 222,
+      "ProductName": "Blusa ADMA Ref 1102 azul",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1763315657991-634680524-16.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": false,
+      "G": true,
       "GG": true,
       "XG": false,
       "Launch": false,
@@ -4295,10 +4625,10 @@
       "ProductName": "Camisa Preta ADMA Ref 1103",
       "PriceSale": "59.90",
       "Promotion": false,
-      "ImagePath": "1742677808177-257369629-007.jpeg",
+      "ImagePath": "1763314466085-845216860-2.jpeg",
       "IdCategory": 19,
       "P": true,
-      "M": true,
+      "M": false,
       "G": true,
       "GG": false,
       "XG": false,
