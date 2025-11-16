@@ -3833,7 +3833,7 @@
       "ProductName": "Blusa ADMA Ref 1105",
       "PriceSale": "54.90",
       "Promotion": false,
-      "ImagePath": null,
+      "ImagePath": "1763317220828-982261141-24.jpeg",
       "IdCategory": 17,
       "P": true,
       "M": false,
@@ -3925,8 +3925,8 @@
       "IdCategory": 17,
       "P": false,
       "M": false,
-      "G": true,
-      "GG": false,
+      "G": false,
+      "GG": true,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -4013,8 +4013,8 @@
       "IdCategory": 18,
       "P": true,
       "M": false,
-      "G": false,
-      "GG": false,
+      "G": true,
+      "GG": true,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -4041,28 +4041,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 305,
-      "ProductName": "Top ADMA Ref 2503",
-      "PriceSale": "65.90",
-      "Promotion": false,
-      "ImagePath": "1750628681349-352412691-WhatsApp_Image_2025-06-22_at_18.24.53.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": true,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -4146,6 +4124,28 @@
       "P": true,
       "M": false,
       "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Moda Masculina",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 270,
+      "ProductName": "Bermuda ADMA Ref 1210",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1763317126034-754087766-3.jpeg",
+      "IdCategory": 19,
+      "P": false,
+      "M": true,
+      "G": true,
       "GG": false,
       "XG": false,
       "Launch": false,
@@ -4258,6 +4258,28 @@
       "G": false,
       "GG": false,
       "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 247,
+      "ProductName": "Calça ADMA Ref 1301",
+      "PriceSale": "119.90",
+      "Promotion": false,
+      "ImagePath": "1748107541482-223785531-WhatsApp_Image_2025-04-04_at_22.45.45.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": true,
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
@@ -4579,15 +4601,15 @@
     {
       "IdProduct": 190,
       "ProductName": "Calça ADMA Ref 1304",
-      "PriceSale": "119.90",
+      "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1742675757318-35722575-008.jpeg",
       "IdCategory": 18,
       "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": true,
+      "M": true,
+      "G": true,
+      "GG": true,
+      "XG": false,
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
@@ -4674,6 +4696,28 @@
       "P": true,
       "M": true,
       "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 185,
+      "ProductName": "Calça ADMA Ref 1306",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1763317534205-828264347-22.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": true,
+      "G": true,
       "GG": false,
       "XG": false,
       "Launch": false,
