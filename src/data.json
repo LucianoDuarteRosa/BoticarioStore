@@ -3679,7 +3679,7 @@
       "ProductName": "Bermuda verde ADMA Ref 1210",
       "PriceSale": "79.90",
       "Promotion": false,
-      "ImagePath": null,
+      "ImagePath": "1763316821294-972670208-18.jpeg",
       "IdCategory": 19,
       "P": false,
       "M": false,
@@ -3723,7 +3723,7 @@
       "ProductName": "Bermuda ADMA Ref 1210",
       "PriceSale": "79.90",
       "Promotion": false,
-      "ImagePath": null,
+      "ImagePath": "1763316837395-576302933-6.jpeg",
       "IdCategory": 19,
       "P": false,
       "M": false,
@@ -4145,28 +4145,6 @@
       "IdCategory": 19,
       "P": true,
       "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Moda Masculina",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 270,
-      "ProductName": "Bermuda ADMA Ref 1210",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1744942205857-522466109-WhatsApp_Image_2025-04-17_at_22.23.35_(1).jpeg",
-      "IdCategory": 19,
-      "P": false,
-      "M": true,
       "G": false,
       "GG": false,
       "XG": false,
