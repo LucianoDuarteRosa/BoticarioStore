@@ -4181,6 +4181,50 @@
       }
     },
     {
+      "IdProduct": 250,
+      "ProductName": "Short duplo ADMA Ref 2563",
+      "PriceSale": "84.90",
+      "Promotion": false,
+      "ImagePath": "1765665742495-588018925-WhatsApp_Image_2025-12-13_at_19.40.14.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 249,
+      "ProductName": "Regata ADMA Ref 2562",
+      "PriceSale": "54.90",
+      "Promotion": false,
+      "ImagePath": "1765665818953-595147300-WhatsApp_Image_2025-12-13_at_19.40.13.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 247,
       "ProductName": "Calça ADMA Ref 1301",
       "PriceSale": "119.90",
@@ -4384,28 +4428,6 @@
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1752973499154-576540959-WhatsApp_Image_2025-07-19_at_20.54.27.jpeg",
-      "IdCategory": 18,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 201,
-      "ProductName": "Calça ADMA Ref 2502",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1748798073886-118377464-WhatsApp_Image_2025-06-01_at_14.13.12_(1).jpeg",
       "IdCategory": 18,
       "P": false,
       "M": false,
