@@ -1,6 +1,138 @@
 {
   "products": [
     {
+      "IdProduct": 382,
+      "ProductName": "Caixa com 5 sabonetes Natura",
+      "PriceSale": "33.90",
+      "Promotion": false,
+      "ImagePath": "1765662066426-87264332-shopping.webp",
+      "IdCategory": 21,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Natura",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 381,
+      "ProductName": "Caixa com 5 sabonetes Natura",
+      "PriceSale": "33.90",
+      "Promotion": false,
+      "ImagePath": "1765662021931-354130687-NATBRA-220210_1.jpg",
+      "IdCategory": 21,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Natura",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 380,
+      "ProductName": "Sabonete barra mamãe e bebê",
+      "PriceSale": "48.90",
+      "Promotion": false,
+      "ImagePath": "1765661969327-39996891-NATBRA-92795_1.jpg",
+      "IdCategory": 21,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Natura",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 379,
+      "ProductName": "Sab Líquido Mamãe e bebê",
+      "PriceSale": "49.90",
+      "Promotion": false,
+      "ImagePath": "1765661929816-831850165-NATBRA-92790_1.jpg",
+      "IdCategory": 21,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Natura",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 378,
+      "ProductName": "Colônia Mamãe bebê",
+      "PriceSale": "89.90",
+      "Promotion": true,
+      "ImagePath": "1765661821691-878232371-mamae_bebe.jpg",
+      "IdCategory": 21,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Natura",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 377,
+      "ProductName": "Coffee Unique",
+      "PriceSale": "209.90",
+      "Promotion": false,
+      "ImagePath": "1765660072429-532762452-coffe.jpeg",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": true,
+      "Category": {
+        "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 365,
       "ProductName": "Protetor Solar Kids FPS 70",
       "PriceSale": "66.90",
@@ -1541,6 +1673,28 @@
       }
     },
     {
+      "IdProduct": 218,
+      "ProductName": "Body Spray Lily Blanche",
+      "PriceSale": "47.90",
+      "Promotion": false,
+      "ImagePath": "1743276307732-800943075-WhatsApp_Image_2025-03-26_at_20.15.09_(1).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 217,
       "ProductName": "Lily Blanche",
       "PriceSale": "209.90",
@@ -1775,6 +1929,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Masculino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 174,
+      "ProductName": "Body Spray Diva",
+      "PriceSale": "44.99",
+      "Promotion": false,
+      "ImagePath": "1765661053438-773564391-gfcfxcd.webp",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2465,6 +2641,28 @@
       }
     },
     {
+      "IdProduct": 115,
+      "ProductName": "Glamour Spray",
+      "PriceSale": "47.90",
+      "Promotion": false,
+      "ImagePath": "1738522871583-422024589-WhatsApp_Image_2025-02-02_at_10.34.38_(2).jpeg",
+      "IdCategory": 1,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 114,
       "ProductName": "Lily Aerosol",
       "PriceSale": "37.90",
@@ -2479,6 +2677,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 112,
+      "ProductName": "Spray Quasar Rush",
+      "PriceSale": "47.90",
+      "Promotion": false,
+      "ImagePath": "1765660599961-245977878-fdsd.webp",
+      "IdCategory": 2,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Masculino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
