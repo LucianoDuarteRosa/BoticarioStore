@@ -1,6 +1,72 @@
 {
   "products": [
     {
+      "IdProduct": 385,
+      "ProductName": "Eudora Noir",
+      "PriceSale": "239.90",
+      "Promotion": false,
+      "ImagePath": "1765662625979-55377006-aa4e15310d5db88a1b281bc102ffae46.webp",
+      "IdCategory": 20,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Eudora",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 384,
+      "ProductName": "Hidra Natura Ameixa",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1765662576773-819550025-NATBRA-99818_3.webp",
+      "IdCategory": 21,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Natura",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
+      "IdProduct": 383,
+      "ProductName": "Hidra Natura Cereja e Avelã",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1765662535769-132109574-images.jpg",
+      "IdCategory": 21,
+      "P": false,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Natura",
+        "IdSuperCategory": 1,
+        "SuperCategory": {
+          "SuperCategoryName": "Perfumaria",
+          "IdSuperCategory": 1
+        }
+      }
+    },
+    {
       "IdProduct": 382,
       "ProductName": "Caixa com 5 sabonetes Natura",
       "PriceSale": "33.90",
@@ -245,8 +311,8 @@
     {
       "IdProduct": 360,
       "ProductName": "Hidra Orquídea Lumiére 180ml",
-      "PriceSale": "47.90",
-      "Promotion": true,
+      "PriceSale": "59.90",
+      "Promotion": false,
       "ImagePath": "1760567838149-268426112-WhatsApp_Image_2025-10-15_at_19.31.01_(1).jpeg",
       "IdCategory": 1,
       "P": false,
@@ -254,7 +320,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
         "IdSuperCategory": 1,
@@ -267,8 +333,8 @@
     {
       "IdProduct": 359,
       "ProductName": "Hidra Orquídea Lumiére 400ml",
-      "PriceSale": "59.90",
-      "Promotion": true,
+      "PriceSale": "86.90",
+      "Promotion": false,
       "ImagePath": "1760567747772-430213416-WhatsApp_Image_2025-10-15_at_19.31.01_(2).jpeg",
       "IdCategory": 1,
       "P": false,
@@ -276,7 +342,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
         "IdSuperCategory": 1,
@@ -289,8 +355,8 @@
     {
       "IdProduct": 358,
       "ProductName": "Hidra Floratta Rose Bouquet",
-      "PriceSale": "52.90",
-      "Promotion": true,
+      "PriceSale": "62.90",
+      "Promotion": false,
       "ImagePath": "1760567655739-279241181-WhatsApp_Image_2025-10-15_at_19.31.00_(1).jpeg",
       "IdCategory": 1,
       "P": false,
@@ -298,7 +364,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
         "IdSuperCategory": 1,
@@ -619,7 +685,7 @@
     {
       "IdProduct": 342,
       "ProductName": "Kit Siage Crescimento",
-      "PriceSale": "167.79",
+      "PriceSale": "167.90",
       "Promotion": false,
       "ImagePath": "1760223707523-467038281-WhatsApp_Image_2025-10-11_at_18.52.07_(2).jpeg",
       "IdCategory": 20,
@@ -641,7 +707,7 @@
     {
       "IdProduct": 341,
       "ProductName": "Kit Siage Nutri Rosé",
-      "PriceSale": "139.90",
+      "PriceSale": "177.80",
       "Promotion": false,
       "ImagePath": "1760223584056-645306748-WhatsApp_Image_2025-10-11_at_18.52.07.jpeg",
       "IdCategory": 20,
@@ -663,7 +729,7 @@
     {
       "IdProduct": 340,
       "ProductName": "Kit Siage Reconstroi",
-      "PriceSale": "139.90",
+      "PriceSale": "177.80",
       "Promotion": false,
       "ImagePath": "1760223534193-865745823-WhatsApp_Image_2025-10-11_at_18.52.05_(2).jpeg",
       "IdCategory": 20,
@@ -1101,28 +1167,6 @@
       }
     },
     {
-      "IdProduct": 317,
-      "ProductName": "Hidra Rosa 400ml",
-      "PriceSale": "39.90",
-      "Promotion": true,
-      "ImagePath": "1760220240026-238055493-WhatsApp_Image_2025-10-11_at_18.52.06_(3).jpeg",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 316,
       "ProductName": "Hidra Karité 400ml",
       "PriceSale": "54.90",
@@ -1147,7 +1191,7 @@
     {
       "IdProduct": 304,
       "ProductName": "Kit Eudora Siàge ",
-      "PriceSale": "142.90",
+      "PriceSale": "167.90",
       "Promotion": false,
       "ImagePath": "1750628512131-315596530-WhatsApp_Image_2025-06-22_at_18.40.31.jpeg",
       "IdCategory": 20,
@@ -1169,7 +1213,7 @@
     {
       "IdProduct": 303,
       "ProductName": "Kit Sampoo e Cond ",
-      "PriceSale": "87.90",
+      "PriceSale": "97.90",
       "Promotion": false,
       "ImagePath": "1750628295659-882655724-WhatsApp_Image_2025-06-22_at_17.52.40.jpeg",
       "IdCategory": 20,
@@ -3125,50 +3169,6 @@
       }
     },
     {
-      "IdProduct": 66,
-      "ProductName": "Condicionador Banana",
-      "PriceSale": "27.90",
-      "Promotion": false,
-      "ImagePath": "1738504789525-768985626-WhatsApp_Image_2025-02-02_at_10.30.01_(6).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 65,
-      "ProductName": "Shampoo Banana",
-      "PriceSale": "24.90",
-      "Promotion": false,
-      "ImagePath": "1738504740841-364464527-WhatsApp_Image_2025-02-02_at_10.30.01_(5).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 60,
       "ProductName": "Batom Mate Marronterra",
       "PriceSale": "36.90",
@@ -3570,28 +3570,6 @@
       "PriceSale": "174.90",
       "Promotion": false,
       "ImagePath": "1738432125858-433937214-br-11134207-23030-s2vrq72bmnov36.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 23,
-      "ProductName": "Malbec Icon",
-      "PriceSale": "209.90",
-      "Promotion": false,
-      "ImagePath": "1738431588045-124291172-61uaZrhR4KL.jpg",
       "IdCategory": 2,
       "P": false,
       "M": false,
