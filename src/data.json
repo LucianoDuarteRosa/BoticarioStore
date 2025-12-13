@@ -377,8 +377,8 @@
     {
       "IdProduct": 357,
       "ProductName": "Floratta Rose Bouquet",
-      "PriceSale": "129.90",
-      "Promotion": true,
+      "PriceSale": "159.90",
+      "Promotion": false,
       "ImagePath": "1760567603205-601988156-WhatsApp_Image_2025-10-15_at_19.31.01.jpeg",
       "IdCategory": 1,
       "P": false,
@@ -386,7 +386,7 @@
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
         "IdSuperCategory": 1,
@@ -565,28 +565,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 348,
-      "ProductName": "Club Six Spotlight",
-      "PriceSale": "139.90",
-      "Promotion": false,
-      "ImagePath": "1760224769185-751173414-WhatsApp_Image_2025-10-11_at_18.52.07_(3).jpeg",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -1387,28 +1365,6 @@
       }
     },
     {
-      "IdProduct": 293,
-      "ProductName": "Egeo Cogu",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1748799434983-256692759-WhatsApp_Image_2025-06-01_at_13.48.40_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 283,
       "ProductName": "Creme Aveludado Her Code",
       "PriceSale": "109.90",
@@ -1629,28 +1585,6 @@
       }
     },
     {
-      "IdProduct": 263,
-      "ProductName": "Glamour Midnight",
-      "PriceSale": "174.90",
-      "Promotion": false,
-      "ImagePath": "1744941348331-450460238-09.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 260,
       "ProductName": "Body Splash Uva ",
       "PriceSale": "99.90",
@@ -1832,28 +1766,6 @@
       "PriceSale": "136.90",
       "Promotion": true,
       "ImagePath": "1742849911872-271245397-022.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 208,
-      "ProductName": "Ampola Sérum Capilar",
-      "PriceSale": "35.90",
-      "Promotion": false,
-      "ImagePath": "1742688550385-571080401-031.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -2883,28 +2795,6 @@
       }
     },
     {
-      "IdProduct": 99,
-      "ProductName": "Refil Deleite para mãos",
-      "PriceSale": "24.90",
-      "Promotion": false,
-      "ImagePath": "1738521026923-885787990-WhatsApp_Image_2025-02-02_at_10.35.38.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 97,
       "ProductName": "Refil Elysée Blanc",
       "PriceSale": "74.90",
@@ -3587,28 +3477,6 @@
       }
     },
     {
-      "IdProduct": 22,
-      "ProductName": "Malbec noir",
-      "PriceSale": "249.90",
-      "Promotion": false,
-      "ImagePath": "1738431429788-372236105-WhatsApp_Image_2025-02-01_at_08.57.12.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 21,
       "ProductName": "Malbec Flame",
       "PriceSale": "239.90",
@@ -3746,28 +3614,6 @@
       "PriceSale": "99.90",
       "Promotion": false,
       "ImagePath": "1738429651692-88523569-WhatsApp_Image_2025-02-01_at_13.56.10.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 11,
-      "ProductName": "Botica 214",
-      "PriceSale": "224.90",
-      "Promotion": false,
-      "ImagePath": "1738429459686-522539880-WhatsApp_Image_2025-02-01_at_13.55.46.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
