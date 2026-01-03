@@ -1,28 +1,6 @@
 {
   "products": [
     {
-      "IdProduct": 385,
-      "ProductName": "Eudora Noir",
-      "PriceSale": "239.90",
-      "Promotion": false,
-      "ImagePath": "1765662625979-55377006-aa4e15310d5db88a1b281bc102ffae46.webp",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 384,
       "ProductName": "Hidra Natura Ameixa",
       "PriceSale": "69.90",
@@ -287,28 +265,6 @@
       }
     },
     {
-      "IdProduct": 361,
-      "ProductName": "Kit Cauterização dos lisos",
-      "PriceSale": "167.90",
-      "Promotion": false,
-      "ImagePath": "1760567983862-411258133-WhatsApp_Image_2025-10-15_at_19.31.00.jpeg",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 360,
       "ProductName": "Hidra Orquídea Lumiére 180ml",
       "PriceSale": "59.90",
@@ -336,28 +292,6 @@
       "PriceSale": "86.90",
       "Promotion": false,
       "ImagePath": "1760567747772-430213416-WhatsApp_Image_2025-10-15_at_19.31.01_(2).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 358,
-      "ProductName": "Hidra Floratta Rose Bouquet",
-      "PriceSale": "62.90",
-      "Promotion": false,
-      "ImagePath": "1760567655739-279241181-WhatsApp_Image_2025-10-15_at_19.31.00_(1).jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -639,50 +573,6 @@
       }
     },
     {
-      "IdProduct": 342,
-      "ProductName": "Kit Siage Crescimento",
-      "PriceSale": "167.90",
-      "Promotion": false,
-      "ImagePath": "1760223707523-467038281-WhatsApp_Image_2025-10-11_at_18.52.07_(2).jpeg",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 341,
-      "ProductName": "Kit Siage Nutri Rosé",
-      "PriceSale": "177.80",
-      "Promotion": false,
-      "ImagePath": "1760223584056-645306748-WhatsApp_Image_2025-10-11_at_18.52.07.jpeg",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 340,
       "ProductName": "Kit Siage Reconstroi",
       "PriceSale": "177.80",
@@ -710,28 +600,6 @@
       "PriceSale": "46.90",
       "Promotion": false,
       "ImagePath": "1760223458685-132508679-WhatsApp_Image_2025-10-11_at_18.52.05_(1).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 338,
-      "ProductName": "Nex",
-      "PriceSale": "109.90",
-      "Promotion": false,
-      "ImagePath": "1760223408188-666177082-WhatsApp_Image_2025-10-11_at_18.52.05_(3).jpeg",
       "IdCategory": 3,
       "P": false,
       "M": false,
@@ -1013,55 +881,11 @@
       }
     },
     {
-      "IdProduct": 324,
-      "ProductName": "Splash Floratta Rose",
-      "PriceSale": "89.90",
-      "Promotion": false,
-      "ImagePath": "1760221950059-372937140-d8f27d6dda4014a58fafa8d429b33af0.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 323,
       "ProductName": "Kit Portinari",
       "PriceSale": "189.90",
       "Promotion": true,
       "ImagePath": "1760221730853-21565274-D_752630-MLB94486382045_102025-C.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 322,
-      "ProductName": "Kit Arbo",
-      "PriceSale": "179.90",
-      "Promotion": true,
-      "ImagePath": "1760221584103-512909005-Kit-Arbo-Presente-Natal-2025-O-Boticario.jpg",
       "IdCategory": 2,
       "P": false,
       "M": false,
@@ -1211,28 +1035,6 @@
       }
     },
     {
-      "IdProduct": 301,
-      "ProductName": "Crazy Feelings",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1750628027252-98906592-WhatsApp_Image_2025-06-22_at_17.46.03_(5).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 299,
       "ProductName": "Hidra Lily Love",
       "PriceSale": "139.90",
@@ -1321,77 +1123,11 @@
       }
     },
     {
-      "IdProduct": 294,
-      "ProductName": "Diva",
-      "PriceSale": "129.90",
-      "Promotion": false,
-      "ImagePath": "1750625886889-852332338-WhatsApp_Image_2025-06-22_at_17.46.03_(4).jpeg",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 283,
       "ProductName": "Creme Aveludado Her Code",
       "PriceSale": "109.90",
       "Promotion": false,
       "ImagePath": "1744943378546-721375640-WhatsApp_Image_2025-04-17_at_22.51.02.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 282,
-      "ProductName": "Óleo de massagem Her Code",
-      "PriceSale": "89.90",
-      "Promotion": false,
-      "ImagePath": "1744943326580-458877323-WhatsApp_Image_2025-04-17_at_22.51.02_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 281,
-      "ProductName": "Hidra Orquídea 180ml",
-      "PriceSale": "54.90",
-      "Promotion": true,
-      "ImagePath": "1744943176433-732347830-WhatsApp_Image_2025-04-17_at_22.47.46.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -1717,28 +1453,6 @@
       }
     },
     {
-      "IdProduct": 210,
-      "ProductName": "Kit Floratta Red",
-      "PriceSale": "189.90",
-      "Promotion": true,
-      "ImagePath": "1750624573577-890872001-WhatsApp_Image_2025-06-22_at_17.35.01.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 209,
       "ProductName": "Kit Nativa SPA Ameixa",
       "PriceSale": "136.90",
@@ -1819,28 +1533,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 176,
-      "ProductName": "Clash Hidratante",
-      "PriceSale": "54.90",
-      "Promotion": false,
-      "ImagePath": "1740846245860-131670562-WhatsApp_Image_2025-03-01_at_12.41.54.jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2245,28 +1937,6 @@
       }
     },
     {
-      "IdProduct": 141,
-      "ProductName": "Kit Egeo",
-      "PriceSale": "159.90",
-      "Promotion": true,
-      "ImagePath": "1750624332200-977041994-WhatsApp_Image_2025-06-22_at_17.29.59_(1).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 140,
       "ProductName": "Cuide-Se Bem",
       "PriceSale": "34.90",
@@ -2281,28 +1951,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 139,
-      "ProductName": "Lapis Esfumador Cor Preto",
-      "PriceSale": "47.90",
-      "Promotion": true,
-      "ImagePath": "1738528058374-907515385-Lapis-Olhos-Esfumador-Preto_Q77834_Fechado.webp",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2553,28 +2201,6 @@
       }
     },
     {
-      "IdProduct": 115,
-      "ProductName": "Glamour Spray",
-      "PriceSale": "47.90",
-      "Promotion": false,
-      "ImagePath": "1738522871583-422024589-WhatsApp_Image_2025-02-02_at_10.34.38_(2).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 114,
       "ProductName": "Lily Aerosol",
       "PriceSale": "37.90",
@@ -2589,50 +2215,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 112,
-      "ProductName": "Spray Quasar Rush",
-      "PriceSale": "47.90",
-      "Promotion": false,
-      "ImagePath": "1765660599961-245977878-fdsd.webp",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 111,
-      "ProductName": "Arbo Spray",
-      "PriceSale": "47.90",
-      "Promotion": false,
-      "ImagePath": "1738522374416-75473993-WhatsApp_Image_2025-02-02_at_10.30.05_(1).jpeg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2839,28 +2421,6 @@
       }
     },
     {
-      "IdProduct": 77,
-      "ProductName": "Colônia Criatividade",
-      "PriceSale": "92.90",
-      "Promotion": false,
-      "ImagePath": "1738505742175-243359803-WhatsApp_Image_2025-02-02_at_10.30.02_(1).jpeg",
-      "IdCategory": 3,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Linha Kids",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 72,
       "ProductName": "Refil Sabonete Líquido",
       "PriceSale": "48.90",
@@ -2932,28 +2492,6 @@
       "PriceSale": "36.90",
       "Promotion": true,
       "ImagePath": "1738504137525-610941717-WhatsApp_Image_2025-02-02_at_10.30.01_(3).jpeg",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 59,
-      "ProductName": "Hidratante Labial",
-      "PriceSale": "37.90",
-      "Promotion": false,
-      "ImagePath": "1738504056160-117483166-WhatsApp_Image_2025-02-02_at_10.35.37.jpeg",
       "IdCategory": 5,
       "P": false,
       "M": false,
@@ -3213,72 +2751,6 @@
       }
     },
     {
-      "IdProduct": 35,
-      "ProductName": "Hidratante Egeo",
-      "PriceSale": "74.90",
-      "Promotion": false,
-      "ImagePath": "1738433903489-957805599-964433319471522.jpg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 34,
-      "ProductName": "Kit Quasar",
-      "PriceSale": "174.90",
-      "Promotion": true,
-      "ImagePath": "1760221497271-149061491-Kit-Quasar-Deep-Blue-Presente-Natal-O-Boticario.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 32,
-      "ProductName": "Kit Liz",
-      "PriceSale": "169.90",
-      "Promotion": true,
-      "ImagePath": "1760221303761-491570322-kit_liz_presente_natal_2_itens_o_boticario_9166_1_cea34d4373c956fdd72a54b5811527d1.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 28,
       "ProductName": "Egeo Blue",
       "PriceSale": "154.90",
@@ -3306,28 +2778,6 @@
       "PriceSale": "189.90",
       "Promotion": false,
       "ImagePath": "1738432218645-366338706-2---PORTINARI_1000x.webp",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 24,
-      "ProductName": "Arbo",
-      "PriceSale": "174.90",
-      "Promotion": false,
-      "ImagePath": "1738432125858-433937214-br-11134207-23030-s2vrq72bmnov36.jpg",
       "IdCategory": 2,
       "P": false,
       "M": false,
