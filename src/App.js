@@ -11,6 +11,16 @@ import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import './index.css';
 
+const CONFETTI_COLORS = [
+  "#FF6B6B",
+  "#FFD166",
+  "#06D6A0",
+  "#4ECDC4",
+  "#A29BFE",
+  "#F75C03",
+  "#F15BB5",
+];
+
 const App = () => {
   const [products, setProducts] = useState([]);
   const [categories, setCategories] = useState([]);
@@ -18,14 +28,18 @@ const App = () => {
   const [searchValue, setSearchValue] = useState("");
   const [drawerOpen, setDrawerOpen] = useState(false);
 
-  const snowflakes = useMemo(
+  const confettiPieces = useMemo(
     () =>
-      Array.from({ length: 80 }, (_, index) => ({
+      Array.from({ length: 120 }, (_, index) => ({
         id: index,
         left: `${Math.random() * 100}%`,
-        animationDelay: `${Math.random() * 10}s`,
-        animationDuration: `${8 + Math.random() * 8}s`,
-        size: `${4 + Math.random() * 8}px`,
+        animationDelay: `${Math.random() * 12}s`,
+        animationDuration: `${10 + Math.random() * 10}s`,
+        width: `${4 + Math.random() * 8}px`,
+        height: `${8 + Math.random() * 18}px`,
+        color: CONFETTI_COLORS[Math.floor(Math.random() * CONFETTI_COLORS.length)],
+        borderRadius: Math.random() > 0.5 ? "999px" : "4px",
+        drift: `${-40 + Math.random() * 80}px`,
       })),
     []
   );
@@ -106,12 +120,21 @@ const App = () => {
     <Container className="app-container festive-theme"
       maxWidth={false}
       disableGutters>
-      <div className="snow-wrapper" aria-hidden="true">
-        {snowflakes.map(({ id, left, animationDelay, animationDuration, size }) => (
+      <div className="confetti-wrapper" aria-hidden="true">
+        {confettiPieces.map(({ id, left, animationDelay, animationDuration, width, height, color, borderRadius, drift }) => (
           <span
             key={id}
-            className="snowflake"
-            style={{ left, animationDelay, animationDuration, width: size, height: size }}
+            className="confetti-piece"
+            style={{
+              left,
+              animationDelay,
+              animationDuration,
+              width,
+              height,
+              backgroundColor: color,
+              borderRadius,
+              "--confetti-drift": drift,
+            }}
           />
         ))}
       </div>
