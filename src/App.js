@@ -139,7 +139,10 @@ const App = () => {
         ))}
       </div>
 
-      <div className="sleigh-runner" aria-hidden="true" />
+      <div className="sleigh-runner-2" aria-hidden="true" />
+      <div className="sleigh-runner-3" aria-hidden="true" />
+      <div className="sleigh-runner-4" aria-hidden="true" />
+      <div className="sleigh-runner-1" aria-hidden="true" />
 
       <Box className="content-shell">
         {/* Topo com barra de pesquisa, logo e menu hambúrguer */}
