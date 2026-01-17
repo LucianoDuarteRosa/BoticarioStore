@@ -3068,7 +3068,7 @@
       "P": true,
       "M": true,
       "G": true,
-      "GG": false,
+      "GG": true,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -3125,28 +3125,6 @@
       }
     },
     {
-      "IdProduct": 372,
-      "ProductName": "Bermuda  ADMA Ref 1210",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1763315886593-371752125-4.jpeg",
-      "IdCategory": 19,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Moda Masculina",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 371,
       "ProductName": "Bermuda ADMA 1209 azul marinho",
       "PriceSale": "69.90",
@@ -3156,7 +3134,7 @@
       "P": false,
       "M": false,
       "G": true,
-      "GG": true,
+      "GG": false,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -3264,9 +3242,9 @@
       "ImagePath": "1763315211618-882995827-19.jpeg",
       "IdCategory": 19,
       "P": false,
-      "M": false,
+      "M": true,
       "G": true,
-      "GG": false,
+      "GG": true,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -3425,28 +3403,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 270,
-      "ProductName": "Bermuda ADMA Ref 1210",
-      "PriceSale": "69.90",
-      "Promotion": false,
-      "ImagePath": "1763317126034-754087766-3.jpeg",
-      "IdCategory": 19,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Moda Masculina",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -3946,9 +3902,9 @@
       "ImagePath": "1763314466085-845216860-2.jpeg",
       "IdCategory": 19,
       "P": true,
-      "M": false,
+      "M": true,
       "G": true,
-      "GG": false,
+      "GG": true,
       "XG": false,
       "Launch": false,
       "Category": {
