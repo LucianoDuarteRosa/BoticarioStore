@@ -4,10 +4,10 @@
     border-radius: 12px;
     background-color: var(--bg-top-bar);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    background-image: url("../../../public/assets/santa-sign.gif");
+    background-image: url("../../../public/assets/mundo-bita-bita.gif");
     background-repeat: no-repeat;
-    background-position: calc(100% + .5rem) calc(5% - .4rem);
-    background-size: 140px auto;
+    background-position: calc(100% + .1rem) calc(5% - 1.5rem);
+    background-size: 100px auto;
 }
 
 .title-category {

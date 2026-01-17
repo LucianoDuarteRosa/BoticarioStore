@@ -55,22 +55,6 @@ body {
     justify-content: center;
 }
 
-.app-container::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-image: url("../public/assets/bolasnatal.png");
-    background-repeat: repeat-x;
-    background-size: 420px auto;
-    background-position: center top;
-    opacity: 0.6;
-    filter: saturate(130%) drop-shadow(0 16px 32px rgba(10, 12, 24, 0.35));
-    mix-blend-mode: screen;
-    transform: translateY(-40px);
-    z-index: 0;
-    pointer-events: none;
-}
-
 .content-shell {
     width: 70%;
     position: relative;
@@ -112,59 +96,11 @@ body {
     animation-delay: var(--float-delay);
 }
 
-.bg-gif.santa {
-    top: 8%;
-    left: -4%;
-    width: 220px;
-    height: 220px;
-    background-image: url("https://media4.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif");
-    --float-duration: 22s;
-}
-
-.bg-gif.tree {
-    bottom: -6%;
-    left: 12%;
-    width: 180px;
-    height: 220px;
-    background-image: url("https://media3.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif");
-    --float-delay: 2s;
-    --float-duration: 18s;
-}
-
-.bg-gif.reindeer {
-    top: 18%;
-    right: -5%;
-    width: 240px;
-    height: 180px;
-    background-image: url("https://media1.giphy.com/media/3og0IV7MOCtb1GzZws/giphy.gif");
-    --float-delay: 4s;
-    --float-duration: 24s;
-}
-
-.bg-gif.ornament {
-    bottom: 12%;
-    right: 18%;
-    width: 140px;
-    height: 140px;
-    background-image: url("https://media0.giphy.com/media/l0MYAw8R2oh6OXTiM/giphy.gif");
-    --float-delay: 6s;
-}
-
-.bg-gif.gift {
-    top: 52%;
-    left: -8%;
-    width: 160px;
-    height: 160px;
-    background-image: url("https://media3.giphy.com/media/3o6Mbs8Lh8q0N7dQys/giphy.gif");
-    --float-delay: 8s;
-    --float-duration: 16s;
-}
-
 .products {
     padding: 0.5rem;
 }
 
-.snow-wrapper {
+.confetti-wrapper {
     position: absolute;
     inset: 0;
     z-index: 1;
@@ -172,13 +108,13 @@ body {
     overflow: hidden;
 }
 
-.sleigh-runner {
+.sleigh-runner-1 {
     position: fixed;
-    bottom: -5vh;
+    bottom: -0.5vh;
     right: -30vw;
-    width: clamp(180px, 24vw, 320px);
-    height: clamp(110px, 15vw, 200px);
-    background-image: url("https://www.imagensanimadas.com/data/media/1084/treno-papai-noel-imagem-animada-0011.gif");
+    width: clamp(180px, 24vw, 220px);
+    height: clamp(110px, 15vw, 100px);
+    background-image: url("../public/assets/farra-capivara.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -188,27 +124,86 @@ body {
     animation: sleigh-glide 20s linear infinite;
 }
 
-.snowflake {
-    position: absolute;
-    top: -12vh;
-    background: rgba(255, 255, 255, 0.9);
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
-    animation: snow 14s linear infinite;
+.sleigh-runner-2 {
+    position: fixed;
+    bottom: -0.5vh;
+    right: -27vw;
+    width: clamp(180px, 24vw, 220px);
+    height: clamp(110px, 15vw, 100px);
+    background-image: url("../public/assets/tito-bita.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    pointer-events: none;
+    z-index: 5;
+    opacity: 0;
+    animation: sleigh-glide 20s linear infinite;
 }
 
-@keyframes snow {
+.sleigh-runner-3 {
+    position: fixed;
+    bottom: -0.5vh;
+    right: -24vw;
+    width: clamp(180px, 24vw, 220px);
+    height: clamp(110px, 15vw, 100px);
+    background-image: url("../public/assets/bita-escola.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    pointer-events: none;
+    z-index: 5;
+    opacity: 0;
+    animation: sleigh-glide 20s linear infinite;
+}
+
+.sleigh-runner-4 {
+    position: fixed;
+    bottom: -0.5vh;
+    right: -21vw;
+    width: clamp(180px, 24vw, 220px);
+    height: clamp(110px, 15vw, 100px);
+    background-image: url("../public/assets/bita-mundo.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    pointer-events: none;
+    z-index: 5;
+    opacity: 0;
+    animation: sleigh-glide 20s linear infinite;
+}
+
+.confetti-piece {
+    position: absolute;
+    top: -15vh;
+    --confetti-drift: 0px;
+    display: inline-block;
+    background: #ffd166;
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgba(19, 15, 40, 0.35);
+    animation: confetti-fall 14s linear infinite;
+    opacity: 0;
+    will-change: transform, opacity;
+    mix-blend-mode: screen;
+    filter: saturate(125%);
+}
+
+@keyframes confetti-fall {
     0% {
         transform: translate3d(0, -12vh, 0) rotate(0deg);
         opacity: 0;
     }
 
-    10% {
+    15% {
+        opacity: 1;
+    }
+
+    50% {
+        transform: translate3d(calc(var(--confetti-drift, 0px) * 0.5), 60vh, 0) rotate(180deg);
         opacity: 1;
     }
 
     100% {
-        transform: translate3d(-12px, 110vh, 0) rotate(360deg);
+        transform: translate3d(var(--confetti-drift, 0px), 110vh, 0) rotate(360deg);
         opacity: 0;
     }
 }

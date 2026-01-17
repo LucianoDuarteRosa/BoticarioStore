@@ -32,11 +32,11 @@
 
 .nome-mark__hat {
     position: absolute;
-    top: -1.3rem;
-    left: 50%;
+    top: -1.6rem;
+    left: -140%;
     width: 3rem;
     height: auto;
-    transform: translateX(-10%) rotate(3deg);
+    transform: translateX(-10%) rotate(-10deg);
     transform-origin: center;
     pointer-events: none;
     user-select: none;
