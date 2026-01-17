@@ -3279,28 +3279,6 @@
       }
     },
     {
-      "IdProduct": 369,
-      "ProductName": "Blusa ADMA Ref 1105",
-      "PriceSale": "54.90",
-      "Promotion": false,
-      "ImagePath": "1763317220828-982261141-24.jpeg",
-      "IdCategory": 17,
-      "P": true,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 367,
       "ProductName": "Camisa Cinza ADMA Ref 1103",
       "PriceSale": "59.90",
