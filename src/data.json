@@ -135,8 +135,8 @@
     {
       "IdProduct": 378,
       "ProductName": "Colônia Mamãe bebê",
-      "PriceSale": "89.90",
-      "Promotion": true,
+      "PriceSale": "106.90",
+      "Promotion": false,
       "ImagePath": "1765661821691-878232371-mamae_bebe.jpg",
       "IdCategory": 21,
       "P": false,
@@ -419,28 +419,6 @@
       }
     },
     {
-      "IdProduct": 351,
-      "ProductName": "Splash Algodão doce",
-      "PriceSale": "89.90",
-      "Promotion": false,
-      "ImagePath": "1760225068184-785155684-WhatsApp_Image_2025-10-11_at_18.52.04_(2).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 350,
       "ProductName": "Hidra Algodão doce 400ml",
       "PriceSale": "72.90",
@@ -487,8 +465,8 @@
     {
       "IdProduct": 346,
       "ProductName": "Lily Gardénia",
-      "PriceSale": "279.90",
-      "Promotion": true,
+      "PriceSale": "319.90",
+      "Promotion": false,
       "ImagePath": "1760224443404-696025888-5a379788-ee2a-4ec3-9254-1373271cb88d-bot-55363-lily-gardenia-edp-perfume-ambientada-03.webp",
       "IdCategory": 1,
       "P": false,
@@ -543,50 +521,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 343,
-      "ProductName": "Hidra Elysée",
-      "PriceSale": "139.90",
-      "Promotion": false,
-      "ImagePath": "1760223879540-614481844-Elysee-creme-acetinado-300x300.jpg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 340,
-      "ProductName": "Kit Siage Reconstroi",
-      "PriceSale": "177.80",
-      "Promotion": false,
-      "ImagePath": "1760223534193-865745823-WhatsApp_Image_2025-10-11_at_18.52.05_(2).jpeg",
-      "IdCategory": 20,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Eudora",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -798,28 +732,6 @@
       "PriceSale": "57.90",
       "Promotion": false,
       "ImagePath": "1760222633173-2793330-21a4bcbc-a93c-4a9a-9bf3-8fe72e44c1ec-bot-53392-nativa-spa-orquidea-noire-sabonete-liquido-frontal-01.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 327,
-      "ProductName": "Splash Show de Banho",
-      "PriceSale": "89.90",
-      "Promotion": false,
-      "ImagePath": "1760222315282-602391378-images.jpg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -1321,28 +1233,6 @@
       }
     },
     {
-      "IdProduct": 220,
-      "ProductName": "Kit Coffee Seduction",
-      "PriceSale": "229.90",
-      "Promotion": true,
-      "ImagePath": "1760221827575-138638693-Kit-Coffe-Woman-Seduction-Presente-Natal-2025-O-Boticario.jpg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 219,
       "ProductName": "Kit Egeo Dolce",
       "PriceSale": "179.90",
@@ -1365,11 +1255,11 @@
       }
     },
     {
-      "IdProduct": 218,
-      "ProductName": "Body Spray Lily Blanche",
-      "PriceSale": "47.90",
+      "IdProduct": 217,
+      "ProductName": "Lily Blanche",
+      "PriceSale": "219.90",
       "Promotion": false,
-      "ImagePath": "1743276307732-800943075-WhatsApp_Image_2025-03-26_at_20.15.09_(1).jpeg",
+      "ImagePath": "1743276179740-602688651-WhatsApp_Image_2025-03-26_at_20.15.09.jpeg",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -1387,11 +1277,11 @@
       }
     },
     {
-      "IdProduct": 217,
-      "ProductName": "Lily Blanche",
-      "PriceSale": "209.90",
+      "IdProduct": 216,
+      "ProductName": "Lily Soleil",
+      "PriceSale": "219.90",
       "Promotion": false,
-      "ImagePath": "1743276179740-602688651-WhatsApp_Image_2025-03-26_at_20.15.09.jpeg",
+      "ImagePath": "1770760487836-187024020-lily_soleil.avif",
       "IdCategory": 1,
       "P": false,
       "M": false,
@@ -1423,28 +1313,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 212,
-      "ProductName": "Kit Celebre",
-      "PriceSale": "119.90",
-      "Promotion": true,
-      "ImagePath": "1750624019210-849211764-celebre.jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -1489,28 +1357,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 179,
-      "ProductName": "Lápis para Sobrancelhas",
-      "PriceSale": "31.90",
-      "Promotion": true,
-      "ImagePath": "1740846570801-437003752-WhatsApp_Image_2025-03-01_at_12.42.00.jpeg",
-      "IdCategory": 5,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Maquiagem",
         "IdSuperCategory": 1,
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
@@ -2289,28 +2135,6 @@
       }
     },
     {
-      "IdProduct": 97,
-      "ProductName": "Refil Elysée Blanc",
-      "PriceSale": "74.90",
-      "Promotion": true,
-      "ImagePath": "1738507975976-396847187-WhatsApp_Image_2025-02-02_at_10.35.37_(4).jpeg",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 96,
       "ProductName": "Refil Malbec",
       "PriceSale": "169.90",
@@ -2751,28 +2575,6 @@
       }
     },
     {
-      "IdProduct": 28,
-      "ProductName": "Egeo Blue",
-      "PriceSale": "154.90",
-      "Promotion": false,
-      "ImagePath": "1738432734811-119793599-a2e789643a252a2c9eb54be1307d2e79.jpg",
-      "IdCategory": 2,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Masculino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 26,
       "ProductName": "Portinari",
       "PriceSale": "189.90",
@@ -3033,72 +2835,6 @@
         "SuperCategory": {
           "SuperCategoryName": "Perfumaria",
           "IdSuperCategory": 1
-        }
-      }
-    },
-    {
-      "IdProduct": 390,
-      "ProductName": "Conjunto Luma",
-      "PriceSale": "90.00",
-      "Promotion": false,
-      "ImagePath": "1768692077981-654915453-jkhbgkyjftg.jpeg",
-      "IdCategory": 22,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": true,
-      "Category": {
-        "CategoryName": "Conjuntos",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 389,
-      "ProductName": "Conjunto Zoe",
-      "PriceSale": "90.00",
-      "Promotion": false,
-      "ImagePath": "1768692004645-992343814-hvjytf.jpeg",
-      "IdCategory": 22,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": true,
-      "Category": {
-        "CategoryName": "Conjuntos",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 388,
-      "ProductName": "Conjunto Anne",
-      "PriceSale": "90.00",
-      "Promotion": false,
-      "ImagePath": "1768691948093-357401806-bkuvyvhg.jpeg",
-      "IdCategory": 22,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": true,
-      "Category": {
-        "CategoryName": "Conjuntos",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
         }
       }
     },
