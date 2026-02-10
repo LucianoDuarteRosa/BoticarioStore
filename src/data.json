@@ -727,28 +727,6 @@
       }
     },
     {
-      "IdProduct": 328,
-      "ProductName": "Sabonete Orquídea Noire",
-      "PriceSale": "57.90",
-      "Promotion": false,
-      "ImagePath": "1760222633173-2793330-21a4bcbc-a93c-4a9a-9bf3-8fe72e44c1ec-bot-53392-nativa-spa-orquidea-noire-sabonete-liquido-frontal-01.webp",
-      "IdCategory": 1,
-      "P": false,
-      "M": false,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Feminino",
-        "IdSuperCategory": 1,
-        "SuperCategory": {
-          "SuperCategoryName": "Perfumaria",
-          "IdSuperCategory": 1
-        }
-      }
-    },
-    {
       "IdProduct": 326,
       "ProductName": "Splash Rosa e Algodão",
       "PriceSale": "89.90",
@@ -2839,18 +2817,84 @@
       }
     },
     {
-      "IdProduct": 387,
-      "ProductName": "Conjunto Yara",
+      "IdProduct": 390,
+      "ProductName": "Conjunto Ciclista",
       "PriceSale": "90.00",
       "Promotion": false,
-      "ImagePath": "1768691903793-896907291-iukjukl.jpeg",
+      "ImagePath": "1770761874915-596150374-ciclista.jpeg",
       "IdCategory": 22,
       "P": false,
       "M": true,
       "G": false,
       "GG": false,
       "XG": false,
-      "Launch": true,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Conjuntos",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 389,
+      "ProductName": "Conjunto Cristal",
+      "PriceSale": "90.00",
+      "Promotion": false,
+      "ImagePath": "1770761842846-927575896-cristal.jpeg",
+      "IdCategory": 22,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Conjuntos",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 388,
+      "ProductName": "Conjunto Laura",
+      "PriceSale": "90.00",
+      "Promotion": false,
+      "ImagePath": "1770761812276-745205562-laura.jpeg",
+      "IdCategory": 22,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Conjuntos",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 387,
+      "ProductName": "Conjunto Yara",
+      "PriceSale": "90.00",
+      "Promotion": false,
+      "ImagePath": "1770761776281-777021715-yara.jpeg",
+      "IdCategory": 22,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
       "Category": {
         "CategoryName": "Conjuntos",
         "IdSuperCategory": 2,
