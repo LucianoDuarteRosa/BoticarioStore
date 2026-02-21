@@ -2817,6 +2817,94 @@
       }
     },
     {
+      "IdProduct": 394,
+      "ProductName": "Calça ADMA Ref 2629",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1771694978869-63163371-dfd,.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 393,
+      "ProductName": "Short ADMA Ref 2631",
+      "PriceSale": "69.90",
+      "Promotion": false,
+      "ImagePath": "1771694940896-588980154-fjh.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 392,
+      "ProductName": "Top ADMA Ref 2628",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1771694905763-278993260-jkhg.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 391,
+      "ProductName": "Conjunto Zoe",
+      "PriceSale": "90.00",
+      "Promotion": false,
+      "ImagePath": "1771692722514-449465770-zoe_preto.jpeg",
+      "IdCategory": 22,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Conjuntos",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 390,
       "ProductName": "Conjunto Ciclista",
       "PriceSale": "90.00",
@@ -2883,12 +2971,12 @@
       }
     },
     {
-      "IdProduct": 387,
-      "ProductName": "Conjunto Yara",
-      "PriceSale": "90.00",
+      "IdProduct": 386,
+      "ProductName": "Top Gabi",
+      "PriceSale": "49.90",
       "Promotion": false,
-      "ImagePath": "1770761776281-777021715-yara.jpeg",
-      "IdCategory": 22,
+      "ImagePath": "1771692569579-137152874-nbhgv.jpeg",
+      "IdCategory": 17,
       "P": false,
       "M": true,
       "G": false,
@@ -2896,29 +2984,7 @@
       "XG": false,
       "Launch": false,
       "Category": {
-        "CategoryName": "Conjuntos",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 386,
-      "ProductName": "Conjunto Gabi",
-      "PriceSale": "125.00",
-      "Promotion": false,
-      "ImagePath": "1768691831250-94196554-jkhfg.jpeg",
-      "IdCategory": 22,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": true,
-      "Category": {
-        "CategoryName": "Conjuntos",
+        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
@@ -2956,7 +3022,7 @@
       "ImagePath": "1763316031595-54790579-18.jpeg",
       "IdCategory": 19,
       "P": true,
-      "M": true,
+      "M": false,
       "G": true,
       "GG": true,
       "XG": false,
@@ -3711,28 +3777,6 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
-      "IdProduct": 192,
-      "ProductName": "Top ADMA Ref 1004",
-      "PriceSale": "59.90",
-      "Promotion": false,
-      "ImagePath": "1763599911386-776990627-WhatsApp_Image_2025-11-19_at_21.35.50.jpeg",
-      "IdCategory": 17,
-      "P": false,
-      "M": false,
-      "G": true,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
