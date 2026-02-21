@@ -2817,6 +2817,94 @@
       }
     },
     {
+      "IdProduct": 398,
+      "ProductName": "Calça ADMA Ref 2618",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1771696259270-27031404-jbvcfr.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 397,
+      "ProductName": "Top ADMA Ref 2617",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1771696232517-144147527-gvhb.jpeg",
+      "IdCategory": 17,
+      "P": false,
+      "M": true,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 396,
+      "ProductName": "Calça ADMA Ref 2616",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1771696202136-981408855-sfgh.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 395,
+      "ProductName": "Top ADMA Ref 2615",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1771696170603-773737222-jhgf.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": true,
+      "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 394,
       "ProductName": "Calça ADMA Ref 2629",
       "PriceSale": "109.90",
