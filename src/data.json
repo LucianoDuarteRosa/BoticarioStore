@@ -2817,6 +2817,28 @@
       }
     },
     {
+      "IdProduct": 399,
+      "ProductName": "Macaquinho cor preto",
+      "PriceSale": "120.00",
+      "Promotion": false,
+      "ImagePath": "1771696618397-562495525-macaquinho.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 398,
       "ProductName": "Calça ADMA Ref 2618",
       "PriceSale": "109.90",
