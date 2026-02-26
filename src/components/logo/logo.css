@@ -30,26 +30,9 @@
     padding-right: 0.4rem;
 }
 
-.nome-mark__hat {
-    position: absolute;
-    top: -1.6rem;
-    left: -140%;
-    width: 3rem;
-    height: auto;
-    transform: translateX(-10%) rotate(-10deg);
-    transform-origin: center;
-    pointer-events: none;
-    user-select: none;
-}
-
 @media (max-width: 970px) {
     .nome-mark {
         font-size: 1.2rem;
-    }
-
-    .nome-mark__hat {
-        top: -1.25rem;
-        width: 2.4rem;
     }
 }
 
@@ -62,10 +45,6 @@
         font-size: 1rem;
     }
 
-    .nome-mark__hat {
-        top: -1rem;
-        width: 2rem;
-    }
 }
 
 @media (max-width: 630px) {
@@ -75,11 +54,6 @@
 
     .nome-mark {
         font-size: 1rem;
-    }
-
-    .nome-mark__hat {
-        top: -0.85rem;
-        width: 1.8rem;
     }
 }
 
@@ -93,8 +67,4 @@
         font-size: 1rem;
     }
 
-    .nome-mark__hat {
-        top: -0.75rem;
-        width: 1.6rem;
-    }
 }
