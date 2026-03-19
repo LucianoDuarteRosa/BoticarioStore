@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from "react";
+import { useState, useEffect } from "react";
 import SearchBar from "./components/search/searchbar";
 import ProductCard from "./components/product/productCard";
 import Sidebar from "./components/sidebar/sidebar";
@@ -11,38 +11,12 @@ import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import './index.css';
 
-const CONFETTI_COLORS = [
-  "#FF6B6B",
-  "#FFD166",
-  "#06D6A0",
-  "#4ECDC4",
-  "#A29BFE",
-  "#F75C03",
-  "#F15BB5",
-];
-
 const App = () => {
   const [products, setProducts] = useState([]);
   const [categories, setCategories] = useState([]);
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [searchValue, setSearchValue] = useState("");
   const [drawerOpen, setDrawerOpen] = useState(false);
-
-  const confettiPieces = useMemo(
-    () =>
-      Array.from({ length: 120 }, (_, index) => ({
-        id: index,
-        left: `${Math.random() * 100}%`,
-        animationDelay: `${Math.random() * 12}s`,
-        animationDuration: `${10 + Math.random() * 10}s`,
-        width: `${4 + Math.random() * 8}px`,
-        height: `${8 + Math.random() * 18}px`,
-        color: CONFETTI_COLORS[Math.floor(Math.random() * CONFETTI_COLORS.length)],
-        borderRadius: Math.random() > 0.5 ? "999px" : "4px",
-        drift: `${-40 + Math.random() * 80}px`,
-      })),
-    []
-  );
 
   const toggleDrawer = (open) => (event) => {
     if (event.type === "keydown" && (event.key === "Tab" || event.key === "Shift")) {
@@ -120,29 +94,6 @@ const App = () => {
     <Container className="app-container festive-theme"
       maxWidth={false}
       disableGutters>
-      <div className="confetti-wrapper" aria-hidden="true">
-        {confettiPieces.map(({ id, left, animationDelay, animationDuration, width, height, color, borderRadius, drift }) => (
-          <span
-            key={id}
-            className="confetti-piece"
-            style={{
-              left,
-              animationDelay,
-              animationDuration,
-              width,
-              height,
-              backgroundColor: color,
-              borderRadius,
-              "--confetti-drift": drift,
-            }}
-          />
-        ))}
-      </div>
-
-      <div className="sleigh-runner-2" aria-hidden="true" />
-      <div className="sleigh-runner-3" aria-hidden="true" />
-      <div className="sleigh-runner-4" aria-hidden="true" />
-      <div className="sleigh-runner-1" aria-hidden="true" />
 
       <Box className="content-shell">
         {/* Topo com barra de pesquisa, logo e menu hambúrguer */}
