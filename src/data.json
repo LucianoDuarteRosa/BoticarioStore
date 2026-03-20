@@ -2817,6 +2817,50 @@
       }
     },
     {
+      "IdProduct": 402,
+      "ProductName": "Conjunto Safira",
+      "PriceSale": "90.00",
+      "Promotion": false,
+      "ImagePath": "1774041271446-764135411-safira_marrom.jpeg",
+      "IdCategory": 22,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Conjuntos",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 401,
+      "ProductName": "Conjunto Bruna",
+      "PriceSale": "90.00",
+      "Promotion": false,
+      "ImagePath": "1774041179360-732627852-BRUNA_VERDE.jpeg",
+      "IdCategory": 22,
+      "P": false,
+      "M": false,
+      "G": true,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Conjuntos",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 400,
       "ProductName": "Macaquinho cor vinho",
       "PriceSale": "120.00",
@@ -3046,6 +3090,28 @@
       "P": false,
       "M": true,
       "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Conjuntos",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 387,
+      "ProductName": "Conjunto Maya",
+      "PriceSale": "90.00",
+      "Promotion": false,
+      "ImagePath": "1774041132698-231801319-MAYA.jpeg",
+      "IdCategory": 22,
+      "P": false,
+      "M": false,
+      "G": true,
       "GG": false,
       "XG": false,
       "Launch": false,
