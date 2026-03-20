@@ -3081,28 +3081,6 @@
       }
     },
     {
-      "IdProduct": 388,
-      "ProductName": "Conjunto Laura",
-      "PriceSale": "90.00",
-      "Promotion": false,
-      "ImagePath": "1770761812276-745205562-laura.jpeg",
-      "IdCategory": 22,
-      "P": false,
-      "M": true,
-      "G": false,
-      "GG": false,
-      "XG": false,
-      "Launch": false,
-      "Category": {
-        "CategoryName": "Conjuntos",
-        "IdSuperCategory": 2,
-        "SuperCategory": {
-          "SuperCategoryName": "Moda Fitness",
-          "IdSuperCategory": 2
-        }
-      }
-    },
-    {
       "IdProduct": 387,
       "ProductName": "Conjunto Maya",
       "PriceSale": "90.00",
@@ -3279,6 +3257,28 @@
       }
     },
     {
+      "IdProduct": 368,
+      "ProductName": "Blusa ADMA Ref 2654",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1774041739080-305125303-2654.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 367,
       "ProductName": "Camisa Cinza ADMA Ref 1103",
       "PriceSale": "59.90",
@@ -3333,6 +3333,50 @@
       "M": false,
       "G": true,
       "GG": true,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 291,
+      "ProductName": "Blusa ADMA Ref 2648",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1774041816860-623656169-2648.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 289,
+      "ProductName": "Short ADMA Ref 2649",
+      "PriceSale": "74.90",
+      "Promotion": false,
+      "ImagePath": "1774041860197-443440571-2649.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": true,
+      "G": true,
+      "GG": false,
       "XG": false,
       "Launch": false,
       "Category": {
@@ -3741,6 +3785,50 @@
       }
     },
     {
+      "IdProduct": 201,
+      "ProductName": "Calça ADMA Ref 2647 casual",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1774041690093-179140496-2647_azul.jpeg",
+      "IdCategory": 18,
+      "P": false,
+      "M": true,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 197,
+      "ProductName": "Calça ADMA Ref 2633",
+      "PriceSale": "109.90",
+      "Promotion": false,
+      "ImagePath": "1774041583324-926178877-2633.jpeg",
+      "IdCategory": 18,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
       "IdProduct": 191,
       "ProductName": "Calça ADMA Ref 1305",
       "PriceSale": "109.90",
@@ -3887,6 +3975,28 @@
       "Launch": false,
       "Category": {
         "CategoryName": "Shorts e Calças Feminino",
+        "IdSuperCategory": 2,
+        "SuperCategory": {
+          "SuperCategoryName": "Moda Fitness",
+          "IdSuperCategory": 2
+        }
+      }
+    },
+    {
+      "IdProduct": 182,
+      "ProductName": "Top ADMA Ref 2605",
+      "PriceSale": "59.90",
+      "Promotion": false,
+      "ImagePath": "1774041531919-650351710-bgfserftg.jpeg",
+      "IdCategory": 17,
+      "P": true,
+      "M": false,
+      "G": false,
+      "GG": false,
+      "XG": false,
+      "Launch": false,
+      "Category": {
+        "CategoryName": "Tops e Blusas Feminino",
         "IdSuperCategory": 2,
         "SuperCategory": {
           "SuperCategoryName": "Moda Fitness",
