@@ -4,7 +4,6 @@ import ProductCard from "./components/product/productCard";
 import Sidebar from "./components/sidebar/sidebar";
 import Links from "./components/links/links";
 import Logo from "./components/logo/logo";
-import productsData from "./data.json";
 import { Grid, Container, Box, IconButton, Drawer } from "@mui/material";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
@@ -17,6 +16,8 @@ const App = () => {
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [searchValue, setSearchValue] = useState("");
   const [drawerOpen, setDrawerOpen] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   const toggleDrawer = (open) => (event) => {
     if (event.type === "keydown" && (event.key === "Tab" || event.key === "Shift")) {
@@ -33,34 +34,42 @@ const App = () => {
         .map(({ value }) => value);
     };
 
-    setProducts(shuffleArray(productsData.products));
+    const fetchProdutos = async () => {
+      try {
+        setLoading(true);
+        const response = await fetch(`${import.meta.env.VITE_API_URL}/vitrine/produtos`);
+        if (!response.ok) throw new Error(`Erro ao carregar produtos: ${response.status}`);
+        const data = await response.json();
 
-    const categoriesSet = new Map();
+        setProducts(shuffleArray(data));
 
-    productsData.products.forEach((product) => {
-      const key = `${product.Category.CategoryName}-${product.Category.SuperCategoryName}`;
-      if (!categoriesSet.has(key)) {
-        categoriesSet.set(key, {
-          CategoryName: product.Category.CategoryName,
-          SuperCategoryName: product.Category.SuperCategory.SuperCategoryName,
+        const categoriesSet = new Map();
+        data.forEach((product) => {
+          const key = `${product.Category.CategoryName}-${product.Category.SuperCategory.SuperCategoryName}`;
+          if (!categoriesSet.has(key)) {
+            categoriesSet.set(key, {
+              CategoryName: product.Category.CategoryName,
+              SuperCategoryName: product.Category.SuperCategory.SuperCategoryName,
+            });
+          }
         });
+
+        const groupedCategories = Array.from(categoriesSet.values()).reduce((acc, category) => {
+          const { SuperCategoryName, CategoryName } = category;
+          if (!acc[SuperCategoryName]) acc[SuperCategoryName] = [];
+          acc[SuperCategoryName].push(CategoryName);
+          return acc;
+        }, {});
+
+        setCategories(groupedCategories);
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setLoading(false);
       }
-    });
+    };
 
-    const categoriesArray = Array.from(categoriesSet.values());
-
-    const groupedCategories = categoriesArray.reduce((acc, category) => {
-      const { SuperCategoryName, CategoryName } = category;
-
-      if (!acc[SuperCategoryName]) {
-        acc[SuperCategoryName] = [];
-      }
-
-      acc[SuperCategoryName].push(CategoryName);
-      return acc;
-    }, {});
-
-    setCategories(groupedCategories);
+    fetchProdutos();
   }, []);
 
 
@@ -76,9 +85,7 @@ const App = () => {
     const isCategorySelected =
       !selectedCategories.length ||
       selectedCategories.includes(product.Category.CategoryName) ||
-      (selectedCategories.includes("Promotion") && product.Promotion) ||
-      (selectedCategories.includes("Launch") && product.Launch)
-      ;
+      (selectedCategories.includes("Promotion") && product.Promotion);
 
     return isCategorySelected && product.ProductName.toLowerCase().includes(searchValue.toLowerCase());
   });
@@ -89,6 +96,14 @@ const App = () => {
   const email = "lucianoduarterosa@hotmail.com";
   const subject = "Desenvolvimento de site";
   const body = "Olá, gostaria de saber mais informações.";
+
+  if (error) {
+    return (
+      <Container maxWidth={false} disableGutters sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '100vh' }}>
+        <p style={{ color: '#c00', fontSize: '1.1rem' }}>Não foi possível carregar os produtos. Tente novamente mais tarde.</p>
+      </Container>
+    );
+  }
 
   return (
     <Container className="app-container festive-theme"
@@ -163,11 +178,14 @@ const App = () => {
             {/* Cards de produtos */}
             <Grid className="products" item xs={11} sm={8}>
               <Grid container spacing={2}>
-                {filteredProducts.map((product) => (
-                  <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
-                    <ProductCard product={product} />
-                  </Grid>
-                ))}
+                {loading
+                  ? <Grid item xs={12}><p style={{ padding: '2rem', textAlign: 'center' }}>Carregando produtos...</p></Grid>
+                  : filteredProducts.map((product) => (
+                    <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
+                      <ProductCard product={product} />
+                    </Grid>
+                  ))
+                }
               </Grid>
             </Grid>
           </Grid>

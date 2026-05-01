@@ -13,14 +13,7 @@ const Sidebar = ({ categories, selectedCategories, onCategoryChange }) => (
                 />
                 Promoção
             </label>
-            <label className="category-item">
-                <input
-                    type="checkbox"
-                    checked={selectedCategories.includes("Launch")}
-                    onChange={() => onCategoryChange("Launch")}
-                />
-                Lançamento
-            </label>
+
         </div>
         <div className="category-list">
             {Object.entries(categories).map(([superCategory, categories]) => (

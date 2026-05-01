@@ -1,8 +1,7 @@
-import dataJson from "../../data.json";
 import "./logo.css";
 
 const Logo = () => {
-  const rawTitle = dataJson?.config?.Title ?? "";
+  const rawTitle = import.meta.env.VITE_TITLE ?? "";
   const titleParts = rawTitle.trim().split(/\s+/).filter(Boolean);
   const lastWord = titleParts.pop() ?? "";
   const leadingText = titleParts.join(" ");

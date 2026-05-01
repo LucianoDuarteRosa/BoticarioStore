@@ -1,12 +1,11 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faInstagram, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
-import dataJson from "../../data.json";
 import './links.css';
 
 const Links = () => {
     const whatsappMessage = `Olá! Gostaria de saber mais sobre os produtos. Poderia me ajudar?`;
-    const whatsappUrl = `https://wa.me/${dataJson.config.WhatsApp}?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/${import.meta.env.VITE_WHATSAPP}?text=${encodeURIComponent(whatsappMessage)}`;
     return (
         <div className="social-links">
             <div>
@@ -15,17 +14,16 @@ const Links = () => {
             </div>
 
             <div className="social-icons">
-                {dataJson.config.Facebook !== '' ?
-                    <a href={dataJson.config.Facebook} target="_blank" rel="noopener noreferrer">
+                {import.meta.env.VITE_FACEBOOK ? (
+                    <a href={import.meta.env.VITE_FACEBOOK} target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon icon={faFacebook} className="social-icon" />
-                    </a> : ''
-                }
-                {dataJson.config.Instagram !== '' ?
-                    <a href={dataJson.config.Instagram} target="_blank" rel="noopener noreferrer">
+                    </a>
+                ) : null}
+                {import.meta.env.VITE_INSTAGRAM ? (
+                    <a href={import.meta.env.VITE_INSTAGRAM} target="_blank" rel="noopener noreferrer">
                         <FontAwesomeIcon icon={faInstagram} className="social-icon" />
-                    </a> : ''
-
-                }
+                    </a>
+                ) : null}
                 <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faWhatsapp} className="social-icon" />
                 </a>

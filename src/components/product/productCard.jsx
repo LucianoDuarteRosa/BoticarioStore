@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import { DialogContentText, DialogContent, DialogActions, Button, Dialog, CardMedia, IconButton } from "@mui/material";
-import dataJson from "../../data.json";
 import "./productCard.css";
 
 // Componente separado para exibir imagens
@@ -11,7 +10,7 @@ const ImageDialog = ({ open, handleClose, product, clothingSizes }) => (
         <DialogContent className="dialog-full">
             <DialogContentText>
                 {product.Promotion && <div className="promotion-banner-dialog">Promoção</div>}
-                {product.Category?.SuperCategory?.IdSuperCategory === 2 && clothingSizes.length > 0 && (
+                {product.VariosTamanhos && clothingSizes.length > 0 && (
                     <div className="product-size">{clothingSizes}</div>
                 )}
                 <div className="product-card-content">
@@ -45,7 +44,7 @@ const ProductCard = ({ product }) => {
 
     // Definir a URL do WhatsApp
     const whatsappMessage = `Olá! Gostaria de saber mais sobre o produto: ${product.ProductName} - Valor: R$${Number.parseFloat(product.PriceSale).toFixed(2).replace('.', ',')}.`;
-    const whatsappUrl = `https://wa.me/${dataJson.config.WhatsApp}?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/${import.meta.env.VITE_WHATSAPP}?text=${encodeURIComponent(whatsappMessage)}`;
 
     // Exibir tamanhos disponíveis (se aplicável)
     const clothingSizes = Object.entries(product)
@@ -56,12 +55,12 @@ const ProductCard = ({ product }) => {
         <div className="product-card">
             <div className="product-card-content">
                 {product.Promotion && <div className="promotion-banner">Promoção</div>}
-                {product.Category?.SuperCategory?.IdSuperCategory === 2 && clothingSizes.length > 0 && (
+                {product.VariosTamanhos && clothingSizes.length > 0 && (
                     <div className="clothing-banner">{clothingSizes}</div>
                 )}
 
                 <IconButton className="img-product-icon" onClick={handleOpenDialog}>
-                    <CardMedia className="img-product" component="img" image={product.ImagePath} alt="imagem do produto" />
+                    <CardMedia className="img-product" component="img" image={product.ImagePath} alt="imagem do produto" loading="lazy" />
                 </IconButton>
 
                 <div className="product-info">
