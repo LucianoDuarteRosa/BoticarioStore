@@ -96,10 +96,6 @@ body {
     animation-delay: var(--float-delay);
 }
 
-.products {
-    padding: 0.5rem;
-}
-
 @keyframes confetti-fall {
     0% {
         transform: translate3d(0, -12vh, 0) rotate(0deg);

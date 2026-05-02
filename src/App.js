@@ -116,7 +116,7 @@ const App = () => {
         top: 20,
         left: 25,
         zIndex: 1300,
-        transform: drawerOpen ? "translateY(-80px)" : "translateY(0)",
+        transform: drawerOpen ? "translateX(-80px)" : "translateX(0)",
         transition: "transform 0.3s ease, opacity 0.3s ease",
       }}>
         <IconButton
@@ -166,8 +166,8 @@ const App = () => {
           </Grid>
 
           {/* Coluna direita: Barra de pesquisa + Cards */}
-          <Grid className="products" item xs={12} md={9}>
-            <Box fullWidth mb={2}>
+          <Grid item xs={12} md={9}>
+            <Box  mb={2}>
               <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
             </Box>
             <Grid container spacing={2}>
