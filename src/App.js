@@ -5,6 +5,7 @@ import Sidebar from "./components/sidebar/sidebar";
 import Links from "./components/links/links";
 import Logo from "./components/logo/logo";
 import { Grid, Container, Box, IconButton, Drawer } from "@mui/material";
+import ProductCardSkeleton from "./components/product/ProductCardSkeleton";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
@@ -106,39 +107,29 @@ const App = () => {
   }
 
   return (
-    <Container className="app-container festive-theme"
-      maxWidth={false}
-      disableGutters>
+    <Container className="app-container" maxWidth={false} disableGutters>
+
+      {/* Hambúrguer - fora do content-shell para position:fixed funcionar corretamente */}
+      <Box sx={{
+        display: { xs: "flex", md: "none" },
+        position: "fixed",
+        top: 20,
+        left: 25,
+        zIndex: 1300,
+        transform: drawerOpen ? "translateY(-80px)" : "translateY(0)",
+        transition: "transform 0.3s ease, opacity 0.3s ease",
+      }}>
+        <IconButton
+          style={{ color: "white", background: "rgba(12,18,32,0.45)", backdropFilter: "blur(8px)", borderRadius: 8 }}
+          onClick={toggleDrawer(true)}
+        >
+          <FontAwesomeIcon icon={faBars} />
+        </IconButton>
+      </Box>
 
       <Box className="content-shell">
-        {/* Topo com barra de pesquisa, logo e menu hambúrguer */}
-        <Box
-          className="festive-nav"
-          display="flex"
-          justifyContent="space-between"
-          alignItems="center"
-        >
-          <Box sx={{ display: { xs: "none", sm: "block" } }}>
-            <Logo />
-          </Box>
 
-          {/* Ícone do menu hambúrguer - Apenas em telas pequenas */}
-          <Box sx={{ display: { xs: "block", sm: "none" } }}>
-            <IconButton
-              style={{ color: "white" }}
-              onClick={toggleDrawer(true)}
-            >
-              <FontAwesomeIcon icon={faBars} />
-            </IconButton>
-          </Box>
-
-          {/* Barra de pesquisa */}
-          <Box flexGrow={1}>
-            <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
-          </Box>
-        </Box>
-
-        {/* Menu hambúrguer lateral */}
+        {/* Drawer do menu hambúrguer */}
         <Drawer
           className="drawer"
           anchor="left"
@@ -146,9 +137,7 @@ const App = () => {
           onClose={toggleDrawer(false)}
         >
           <Box className="drawer-box">
-            <Box>
-              <Logo />
-            </Box>
+            <Logo />
             <Sidebar
               categories={categories}
               selectedCategories={selectedCategories}
@@ -158,38 +147,46 @@ const App = () => {
           </Box>
         </Drawer>
 
-        {/* Conteúdo principal */}
-        <Box>
-          <Grid container spacing={2}>
-            {/* Sidebar em telas grandes */}
-            <Grid
-              item
-              xs={3}
-              sx={{ display: { xs: "none", sm: "block" } }}
-            >
-              <Sidebar
-                categories={categories}
-                selectedCategories={selectedCategories}
-                onCategoryChange={handleCategoryChange}
-              />
-              <Links />
-            </Grid>
+        {/* Conteúdo principal: sidebar esquerda + cards direita */}
+        <Grid container spacing={2}>
 
-            {/* Cards de produtos */}
-            <Grid className="products" item xs={11} sm={8}>
-              <Grid container spacing={2}>
-                {loading
-                  ? <Grid item xs={12}><p style={{ padding: '2rem', textAlign: 'center' }}>Carregando produtos...</p></Grid>
-                  : filteredProducts.map((product) => (
-                    <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
-                      <ProductCard product={product} />
-                    </Grid>
-                  ))
-                }
-              </Grid>
+          {/* Coluna esquerda: Logo + Categorias + Links — visível só em md+ */}
+          <Grid
+            item
+            md={3}
+            sx={{ display: { xs: "none", md: "flex" }, flexDirection: "column" }}
+          >
+            <Logo />
+            <Sidebar
+              categories={categories}
+              selectedCategories={selectedCategories}
+              onCategoryChange={handleCategoryChange}
+            />
+            <Links />
+          </Grid>
+
+          {/* Coluna direita: Barra de pesquisa + Cards */}
+          <Grid className="products" item xs={12} md={9}>
+            <Box fullWidth mb={2}>
+              <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
+            </Box>
+            <Grid container spacing={2}>
+              {loading
+                ? Array.from({ length: 9 }).map((_, i) => (
+                  <Grid item xs={6} sm={6} md={4} key={i}>
+                    <ProductCardSkeleton />
+                  </Grid>
+                ))
+                : filteredProducts.map((product) => (
+                  <Grid item xs={6} sm={6} md={4} key={product.IdProduct}>
+                    <ProductCard product={product} />
+                  </Grid>
+                ))
+              }
             </Grid>
           </Grid>
-        </Box>
+
+        </Grid>
         <Box className="footer">
           <p>© 2025 - Luciano Duarte. Contato:
             <span>
