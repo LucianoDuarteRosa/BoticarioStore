@@ -1,6 +1,6 @@
 import './sidebar.css';
 
-const Sidebar = ({ categories, selectedCategories, onCategoryChange }) => (
+const Sidebar = ({ categories, selectedCategories, promotionFilterKey, onCategoryChange }) => (
     <div className="sidebar">
         <h1 className="title-category">Categorias</h1>
         <h1 className="title-super-category">Ofertas</h1>
@@ -8,25 +8,25 @@ const Sidebar = ({ categories, selectedCategories, onCategoryChange }) => (
             <label className="category-item">
                 <input
                     type="checkbox"
-                    checked={selectedCategories.includes("Promotion")}
-                    onChange={() => onCategoryChange("Promotion")}
+                    checked={selectedCategories.includes(promotionFilterKey)}
+                    onChange={() => onCategoryChange(promotionFilterKey)}
                 />
                 Promoção
             </label>
 
         </div>
         <div className="category-list">
-            {Object.entries(categories).map(([superCategory, categories]) => (
+            {Object.entries(categories).map(([superCategory, categoriesList]) => (
                 <div key={superCategory}>
                     <h2 className="title-super-category">{superCategory}</h2>
-                    {categories.map((category) => (
-                        <label key={category} className="category-item">
+                    {categoriesList.map((category) => (
+                        <label key={category.IdCategory} className="category-item">
                             <input
                                 type="checkbox"
-                                checked={selectedCategories.includes(category)}
-                                onChange={() => onCategoryChange(category)}
+                                checked={selectedCategories.includes(category.IdCategory)}
+                                onChange={() => onCategoryChange(category.IdCategory)}
                             />
-                            {category}
+                            {category.CategoryName}
                         </label>
                     ))}
                 </div>

@@ -11,6 +11,8 @@ import { faWhatsapp, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import './index.css';
 
+const PROMOTION_FILTER_KEY = "Promotion";
+
 const App = () => {
   const [products, setProducts] = useState([]);
   const [categories, setCategories] = useState([]);
@@ -46,9 +48,10 @@ const App = () => {
 
         const categoriesSet = new Map();
         data.forEach((product) => {
-          const key = `${product.Category.CategoryName}-${product.Category.SuperCategory.SuperCategoryName}`;
+          const key = product.IdCategory;
           if (!categoriesSet.has(key)) {
             categoriesSet.set(key, {
+              IdCategory: product.IdCategory,
               CategoryName: product.Category.CategoryName,
               SuperCategoryName: product.Category.SuperCategory.SuperCategoryName,
             });
@@ -56,9 +59,12 @@ const App = () => {
         });
 
         const groupedCategories = Array.from(categoriesSet.values()).reduce((acc, category) => {
-          const { SuperCategoryName, CategoryName } = category;
+          const { SuperCategoryName, CategoryName, IdCategory } = category;
           if (!acc[SuperCategoryName]) acc[SuperCategoryName] = [];
-          acc[SuperCategoryName].push(CategoryName);
+          acc[SuperCategoryName].push({
+            IdCategory,
+            CategoryName,
+          });
           return acc;
         }, {});
 
@@ -74,19 +80,20 @@ const App = () => {
   }, []);
 
 
-  const handleCategoryChange = (category) => {
+  const handleCategoryChange = (categoryIdOrFilter) => {
     setSelectedCategories((prev) =>
-      prev.includes(category)
-        ? prev.filter((c) => c !== category)
-        : [...prev, category]
+      prev.includes(categoryIdOrFilter)
+        ? prev.filter((c) => c !== categoryIdOrFilter)
+        : [...prev, categoryIdOrFilter]
     );
   };
 
   const filteredProducts = products.filter((product) => {
+    const isPromotionSelected = selectedCategories.includes(PROMOTION_FILTER_KEY);
     const isCategorySelected =
       !selectedCategories.length ||
-      selectedCategories.includes(product.Category.CategoryName) ||
-      (selectedCategories.includes("Promotion") && product.Promotion);
+      selectedCategories.includes(product.IdCategory) ||
+      (isPromotionSelected && product.Promotion);
 
     return isCategorySelected && product.ProductName.toLowerCase().includes(searchValue.toLowerCase());
   });
@@ -141,6 +148,7 @@ const App = () => {
             <Sidebar
               categories={categories}
               selectedCategories={selectedCategories}
+              promotionFilterKey={PROMOTION_FILTER_KEY}
               onCategoryChange={handleCategoryChange}
             />
             <Links />
@@ -160,6 +168,7 @@ const App = () => {
             <Sidebar
               categories={categories}
               selectedCategories={selectedCategories}
+              promotionFilterKey={PROMOTION_FILTER_KEY}
               onCategoryChange={handleCategoryChange}
             />
             <Links />
@@ -167,7 +176,7 @@ const App = () => {
 
           {/* Coluna direita: Barra de pesquisa + Cards */}
           <Grid item xs={12} md={9}>
-            <Box  mb={2}>
+            <Box mb={2}>
               <SearchBar searchValue={searchValue} onSearchChange={setSearchValue} />
             </Box>
             <Grid container spacing={2}>
